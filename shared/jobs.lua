@@ -17,24 +17,86 @@ QBShared.Jobs = {
 		defaultDuty = true,
 		offDutyPay = false,
 		grades = {
-            ['0'] = {
-                name = 'Recruit',
+            ['0'] = { -- Los Santos Police Department (LSPD)
+                name = 'LSPD Cadet',
                 payment = 100
             },
 			['1'] = {
-                name = 'Officer',
+                name = 'LSPD Officer',
                 payment = 125
             },
-			['2'] = {
-                name = 'Sergeant',
+            ['2'] = {
+                name = 'LSPD SWAT',
                 payment = 150
             },
-			['3'] = {
-                name = 'Lieutenant',
-                payment = 175
+            ['3'] = {
+                name = 'LSPD CID',
+                payment = 150
             },
 			['4'] = {
-                name = 'Chief',
+                name = 'LSPD FTO',
+                payment = 150
+            },
+			['5'] = {
+                name = 'LSPD Supervisor',
+                payment = 175
+            },
+			['6'] = {
+                name = 'LSPD Head',
+				isboss = true,
+                payment = 200
+            },
+            ['7'] = { -- Blaine County Sheriffs Office (BCSO)
+                name = 'BCSO Cadet',
+                payment = 100
+            },
+			['8'] = {
+                name = 'BCSO Officer',
+                payment = 125
+            },
+            ['9'] = {
+                name = 'BCSO SRT',
+                payment = 150
+            },
+			['10'] = {
+                name = 'BCSO FTO',
+                payment = 150
+            },
+			['11'] = {
+                name = 'BCSO Supervisor',
+                payment = 175
+            },
+			['12'] = {
+                name = 'BCSO Head',
+				isboss = true,
+                payment = 200
+            },
+            ['13'] = { --San Andreas Highway Patrol (SAHP)
+                name = 'SAHP Cadet',
+                payment = 100
+            },
+			['14'] = {
+                name = 'SAHP Officer',
+                payment = 125
+            },
+            ['15'] = {
+                name = 'SAHP SWAT',
+                payment = 150
+            },
+            ['16'] = {
+                name = 'SAHP CID',
+                payment = 150
+            },
+			['17'] = {
+                name = 'SAHP FTO',
+                payment = 150
+            },
+			['18'] = {
+                name = 'SAHP Supervisor',
+                payment = 175
+            },
+			['19'] = {
+                name = 'SAHP Head',
 				isboss = true,
                 payment = 200
             },
@@ -260,7 +322,7 @@ QBShared.Jobs = {
             },
         },
 	},
-	['firefighter'] = {
+	['lawyer'] = {
 		label = 'Law Firm',
 		defaultDuty = true,
 		offDutyPay = false,
@@ -372,17 +434,6 @@ QBShared.Jobs = {
         grades = {
             ['0'] = {
                 name = 'Engineer',
-                payment = 150
-            },
-        },
-    },
-    ['slaughterer'] = {
-        label = 'Sandy Shores Slaughterhouse', 
-        defaultDuty = true,
-        offDutyPay = false,
-        grades = {
-            ['0'] = {
-                name = 'Employee',
                 payment = 150
             },
         },
