@@ -18,7 +18,7 @@ QBShared.Jobs = {
 		offDutyPay = false,
 		grades = {
             ['0'] = { -- Los Santos Police Department (LSPD)
-                name = 'LSPD Cadet',
+                name = 'LSPD Probationary Officer',
                 payment = 100
             },
 			['1'] = {
@@ -26,76 +26,88 @@ QBShared.Jobs = {
                 payment = 125
             },
             ['2'] = {
-                name = 'LSPD SWAT',
-                payment = 150
+                name = 'LSPD Senior Officer',
+                payment = 125
             },
             ['3'] = {
-                name = 'LSPD CID',
+                name = 'LSPD Corporal',
                 payment = 150
             },
 			['4'] = {
-                name = 'LSPD FTO',
+                name = 'LSPD Sergeant',
                 payment = 150
             },
 			['5'] = {
-                name = 'LSPD Supervisor',
+                name = 'LSPD Lieutenant',
+                payment = 150
+            },
+            ['6'] = {
+                name = 'LSPD Captain',
                 payment = 175
             },
-			['6'] = {
-                name = 'LSPD Head',
+            ['7'] = {
+                name = 'LSPD Major',
+                payment = 175
+            },
+            ['8'] = {
+                name = 'LSPD Deputy Chief',
+                payment = 175
+            },
+			['9'] = {
+                name = 'LSPD Chief',
 				isboss = true,
                 payment = 200
             },
-            ['7'] = { -- Blaine County Sheriffs Office (BCSO)
+            ['10'] = { -- Blaine County Sheriffs Office (BCSO)
                 name = 'BCSO Cadet',
                 payment = 100
             },
-			['8'] = {
+			['11'] = {
                 name = 'BCSO Officer',
                 payment = 125
             },
-            ['9'] = {
+            ['12'] = {
                 name = 'BCSO SRT',
                 payment = 150
             },
-			['10'] = {
+			['13'] = {
                 name = 'BCSO FTO',
                 payment = 150
             },
-			['11'] = {
+			['14'] = {
                 name = 'BCSO Supervisor',
                 payment = 175
             },
-			['12'] = {
+			['15'] = {
                 name = 'BCSO Head',
 				isboss = true,
                 payment = 200
             },
-            ['13'] = { --San Andreas Highway Patrol (SAHP)
+            ['16'] = { --San Andreas Highway Patrol (SAHP)
                 name = 'SAHP Cadet',
                 payment = 100
             },
-			['14'] = {
+			['17'] = {
                 name = 'SAHP Officer',
                 payment = 125
             },
-            ['15'] = {
+            ['18'] = {
                 name = 'SAHP SWAT',
                 payment = 150
             },
-            ['16'] = {
+            ['19'] = {
                 name = 'SAHP CID',
                 payment = 150
             },
-			['17'] = {
+			['20'] = {
                 name = 'SAHP FTO',
                 payment = 150
             },
-			['18'] = {
+			['21'] = {
                 name = 'SAHP Supervisor',
                 payment = 175
             },
-			['19'] = {
+			['22'] = {
                 name = 'SAHP Head',
 				isboss = true,
                 payment = 200
