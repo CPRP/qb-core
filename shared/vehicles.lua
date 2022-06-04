@@ -697,7 +697,7 @@ QBShared.Vehicles = {
 		['price'] = 9999999,
 		['category'] = 'super',
 		['hash'] = `oppressor`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['pcj'] = {
 		['name'] = 'PCJ-600',
@@ -2295,7 +2295,7 @@ QBShared.Vehicles = {
 		['price'] = 53000,
 		['category'] = 'sports',
 		['hash'] = `alpha`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['banshee'] = {
 		['name'] = 'Banshee',
@@ -2304,7 +2304,7 @@ QBShared.Vehicles = {
 		['price'] = 56000,
 		['category'] = 'sports',
 		['hash'] = `banshee`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['bestiagts'] = {
 		['name'] = 'Bestia GTS',
@@ -2313,7 +2313,7 @@ QBShared.Vehicles = {
 		['price'] = 37000,
 		['category'] = 'sports',
 		['hash'] = `bestiagts`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['blista2'] = {
 		['name'] = 'Blista Compact',
@@ -2340,7 +2340,7 @@ QBShared.Vehicles = {
 		['price'] = 18750,
 		['category'] = 'sports',
 		['hash'] = `buffalo`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['buffalo2'] = {
 		['name'] = 'Buffalo S',
@@ -2349,7 +2349,7 @@ QBShared.Vehicles = {
 		['price'] = 24500,
 		['category'] = 'sports',
 		['hash'] = `buffalo2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['carbonizzare'] = {
 		['name'] = 'Carbonizzare',
@@ -2358,7 +2358,7 @@ QBShared.Vehicles = {
 		['price'] = 155000,
 		['category'] = 'sports',
 		['hash'] = `carbonizzare`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['comet2'] = {
 		['name'] = 'Comet',
@@ -2367,7 +2367,7 @@ QBShared.Vehicles = {
 		['price'] = 130000,
 		['category'] = 'sports',
 		['hash'] = `comet2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['comet3'] = {
 		['name'] = 'Comet Retro Custom',
@@ -2376,7 +2376,7 @@ QBShared.Vehicles = {
 		['price'] = 175000,
 		['category'] = 'sports',
 		['hash'] = `comet3`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['comet4'] = {
 		['name'] = 'Comet Safari',
@@ -2385,7 +2385,7 @@ QBShared.Vehicles = {
 		['price'] = 110000,
 		['category'] = 'sports',
 		['hash'] = `comet4`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['comet5'] = {
 		['name'] = 'Comet SR',
@@ -2394,7 +2394,7 @@ QBShared.Vehicles = {
 		['price'] = 155000,
 		['category'] = 'sports',
 		['hash'] = `comet5`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['coquette'] = {
 		['name'] = 'Coquette',
@@ -2403,7 +2403,7 @@ QBShared.Vehicles = {
 		['price'] = 145000,
 		['category'] = 'sports',
 		['hash'] = `coquette`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['coquette2'] = {
 		['name'] = 'Coquette Classic',
@@ -2421,7 +2421,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'sports',
 		['hash'] = `coquette4`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['drafter'] = {							--DLC
 		['name'] = '8F Drafter',
@@ -2430,7 +2430,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'sports',
 		['hash'] = `drafter`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['deveste'] = {							--DLC
 		['name'] = 'Deveste',
@@ -2439,7 +2439,7 @@ QBShared.Vehicles = {
 		['price'] = 234000,
 		['category'] = 'super',
 		['hash'] = `deveste`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['elegy'] = {							--DLC
 		['name'] = 'Elegy Retro Custom',
@@ -2448,7 +2448,7 @@ QBShared.Vehicles = {
 		['price'] = 145000,
 		['category'] = 'sports',
 		['hash'] = `elegy`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['elegy2'] = {
 		['name'] = 'Elegy RH8',
@@ -2457,7 +2457,7 @@ QBShared.Vehicles = {
 		['price'] = 150000,
 		['category'] = 'sports',
 		['hash'] = `elegy2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['feltzer2'] = {
 		['name'] = 'Feltzer',
@@ -2466,7 +2466,7 @@ QBShared.Vehicles = {
 		['price'] = 97000,
 		['category'] = 'sports',
 		['hash'] = `feltzer2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['flashgt'] = {
 		['name'] = 'Flash GT',
@@ -2475,7 +2475,7 @@ QBShared.Vehicles = {
 		['price'] = 48000,
 		['category'] = 'sports',
 		['hash'] = `flashgt`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['furoregt'] = {
 		['name'] = 'Furore GT',
@@ -2484,7 +2484,7 @@ QBShared.Vehicles = {
 		['price'] = 78000,
 		['category'] = 'sports',
 		['hash'] = `furoregt`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['futo'] = {
 		['name'] = 'Futo',
@@ -2502,7 +2502,7 @@ QBShared.Vehicles = {
 		['price'] = 140000,
 		['category'] = 'sports',
 		['hash'] = `gb200`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['komoda'] = {
 		['name'] = 'Komoda',
@@ -2511,7 +2511,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'sports',
 		['hash'] = `komoda`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['imorgon'] = {
 		['name'] = 'Imorgon',
@@ -2520,7 +2520,7 @@ QBShared.Vehicles = {
 		['price'] = 120000,
 		['category'] = 'sports',
 		['hash'] = `imorgon`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['issi7'] = {							--DLC
 		['name'] = 'Issi Sport',
@@ -2538,7 +2538,7 @@ QBShared.Vehicles = {
 		['price'] = 260000,
 		['category'] = 'sports',
 		['hash'] = `italigto`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['jugular'] = {							--DLC
 		['name'] = 'Jugular',
@@ -2547,7 +2547,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'sports',
 		['hash'] = `jugular`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['jester'] = {
 		['name'] = 'Jester',
@@ -2556,7 +2556,7 @@ QBShared.Vehicles = {
 		['price'] = 132250,
 		['category'] = 'sports',
 		['hash'] = `jester`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['jester2'] = {
 		['name'] = 'Jester Racecar',
@@ -2565,7 +2565,7 @@ QBShared.Vehicles = {
 		['price'] = 210000,
 		['category'] = 'sports',
 		['hash'] = `jester2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['jester3'] = {
 		['name'] = 'Jester Classic',
@@ -2574,7 +2574,7 @@ QBShared.Vehicles = {
 		['price'] = 85000,
 		['category'] = 'sports',
 		['hash'] = `jester3`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['khamelion'] = {
 		['name'] = 'Khamelion',
@@ -2583,7 +2583,7 @@ QBShared.Vehicles = {
 		['price'] = 90000,
 		['category'] = 'sports',
 		['hash'] = `khamelion`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['kuruma'] = {
 		['name'] = 'Kuruma',
@@ -2592,7 +2592,7 @@ QBShared.Vehicles = {
 		['price'] = 72000,
 		['category'] = 'sports',
 		['hash'] = `kuruma`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['kuruma2'] = {
 		['name'] = 'kuruma2',
@@ -2601,7 +2601,7 @@ QBShared.Vehicles = {
 		['price'] = 72000,
 		['category'] = 'sports',
 		['hash'] = `kuruma2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['locust'] = {							--DLC
 		['name'] = 'Locust',
@@ -2610,7 +2610,7 @@ QBShared.Vehicles = {
 		['price'] = 200000,
 		['category'] = 'sports',
 		['hash'] = `locust`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['lynx'] = {
 		['name'] = 'Lynx',
@@ -2619,7 +2619,7 @@ QBShared.Vehicles = {
 		['price'] = 150000,
 		['category'] = 'sports',
 		['hash'] = `lynx`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['massacro'] = {
 		['name'] = 'Massacro',
@@ -2628,7 +2628,7 @@ QBShared.Vehicles = {
 		['price'] = 110000,
 		['category'] = 'sports',
 		['hash'] = `massacro`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['massacro2'] = {
 		['name'] = 'Massacro Racecar',
@@ -2637,7 +2637,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'sports',
 		['hash'] = `massacro2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['neo'] = {							--DLC
 		['name'] = 'Neo',
@@ -2646,7 +2646,7 @@ QBShared.Vehicles = {
 		['price'] = 230000,
 		['category'] = 'sports',
 		['hash'] = `neo`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['neon'] = {							--DLC
 		['name'] = 'Neon',
@@ -2655,7 +2655,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'sports',
 		['hash'] = `neon`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['ninef'] = {
 		['name'] = '9F',
@@ -2664,7 +2664,7 @@ QBShared.Vehicles = {
 		['price'] = 95000,
 		['category'] = 'sports',
 		['hash'] = `ninef`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['ninef2'] = {
 		['name'] = '9F Cabrio',
@@ -2673,7 +2673,7 @@ QBShared.Vehicles = {
 		['price'] = 105000,
 		['category'] = 'sports',
 		['hash'] = `ninef2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['omnis'] = {
 		['name'] = 'Omnis',
@@ -2682,7 +2682,7 @@ QBShared.Vehicles = {
 		['price'] = 90000,
 		['category'] = 'sports',
 		['hash'] = `omnis`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['paragon'] = {							--DLC
 		['name'] = 'Paragon',
@@ -2691,7 +2691,7 @@ QBShared.Vehicles = {
 		['price'] = 60000,
 		['category'] = 'sports',
 		['hash'] = `paragon`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['pariah'] = {
 		['name'] = 'Pariah',
@@ -2700,7 +2700,7 @@ QBShared.Vehicles = {
 		['price'] = 90000,
 		['category'] = 'sports',
 		['hash'] = `pariah`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['penumbra'] = {
 		['name'] = 'Penumbra',
@@ -2709,7 +2709,7 @@ QBShared.Vehicles = {
 		['price'] = 22000,
 		['category'] = 'sports',
 		['hash'] = `penumbra`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['penumbra2'] = {
 		['name'] = 'Penumbra FF',
@@ -2718,7 +2718,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'sports',
 		['hash'] = `penumbra2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['rapidgt'] = {
 		['name'] = 'Rapid GT',
@@ -2727,7 +2727,7 @@ QBShared.Vehicles = {
 		['price'] = 86000,
 		['category'] = 'sports',
 		['hash'] = `rapidgt`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['rapidgt2'] = {
 		['name'] = 'Rapid GT Convertible',
@@ -2736,7 +2736,7 @@ QBShared.Vehicles = {
 		['price'] = 92000,
 		['category'] = 'sports',
 		['hash'] = `rapidgt2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['raptor'] = {
 		['name'] = 'Raptor',
@@ -2745,7 +2745,7 @@ QBShared.Vehicles = {
 		['price'] = 90000,
 		['category'] = 'sports',
 		['hash'] = `raptor`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['revolter'] = {
 		['name'] = 'Revolter',
@@ -2754,7 +2754,7 @@ QBShared.Vehicles = {
 		['price'] = 95000,
 		['category'] = 'sports',
 		['hash'] = `revolter`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['ruston'] = {
 		['name'] = 'Ruston',
@@ -2763,7 +2763,7 @@ QBShared.Vehicles = {
 		['price'] = 130000,
 		['category'] = 'sports',
 		['hash'] = `ruston`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['schafter2'] = {
 		['name'] = 'Schafter',
@@ -2781,7 +2781,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'sports',
 		['hash'] = `schafter3`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['schafter4'] = {
 		['name'] = 'Schafter LWB',
@@ -2790,7 +2790,7 @@ QBShared.Vehicles = {
 		['price'] = 21000,
 		['category'] = 'sports',
 		['hash'] = `schafter4`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['schlagen'] = {							--DLC
 		['name'] = 'Schlagen GT',
@@ -2799,7 +2799,7 @@ QBShared.Vehicles = {
 		['price'] = 160000,
 		['category'] = 'sports',
 		['hash'] = `schlagen`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['schwarzer'] = {
 		['name'] = 'Schwartzer',
@@ -2808,7 +2808,7 @@ QBShared.Vehicles = {
 		['price'] = 47000,
 		['category'] = 'sports',
 		['hash'] = `schwarzer`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sentinel3'] = {
 		['name'] = 'Sentinel Classic',
@@ -2826,7 +2826,7 @@ QBShared.Vehicles = {
 		['price'] = 140000,
 		['category'] = 'sports',
 		['hash'] = `seven70`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['specter'] = {
 		['name'] = 'Specter',
@@ -2835,7 +2835,7 @@ QBShared.Vehicles = {
 		['price'] = 160000,
 		['category'] = 'sports',
 		['hash'] = `specter`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['streiter'] = {
 		['name'] = 'Streiter',
@@ -2844,7 +2844,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'sports',
 		['hash'] = `streiter`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sugoi'] = {
 		['name'] = 'Sugoi',
@@ -2853,7 +2853,7 @@ QBShared.Vehicles = {
 		['price'] = 85000,
 		['category'] = 'sports',
 		['hash'] = `sugoi`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sultan'] = {
 		['name'] = 'Sultan',
@@ -2862,7 +2862,7 @@ QBShared.Vehicles = {
 		['price'] = 50000,
 		['category'] = 'sports',
 		['hash'] = `sultan`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sultan2'] = {
 		['name'] = 'Sultan Custom',
@@ -2871,7 +2871,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'sports',
 		['hash'] = `sultan2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['surano'] = {
 		['name'] = 'Surano',
@@ -2880,7 +2880,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'sports',
 		['hash'] = `surano`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['tampa2'] = {
 		['name'] = 'Drift Tampa',
@@ -2898,7 +2898,7 @@ QBShared.Vehicles = {
 		['price'] = 65000,
 		['category'] = 'sports',
 		['hash'] = `tropos`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['verlierer2'] = {
 		['name'] = 'Verlierer',
@@ -2907,7 +2907,7 @@ QBShared.Vehicles = {
 		['price'] = 90500,
 		['category'] = 'sports',
 		['hash'] = `verlierer2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['vstr'] = {
 		['name'] = 'V-STR',
@@ -2916,7 +2916,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'sports',
 		['hash'] = `vstr`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['italirsx'] = {
 		['name'] = 'Itali RSX',
@@ -2925,7 +2925,7 @@ QBShared.Vehicles = {
 		['price'] = 260000,
 		['category'] = 'sports',
 		['hash'] = `italirsx`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['zr350'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'ZR350',
@@ -2934,7 +2934,7 @@ QBShared.Vehicles = {
 		['price'] = 38000,
 		['category'] = 'sports',
 		['hash'] = `zr350`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['calico'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Calico GTF',
@@ -2943,7 +2943,7 @@ QBShared.Vehicles = {
 		['price'] = 39000,
 		['category'] = 'sports',
 		['hash'] = `calico`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['futo2'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Futo GTX',
@@ -2952,7 +2952,7 @@ QBShared.Vehicles = {
 		['price'] = 39000,
 		['category'] = 'sports',
 		['hash'] = `futo2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['euros'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Euros',
@@ -2961,7 +2961,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'sports',
 		['hash'] = `euros`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['jester4'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Jester RR',
@@ -2970,7 +2970,7 @@ QBShared.Vehicles = {
 		['price'] = 240000,
 		['category'] = 'sports',
 		['hash'] = `jester4`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['remus'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Remus',
@@ -2979,7 +2979,7 @@ QBShared.Vehicles = {
 		['price'] = 48000,
 		['category'] = 'sports',
 		['hash'] = `remus`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['comet6'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Comet S2',
@@ -2988,7 +2988,7 @@ QBShared.Vehicles = {
 		['price'] = 230000,
 		['category'] = 'sports',
 		['hash'] = `comet6`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['growler'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Growler',
@@ -2997,7 +2997,7 @@ QBShared.Vehicles = {
 		['price'] = 205000,
 		['category'] = 'sports',
 		['hash'] = `growler`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['vectre'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Emperor Vectre',
@@ -3006,7 +3006,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'sports',
 		['hash'] = `vectre`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['cypher'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Cypher',
@@ -3015,7 +3015,7 @@ QBShared.Vehicles = {
 		['price'] = 155000,
 		['category'] = 'sports',
 		['hash'] = `cypher`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sultan3'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'Sultan Classic Custom',
@@ -3024,7 +3024,7 @@ QBShared.Vehicles = {
 		['price'] = 56000,
 		['category'] = 'sports',
 		['hash'] = `sultan3`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['rt3000'] = {							--DLC +set sv_enforceGameBuild 2372
 		['name'] = 'RT3000',
@@ -3033,7 +3033,7 @@ QBShared.Vehicles = {
 		['price'] = 65000,
 		['category'] = 'sports',
 		['hash'] = `rt3000`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	--- Sports Classic
 	['ardent'] = {
@@ -3088,7 +3088,7 @@ QBShared.Vehicles = {
 		['price'] = 195000,
 		['category'] = 'sports',
 		['hash'] = `cheetah2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['deluxo'] = {
 		['name'] = 'Deluxo',
@@ -3422,7 +3422,7 @@ QBShared.Vehicles = {
 		['price'] = 280000,
 		['category'] = 'super',
 		['hash'] = `adder`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['autarch'] = {
 		['name'] = 'Autarch',
@@ -3431,7 +3431,7 @@ QBShared.Vehicles = {
 		['price'] = 224000,
 		['category'] = 'super',
 		['hash'] = `autarch`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['banshee2'] = {
 		['name'] = 'Banshee 900R',
@@ -3440,7 +3440,7 @@ QBShared.Vehicles = {
 		['price'] = 120000,
 		['category'] = 'super',
 		['hash'] = `banshee2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['bullet'] = {
 		['name'] = 'Bullet',
@@ -3449,7 +3449,7 @@ QBShared.Vehicles = {
 		['price'] = 120000,
 		['category'] = 'super',
 		['hash'] = `bullet`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['cheetah'] = {
 		['name'] = 'Cheetah',
@@ -3458,7 +3458,7 @@ QBShared.Vehicles = {
 		['price'] = 214000,
 		['category'] = 'super',
 		['hash'] = `cheetah`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['cyclone'] = {         --might be too overpowered
 		['name'] = 'Cyclone',
@@ -3467,7 +3467,7 @@ QBShared.Vehicles = {
 		['price'] = 300000,
 		['category'] = 'super',
 		['hash'] = `cyclone`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['entity2'] = {
 		['name'] = 'Entity XXR',
@@ -3476,7 +3476,7 @@ QBShared.Vehicles = {
 		['price'] = 164000,
 		['category'] = 'super',
 		['hash'] = `entity2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['entityxf'] = {
 		['name'] = 'Entity XF',
@@ -3485,7 +3485,7 @@ QBShared.Vehicles = {
 		['price'] = 180000,
 		['category'] = 'super',
 		['hash'] = `entityxf`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['emerus'] = {							--DLC
 		['name'] = 'Emerus',
@@ -3494,7 +3494,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'super',
 		['hash'] = `emerus`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['fmj'] = {
 		['name'] = 'FMJ',
@@ -3503,7 +3503,7 @@ QBShared.Vehicles = {
 		['price'] = 125000,
 		['category'] = 'super',
 		['hash'] = `fmj`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['furia'] = {
 		['name'] = 'Furia',
@@ -3512,7 +3512,7 @@ QBShared.Vehicles = {
 		['price'] = 230000,
 		['category'] = 'super',
 		['hash'] = `furia`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['gp1'] = {
 		['name'] = 'GP1',
@@ -3521,7 +3521,7 @@ QBShared.Vehicles = {
 		['price'] = 110000,
 		['category'] = 'super',
 		['hash'] = `gp1`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['infernus'] = {
 		['name'] = 'Infernus',
@@ -3530,7 +3530,7 @@ QBShared.Vehicles = {
 		['price'] = 235000,
 		['category'] = 'super',
 		['hash'] = `infernus`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['italigtb'] = {
 		['name'] = 'Itali GTB',
@@ -3539,7 +3539,7 @@ QBShared.Vehicles = {
 		['price'] = 170000,
 		['category'] = 'super',
 		['hash'] = `italigtb`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['italigtb2'] = {
 		['name'] = 'Itali GTB',
@@ -3548,7 +3548,7 @@ QBShared.Vehicles = {
 		['price'] = 250000,
 		['category'] = 'super',
 		['hash'] = `italigtb2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['krieger'] = {							--DLC
 		['name'] = 'Krieger',
@@ -3557,7 +3557,7 @@ QBShared.Vehicles = {
 		['price'] = 222000,
 		['category'] = 'super',
 		['hash'] = `krieger`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['le7b'] = {
 		['name'] = 'RE-7B',
@@ -3566,7 +3566,7 @@ QBShared.Vehicles = {
 		['price'] = 260000,
 		['category'] = 'super',
 		['hash'] = `le7b`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['nero'] = {
 		['name'] = 'Nero',
@@ -3575,7 +3575,7 @@ QBShared.Vehicles = {
 		['price'] = 200000,
 		['category'] = 'super',
 		['hash'] = `nero`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['nero2'] = {
 		['name'] = 'Nero Custom',
@@ -3584,7 +3584,7 @@ QBShared.Vehicles = {
 		['price'] = 260000,
 		['category'] = 'super',
 		['hash'] = `nero2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['osiris'] = {
 		['name'] = 'Osiris',
@@ -3593,7 +3593,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'super',
 		['hash'] = `osiris`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['penetrator'] = {
 		['name'] = 'Penetrator',
@@ -3602,7 +3602,7 @@ QBShared.Vehicles = {
 		['price'] = 130000,
 		['category'] = 'super',
 		['hash'] = `penetrator`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['pfister811'] = {
 		['name'] = '811',
@@ -3611,7 +3611,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'super',
 		['hash'] = `pfister811`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['prototipo'] = {
 		['name'] = 'X80 Proto',
@@ -3620,7 +3620,7 @@ QBShared.Vehicles = {
 		['price'] = 235000,
 		['category'] = 'super',
 		['hash'] = `prototipo`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['reaper'] = {
 		['name'] = 'Reaper',
@@ -3629,7 +3629,7 @@ QBShared.Vehicles = {
 		['price'] = 100000,
 		['category'] = 'super',
 		['hash'] = `reaper`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['s80'] = {							--DLC
 		['name'] = 'S80RR',
@@ -3638,7 +3638,7 @@ QBShared.Vehicles = {
 		['price'] = 205000,
 		['category'] = 'super',
 		['hash'] = `s80`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sc1'] = {
 		['name'] = 'SC1',
@@ -3647,7 +3647,7 @@ QBShared.Vehicles = {
 		['price'] = 90000,
 		['category'] = 'super',
 		['hash'] = `sc1`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sheava'] = {							--DLC
 		['name'] = 'ETR1',
@@ -3656,7 +3656,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'super',
 		['hash'] = `sheava`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sultanrs'] = {
 		['name'] = 'Sultan RS',
@@ -3665,7 +3665,7 @@ QBShared.Vehicles = {
 		['price'] = 76500,
 		['category'] = 'sports',
 		['hash'] = `sultanrs`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['t20'] = {
 		['name'] = 'T20',
@@ -3674,7 +3674,7 @@ QBShared.Vehicles = {
 		['price'] = 1650000,
 		['category'] = 'super',
 		['hash'] = `t20`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['taipan'] = {
 		['name'] = 'Taipan',
@@ -3683,7 +3683,7 @@ QBShared.Vehicles = {
 		['price'] = 1850000,
 		['category'] = 'super',
 		['hash'] = `taipan`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['tempesta'] = {
 		['name'] = 'Tempesta',
@@ -3692,7 +3692,7 @@ QBShared.Vehicles = {
 		['price'] = 120000,
 		['category'] = 'super',
 		['hash'] = `tempesta`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['tezeract'] = {
 		['name'] = 'Tezeract',
@@ -3701,7 +3701,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'super',
 		['hash'] = `tezeract`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['thrax'] = {							--DLC
 		['name'] = 'Thrax',
@@ -3710,7 +3710,7 @@ QBShared.Vehicles = {
 		['price'] = 180000,
 		['category'] = 'super',
 		['hash'] = `thrax`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['tigon'] = {
 		['name'] = 'Tigon',
@@ -3719,7 +3719,7 @@ QBShared.Vehicles = {
 		['price'] = 240000,
 		['category'] = 'super',
 		['hash'] = `tigon`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['turismor'] = {
 		['name'] = 'Turismo R',
@@ -3728,7 +3728,7 @@ QBShared.Vehicles = {
 		['price'] = 140000,
 		['category'] = 'super',
 		['hash'] = `turismor`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['tyrant'] = {
 		['name'] = 'Tyrant',
@@ -3737,7 +3737,7 @@ QBShared.Vehicles = {
 		['price'] = 2100000,
 		['category'] = 'super',
 		['hash'] = `tyrant`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['tyrus'] = {
 		['name'] = 'Tyrus',
@@ -3746,7 +3746,7 @@ QBShared.Vehicles = {
 		['price'] = 230000,
 		['category'] = 'super',
 		['hash'] = `tyrus`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['vacca'] = {
 		['name'] = 'Vacca',
@@ -3755,7 +3755,7 @@ QBShared.Vehicles = {
 		['price'] = 105000,
 		['category'] = 'super',
 		['hash'] = `vacca`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['vagner'] = {
 		['name'] = 'Vagner',
@@ -3764,7 +3764,7 @@ QBShared.Vehicles = {
 		['price'] = 1660000,
 		['category'] = 'super',
 		['hash'] = `vagner`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['visione'] = {
 		['name'] = 'Visione',
@@ -3773,7 +3773,7 @@ QBShared.Vehicles = {
 		['price'] = 750000,
 		['category'] = 'sports',
 		['hash'] = `visione`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['voltic'] = {
 		['name'] = 'Voltic',
@@ -3782,7 +3782,7 @@ QBShared.Vehicles = {
 		['price'] = 120000,
 		['category'] = 'super',
 		['hash'] = `voltic`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['voltic2'] = {
 		['name'] = 'Rocket Voltic',
@@ -3791,7 +3791,7 @@ QBShared.Vehicles = {
 		['price'] = 9830400,
 		['category'] = 'super',
 		['hash'] = `voltic2`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['xa21'] = {
 		['name'] = 'XA-21',
@@ -3800,7 +3800,7 @@ QBShared.Vehicles = {
 		['price'] = 180000,
 		['category'] = 'super',
 		['hash'] = `xa21`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['zentorno'] = {
 		['name'] = 'Zentorno',
@@ -3809,7 +3809,7 @@ QBShared.Vehicles = {
 		['price'] = 340000,
 		['category'] = 'super',
 		['hash'] = `zentorno`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['zorrusso'] = {							--DLC
 		['name'] = 'Zorrusso',
@@ -3818,7 +3818,7 @@ QBShared.Vehicles = {
 		['price'] = 277000,
 		['category'] = 'super',
 		['hash'] = `zorrusso`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	-- Vans
 	['bison'] = {
@@ -4591,6 +4591,222 @@ QBShared.Vehicles = {
 		['hash'] = `portbuggy`,
 		['shop'] = 'LSPDVS',
 	},
+	['code318charg'] = {
+		['name'] = '2018 Charger Code 3',
+		['brand'] = 'Dodge',
+		['model'] = 'code318charg',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code318charg`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3fpis'] = {
+		['name'] = 'Taurus PI Code 3',
+		['brand'] = 'Ford',
+		['model'] = 'code3fpis',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3fpis`,
+		['shop'] = 'LSPDVS',
+	},
+	['code314charg'] = {
+		['name'] = '2014 Charger Code 3',
+		['brand'] = 'Dodge',
+		['model'] = 'code314charg',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code314charg`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3cvpi'] = {
+		['name'] = 'CPVI Code 3',
+		['brand'] = 'Ford',
+		['model'] = 'code3cvpi',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3cvpi`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3cap'] = {
+		['name'] = 'Caprice Code 3',
+		['brand'] = 'Chevy',
+		['model'] = 'code3cap',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3cap`,
+		['shop'] = 'LSPDVS',
+	},
+	['code318tahoe'] = {
+		['name'] = '2018 Tahoe Code 3',
+		['brand'] = 'Chevy',
+		['model'] = 'code318tahoe',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code318tahoe`,
+		['shop'] = 'LSPDVS',
+	},
+	['code318tahoek9'] = {
+		['name'] = '2018 Tahoe K9 Code 3',
+		['brand'] = 'Chevy',
+		['model'] = 'code318tahoek9',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code318tahoek9`,
+		['shop'] = 'LSPDVS',
+	},
+	['code320exp'] = {
+		['name'] = '2020 Explorer Code 3',
+		['brand'] = 'Ford',
+		['model'] = 'code320exp',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code320exp`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3ram'] = {
+		['name'] = 'Ram 2500 Code 3',
+		['brand'] = 'Dodge',
+		['model'] = 'code3ram',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3ram`,
+		['shop'] = 'LSPDVS',
+	},
+	['code318chargk9'] = {
+		['name'] = '2018 Charger K9 Code 3',
+		['brand'] = 'Dodge',
+		['model'] = 'code318chargk9',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code318chargk9`,
+		['shop'] = 'LSPDVS',
+	},
+	['code316impala'] = {
+		['name'] = '2016 Impala Code 3',
+		['brand'] = 'Chevy',
+		['model'] = 'code316impala',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code316impala`,
+		['shop'] = 'LSPDVS',
+	},
+	['code310charg'] = {
+		['name'] = '2010 Charger Code 3',
+		['brand'] = 'Dodge',
+		['model'] = 'code310charg',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code310charg`,
+		['shop'] = 'LSPDVS',
+	},
+	['code314tahoe'] = {
+		['name'] = '2014 Tahoe Code 3',
+		['brand'] = 'Chevy',
+		['model'] = 'code314tahoe',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code314tahoe`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3gator'] = {
+		['name'] = 'Gator Code 3',
+		['brand'] = 'John Deer',
+		['model'] = 'code3gator',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3gator`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3camero'] = {
+		['name'] = 'Camaro Code 3',
+		['brand'] = 'Chevy',
+		['model'] = 'code3camero',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3camero`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3mustang'] = {
+		['name'] = 'Mustang Code 3',
+		['brand'] = 'Ford',
+		['model'] = 'code3mustang',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3mustang`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3f150'] = {
+		['name'] = 'F150 Code 3',
+		['brand'] = 'Ford',
+		['model'] = 'code3f150',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3f150`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3silverado'] = {
+		['name'] = 'Silverado Code 3',
+		['brand'] = 'Chevy',
+		['model'] = 'code3silverado',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3silverado`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3bmw'] = {
+		['name'] = 'BMW Motorcycle Code 3',
+		['brand'] = 'BMW',
+		['model'] = 'code3bmw',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3bmw`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3harley'] = {
+		['name'] = 'Harley Motorcycle Code 3',
+		['brand'] = 'Harley',
+		['model'] = 'code3harley',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3harley`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3durango'] = {
+		['name'] = 'Durango Code 3',
+		['brand'] = 'Dodge',
+		['model'] = 'code3durango',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3durango`,
+		['shop'] = 'LSPDVS',
+	},
+	['code316fpiu'] = {
+		['name'] = '2016 Explorer PI Code 3',
+		['brand'] = 'Ford',
+		['model'] = 'code316fpiu',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code316fpiu`,
+		['shop'] = 'LSPDVS',
+	},
+	['code3f250'] = {
+		['name'] = 'F250 Code 3',
+		['brand'] = 'Ford',
+		['model'] = 'code3f250',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code3f250`,
+		['shop'] = 'LSPDVS',
+	},
+	['code319silv'] = {
+		['name'] = '2019 Silverado Code 3',
+		['brand'] = 'Chevy',
+		['model'] = 'code319silv',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `code319silv`,
+		['shop'] = 'LSPDVS',
+	},
 	--SAHP
 	['HP1'] = {
 		['name'] = 'Charger (Patrol)',
@@ -5315,7 +5531,7 @@ QBShared.Vehicles = {
 		['price'] = 165000,
 		['category'] = 'imports',
 		['hash'] = `divo`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['g500'] = {
 		['name'] = 'G500',
@@ -5324,7 +5540,7 @@ QBShared.Vehicles = {
 		['price'] = 57000,
 		['category'] = 'imports',
 		['hash'] = `g500`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['nh2r'] = {
 		['name'] = 'H2',
@@ -5333,7 +5549,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'imports',
 		['hash'] = `nh2r`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['teslax'] = {
 		['name'] = 'Model X',
@@ -5369,7 +5585,7 @@ QBShared.Vehicles = {
 		['price'] = 53000,
 		['category'] = 'imports',
 		['hash'] = `tmsm`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['wraith'] = {
 		['name'] = 'Wraith',
@@ -5378,7 +5594,7 @@ QBShared.Vehicles = {
 		['price'] = 63000,
 		['category'] = 'imports',
 		['hash'] = `wraith`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['urus'] = {
 		['name'] = 'Urus',
@@ -5387,7 +5603,7 @@ QBShared.Vehicles = {
 		['price'] = 94000,
 		['category'] = 'imports',
 		['hash'] = `urus`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['demon'] = {
 		['name'] = 'Demon',
@@ -5396,7 +5612,7 @@ QBShared.Vehicles = {
 		['price'] = 110000,
 		['category'] = 'imports',
 		['hash'] = `demon`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['i8'] = {
 		['name'] = 'i8',
@@ -5405,7 +5621,7 @@ QBShared.Vehicles = {
 		['price'] = 150000,
 		['category'] = 'imports',
 		['hash'] = `i8`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['rrst'] = {
 		['name'] = 'Range Rover',
@@ -5450,7 +5666,7 @@ QBShared.Vehicles = {
 		['price'] = 96000,
 		['category'] = 'imports',
 		['hash'] = `exor`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['lamboavj'] = {
 		['name'] = 'Aventador SVJ',
@@ -5468,7 +5684,7 @@ QBShared.Vehicles = {
 		['price'] = 19000,
 		['category'] = 'imports',
 		['hash'] = `demonhawk`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['911turbos'] = {
 		['name'] = '911 Turbo',
@@ -5486,7 +5702,7 @@ QBShared.Vehicles = {
 		['price'] = 132000,
 		['category'] = 'imports',
 		['hash'] = `GT2RS`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['contss18'] = {
 		['name'] = 'Continental GT',
@@ -5504,7 +5720,7 @@ QBShared.Vehicles = {
 		['price'] = 38000,
 		['category'] = 'imports',
 		['hash'] = `f812`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['458spc'] = {
 		['name'] = '458',
@@ -5513,7 +5729,7 @@ QBShared.Vehicles = {
 		['price'] = 110000,
 		['category'] = 'imports',
 		['hash'] = `458spc`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['1500dj'] = {
 		['name'] = 'Silverado 1500',
@@ -5540,7 +5756,7 @@ QBShared.Vehicles = {
 		['price'] = 74000,
 		['category'] = 'imports',
 		['hash'] = `MVISIONGT`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sv'] = {
 		['name'] = 'Aventador',
@@ -5576,7 +5792,7 @@ QBShared.Vehicles = {
 		['price'] = 141000,
 		['category'] = 'imports',
 		['hash'] = `C7`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['LWGTR'] = {
 		['name'] = 'Liberty Walk GTR',
@@ -5585,7 +5801,7 @@ QBShared.Vehicles = {
 		['price'] = 76000,
 		['category'] = 'imports',
 		['hash'] = `LWGTR`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['AR8LB'] = {
 		['name'] = 'R8',
@@ -5648,7 +5864,7 @@ QBShared.Vehicles = {
 		['price'] = 86000,
 		['category'] = 'imports',
 		['hash'] = `C8`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['f1'] = {
 		['name'] = 'F1 Car',
@@ -5657,7 +5873,7 @@ QBShared.Vehicles = {
 		['price'] = 170000,
 		['category'] = 'imports',
 		['hash'] = `f1`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['mlmansory'] = {
 		['name'] = 'Levante',
@@ -5684,7 +5900,7 @@ QBShared.Vehicles = {
 		['price'] = 78000,
 		['category'] = 'imports',
 		['hash'] = `gle63c`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['BMWM8'] = {
 		['name'] = 'M8',
@@ -5702,7 +5918,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'imports',
 		['hash'] = `19S650`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['amggtsmansory'] = {
 		['name'] = 'AMG GTS',
@@ -5711,7 +5927,7 @@ QBShared.Vehicles = {
 		['price'] = 31000,
 		['category'] = 'imports',
 		['hash'] = `amggtsmansory`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['cx75'] = {
 		['name'] = 'Qx56',
@@ -5756,7 +5972,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'imports',
 		['hash'] = `IMOLA`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['impreza2019'] = {
 		['name'] = 'Impreza',
@@ -5810,7 +6026,7 @@ QBShared.Vehicles = {
 		['price'] = 144000,
 		['category'] = 'imports',
 		['hash'] = `fox600lt`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['m6x6'] = {
 		['name'] = '6x6 Geries Brabus AMG',
@@ -5855,7 +6071,7 @@ QBShared.Vehicles = {
 		['price'] = 170000,
 		['category'] = 'imports',
 		['hash'] = `rx7rb`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['fto'] = {
 		['name'] = 'FTO',
@@ -5891,7 +6107,7 @@ QBShared.Vehicles = {
 		['price'] = 170000,
 		['category'] = 'imports',
 		['hash'] = `Skyline`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['CAN'] = {
 		['name'] = 'Maverick 2d',
@@ -5918,7 +6134,7 @@ QBShared.Vehicles = {
 		['price'] = 44000,
 		['category'] = 'imports',
 		['hash'] = `720stc`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['R8v10'] = {
 		['name'] = 'R8 V10',
@@ -5945,7 +6161,7 @@ QBShared.Vehicles = {
 		['price'] = 42000,
 		['category'] = 'imports',
 		['hash'] = `esv`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['lwhuracan'] = {
 		['name'] = 'Liberty Walk Huracan',
@@ -5954,7 +6170,7 @@ QBShared.Vehicles = {
 		['price'] = 78000,
 		['category'] = 'imports',
 		['hash'] = `lwhuracan`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['honody'] = {
 		['name'] = 'Odyssey',
@@ -5972,7 +6188,7 @@ QBShared.Vehicles = {
 		['price'] = 46000,
 		['category'] = 'imports',
 		['hash'] = `p1`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['rx7veilside'] = {
 		['name'] = 'Veilside RX7',
@@ -6017,7 +6233,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'imports',
 		['hash'] = `17ram3500`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['a8lw12'] = {
 		['name'] = 'A8',
@@ -6082,15 +6298,15 @@ QBShared.Vehicles = {
 		['hash'] = `nisaltima`,
 		['shop'] = 'pdm',
 	},
-	['tr22'] = {
-		['name'] = 'Roadster',
-		['brand'] = 'Tesla',
-		['model'] = 'tr22',
-		['price'] = 97000,
-		['category'] = 'imports',
-		['hash'] = `tr22`,
-		['shop'] = 'luxury',
-	},
+	-- ['tr22'] = {
+	-- 	['name'] = 'Roadster',
+	-- 	['brand'] = 'Tesla',
+	-- 	['model'] = 'tr22',
+	-- 	['price'] = 97000,
+	-- 	['category'] = 'imports',
+	-- 	['hash'] = `tr22`,
+	-- 	['shop'] = 'luxuryautos',
+	-- },
 	['rm3e36'] = {
 		['name'] = 'M3',
 		['brand'] = 'BMW',
@@ -6098,7 +6314,7 @@ QBShared.Vehicles = {
 		['price'] = 57000,
 		['category'] = 'imports',
 		['hash'] = `rm3e36`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['megacabdually'] = {
 		['name'] = 'Megacab Dually',
@@ -6107,7 +6323,7 @@ QBShared.Vehicles = {
 		['price'] = 14000,
 		['category'] = 'imports',
 		['hash'] = `megacabdually`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['cateyedually'] = {
 		['name'] = 'Silverado Dually',
@@ -6188,16 +6404,16 @@ QBShared.Vehicles = {
 		['price'] = 48000,
 		['category'] = 'imports',
 		['hash'] = `dawn`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
-    ['aaq4'] = {
+	['aaq4'] = {
 		['name'] = 'A4',
 		['brand'] = 'Audi',
 		['model'] = 'aaq4',
 		['price'] = 57000,
 		['category'] = 'imports',
 		['hash'] = `aaq4`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['a8audi'] = {
 		['name'] = 'A8',
@@ -6215,7 +6431,7 @@ QBShared.Vehicles = {
 		['price'] = 58000,
 		['category'] = 'imports',
 		['hash'] = `ocnetrongt`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['rs6 '] = {
 		['name'] = 'RS6 Custom',
@@ -6224,7 +6440,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'imports',
 		['hash'] = `rs6 `,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['rs62'] = {
 		['name'] = 'RS6',
@@ -6233,7 +6449,7 @@ QBShared.Vehicles = {
 		['price'] = 34000,
 		['category'] = 'imports',
 		['hash'] = `rs62`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['sq72016'] = {
 		['name'] = 'SQ7',
@@ -6242,7 +6458,7 @@ QBShared.Vehicles = {
 		['price'] = 33000,
 		['category'] = 'imports',
 		['hash'] = `sq72016`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['bmw8mm'] = {
 		['name'] = 'M8',
@@ -6260,7 +6476,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'imports',
 		['hash'] = `m4comp`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['m4lb'] = {
 		['name'] = 'M4 Liberty Walk',
@@ -6269,7 +6485,7 @@ QBShared.Vehicles = {
 		['price'] = 31000,
 		['category'] = 'imports',
 		['hash'] = `m4lb`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['dtdbolide'] = {
 		['name'] = 'Bolide',
@@ -6278,7 +6494,7 @@ QBShared.Vehicles = {
 		['price'] = 37000,
 		['category'] = 'imports',
 		['hash'] = `dtdbolide`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['hummersuv'] = {
 		['name'] = 'Hummer EV',
@@ -6296,7 +6512,7 @@ QBShared.Vehicles = {
 		['price'] = 150000,
 		['category'] = 'imports',
 		['hash'] = `hondacivictr`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['jeepg'] = {
 		['name'] = 'Gladiator',
@@ -6323,7 +6539,7 @@ QBShared.Vehicles = {
 		['price'] = 38000,
 		['category'] = 'imports',
 		['hash'] = `r32`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['subwrx'] = {
 		['name'] = 'Impreza STI',
@@ -6332,7 +6548,7 @@ QBShared.Vehicles = {
 		['price'] = 29000,
 		['category'] = 'imports',
 		['hash'] = `subwrx`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['wrx15'] = {
 		['name'] = 'WRX STI',
@@ -6341,7 +6557,7 @@ QBShared.Vehicles = {
 		['price'] = 66000,
 		['category'] = 'imports',
 		['hash'] = `wrx15`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['Alphard'] = {
 		['name'] = 'Alphard',
@@ -6359,7 +6575,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'imports',
 		['hash'] = `a80`,
-		['shop'] = 'luxury',
+		['shop'] = 'luxuryautos',
 	},
 	['beetleRWB'] = {
 		['name'] = 'Beetle Widebody',
