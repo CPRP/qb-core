@@ -495,42 +495,64 @@ QBShared.Jobs = {
             },
         },   
     },
-    ['lumberjack'] = {
-		label = 'LumberJack',
+    -- ['lumberjack'] = {
+	-- 	label = 'LumberJack',
+	-- 	defaultDuty = true,
+	-- 	offDutyPay = false,
+	-- 	grades = {
+    --         ['0'] = {
+    --             name = 'Logger',
+    --             payment = 50
+    --         },
+    --     },
+	-- },
+    -- ["burgershot"] = {
+	-- 	label = "Burgershot Employee",
+	-- 	defaultDuty = true,
+	-- 	grades = {
+    --         ['0'] = {
+    --             name = "Trainee",
+    --             payment = 75
+    --         },
+	-- 		['1'] = {
+    --             name = "Employee",
+    --             payment = 100
+    --         },
+	-- 		['2'] = {
+    --             name = "Burger Flipper",
+    --             payment = 125
+    --         },
+	-- 		['3'] = {
+    --             name = "Manager",
+    --             payment = 150
+    --         },
+	-- 		['4'] = {
+    --             name = "CEO",
+	-- 			isboss = true,
+    --             payment = 175
+    --         },
+    --     },
+	-- },
+    ['burgershot'] = {
+		label = 'BurgerShot',
 		defaultDuty = true,
-		offDutyPay = false,
 		grades = {
-            ['0'] = {
-                name = 'Logger',
-                payment = 50
-            },
+            ['0'] = { name = 'Recruit', payment = 75 },
+			['1'] = { name = 'Novice', payment = 100 },
+			['2'] = { name = 'Experienced', payment = 125 },
+			['3'] = { name = 'Advanced', payment = 150 },
+			['4'] = { name = 'Manager', isboss = true, payment = 175 },
         },
 	},
-    ["burgershot"] = {
-		label = "Burgershot Employee",
+    ['vanilla'] = {
+		label = 'Vanilla Unicorn',
 		defaultDuty = true,
 		grades = {
-            ['0'] = {
-                name = "Trainee",
-                payment = 75
-            },
-			['1'] = {
-                name = "Employee",
-                payment = 100
-            },
-			['2'] = {
-                name = "Burger Flipper",
-                payment = 125
-            },
-			['3'] = {
-                name = "Manager",
-                payment = 150
-            },
-			['4'] = {
-                name = "CEO",
-				isboss = true,
-                payment = 175
-            },
+            ['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Novice', payment = 75 },
+			['2'] = { name = 'Experienced', payment = 100 },
+			['3'] = { name = 'Advanced', payment = 125 },
+			['4'] = { name = 'Manager', isboss = true, payment = 150 },
         },
 	},
     ['mailcarrier'] = {
