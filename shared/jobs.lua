@@ -555,6 +555,17 @@ QBShared.Jobs = {
 			['4'] = { name = 'Manager', isboss = true, payment = 150 },
         },
 	},
+    ['tequilala'] = {
+		label = 'Tequilala',
+		defaultDuty = false,
+		grades = {
+            ['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Novice', payment = 75 },
+			['2'] = { name = 'Experienced', payment = 100 },
+			['3'] = { name = 'Advanced', payment = 125 },
+			['4'] = { name = 'Manager', isboss = true, payment = 150 },
+        },
+	},
     ['mailcarrier'] = {
 		label = 'Go Postal',
 		defaultDuty = true,
