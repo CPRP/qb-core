@@ -26,8 +26,8 @@ QBShared.Gangs = {
             },
         },
 	},
-	['ballas'] = {
-		label = 'Ballas',
+	['diamondmafia'] = {
+		label = 'Diamond Mafia',
 		grades = {
             ['0'] = {
                 name = 'Recruit'
