@@ -698,4 +698,7 @@ QBShared.Items = {
 
 	["crisps"] 						= {["name"] = "crisps",  	    			["label"] = "Crisps",					["weight"] = 100, 		["type"] = "item", 		["image"] = "chips.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = "", ['hunger'] = math.random(20, 30) },
 
+    -- Core Evidence
+	["uvlight"]						={["name"]="uvlight",						["label"]="UV Flashlight",				["weight"]=300,			["type"]="item",		["image"]="uvlight.png",		["unique"]=true,		["useable"]=true,		["shouldClose"]=true,		["combinable"]=nil,		["description"]="A flashlight to see fingerprints"},
+
 }
