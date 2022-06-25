@@ -448,7 +448,7 @@ QBShared.Items = {
 	["goldore"] 					 = {["name"] = "goldore", 			  	  		["label"] = "Gold Ore", 				["weight"] = 1000, 		["type"] = "item", 		["image"] = "goldore1.png", 				["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false, ["combinable"] = nil,   ["description"] = "Gold Ore"},
 		
 	["handdrill"] 					 = {["name"] = "handdrill", 			  	  	["label"] = "Hand Drill", 				["weight"] = 1000, 		["type"] = "item", 		["image"] = "handdrill1.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false, ["combinable"] = nil,   ["description"] = "A Hand Drill, can be used on jewellery"},
-	["drillbit"] 					 = {["name"] = "drillbit", 			  	  		["label"] = "Drill Bit", 				["weight"] = 1000, 		["type"] = "item", 		["image"] = "drillbit1.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false, ["combinable"] = nil,   ["description"] = "A Drill Bit, needs to be used with a Hand Drill"},
+	["drillbit"] 					 = {["name"] = "drillbit", 			  	  		["label"] = "Drill Bit", 				["weight"] = 200, 		["type"] = "item", 		["image"] = "drillbit1.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false, ["combinable"] = nil,   ["description"] = "A Drill Bit, needs to be used with a Hand Drill"},
 
     -- Burger Shot
 	-- -- Food
