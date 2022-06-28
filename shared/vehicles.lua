@@ -6785,6 +6785,24 @@ QBShared.Vehicles = {
 		['hash'] = `project8`,
 		['shop'] = 'luxuryautos',
 	},
+	['brz13'] = {
+		['name'] = 'BRZ (Ellie 1)',
+		['brand'] = 'Subaru',
+		['model'] = 'brz13',
+		['price'] = 100000,
+		['category'] = 'oneofone',
+		['hash'] = `brz13`,
+		['shop'] = 'luxuryautos',
+	},
+	['gtrnismo17'] = {
+		['name'] = 'GTR 34 Nismo (Brandin 1)',
+		['brand'] = 'Nissan',
+		['model'] = 'gtrnismo17',
+		['price'] = 100000,
+		['category'] = 'oneofone',
+		['hash'] = `gtrnismo17`,
+		['shop'] = 'luxuryautos',
+	},
 }
 
 for _, v in pairs(QBShared.Vehicles) do
