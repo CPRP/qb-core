@@ -701,4 +701,7 @@ QBShared.Items = {
     -- Core Evidence
 	["uvlight"]						={["name"]="uvlight",						["label"]="UV Flashlight",				["weight"]=300,			["type"]="item",		["image"]="uvlight.png",		["unique"]=true,		["useable"]=true,		["shouldClose"]=true,		["combinable"]=nil,		["description"]="A flashlight to see fingerprints"},
 
+	-- Car heist
+	["kq_angle_grinder"] 			= {["name"] = "kq_angle_grinder", 			["label"] = "Angle Grinder",	 		["weight"] = 1000, 		["type"] = "item", 		["image"] = "kq_angle_grinder.png", 	["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Used to cut metals"},
+
 }
