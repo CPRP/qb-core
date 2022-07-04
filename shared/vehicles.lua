@@ -6766,16 +6766,27 @@ QBShared.Vehicles = {
 		['hash'] = `escaladesport`,
 		['shop'] = 'luxuryautos',
 	},
-	-- 1 of 1 vehicles
-	['Taycans20'] = {
-		['name'] = 'Taycan (CJ 1)',
-		['brand'] = 'Porsche',
-		['model'] = 'Taycans20',
+	-- [[1 of 1 vehicles]]
+	-- CJ Ranells
+	['rampage10'] = {
+		['name'] = 'Challenger SRT Rampage (CJ 1)',
+		['brand'] = 'Dodge',
+		['model'] = 'rampage10',
 		['price'] = 100000,
 		['category'] = 'oneofone',
-		['hash'] = `Taycans20`,
+		['hash'] = `rampage10`,
 		['shop'] = 'luxuryautos',
 	},
+	['evcrs8'] = {
+		['name'] = 'ABT RS8 (CJ 2)',
+		['brand'] = 'Audi',
+		['model'] = 'evcrs8',
+		['price'] = 100000,
+		['category'] = 'oneofone',
+		['hash'] = `evcrs8`,
+		['shop'] = 'luxuryautos',
+	},
+	-- Coltron Scott
 	['project8'] = {
 		['name'] = 'XE SV Project 8 (Coltron 1)',
 		['brand'] = 'Jaguar',
@@ -6785,6 +6796,16 @@ QBShared.Vehicles = {
 		['hash'] = `project8`,
 		['shop'] = 'luxuryautos',
 	},
+	['cobra'] = {
+		['name'] = '1965 Cobra 427 (Coltron 2)',
+		['brand'] = 'Shelby',
+		['model'] = 'cobra',
+		['price'] = 100000,
+		['category'] = 'oneofone',
+		['hash'] = `cobra`,
+		['shop'] = 'luxuryautos',
+	},
+	-- Ellie Martinez
 	['brz13'] = {
 		['name'] = 'BRZ (Ellie 1)',
 		['brand'] = 'Subaru',
@@ -6794,8 +6815,9 @@ QBShared.Vehicles = {
 		['hash'] = `brz13`,
 		['shop'] = 'luxuryautos',
 	},
+	-- Brandin Martinez
 	['gtrnismo17'] = {
-		['name'] = 'GTR 34 Nismo (Brandin 1)',
+		['name'] = 'GTR 35 Nismo (Brandin 1)',
 		['brand'] = 'Nissan',
 		['model'] = 'gtrnismo17',
 		['price'] = 100000,
