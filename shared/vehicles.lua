@@ -5115,16 +5115,6 @@ QBShared.Vehicles = {
 		['hash'] = `valorharley`,
 		['shop'] = 'BCSOVS',
 	},
-	--PBSO
-	-- ['examplecode'] = {
-	-- 	['name'] = 'Model',
-	-- 	['brand'] = 'Make',
-	-- 	['model'] = 'examplecode',
-	-- 	['price'] = 100,
-	-- 	['category'] = 'pbso',
-	-- 	['hash'] = `examplecode`,
-	-- 	['shop'] = 'PBSOVS',
-	-- },
 	--Medical/Fire
 	['ambulance'] = {
 		['name'] = 'Ambulance',
@@ -5570,7 +5560,7 @@ QBShared.Vehicles = {
 	},
 	['MVISIONGT'] = {
 		['name'] = 'AMG VISION GT',
-		['brand'] = 'Mercedes-BENZ',
+		['brand'] = 'Mercedes BENZ',
 		['model'] = 'MVISIONGT',
 		['price'] = 74000,
 		['category'] = 'imports',
@@ -5588,7 +5578,7 @@ QBShared.Vehicles = {
 	},
 	['GTRC'] = {
 		['name'] = 'AMG GT-R',
-		['brand'] = 'Mercedes-Benz',
+		['brand'] = 'Mercedes Benz',
 		['model'] = 'GTRC',
 		['price'] = 130000,
 		['category'] = 'custom',
@@ -5912,7 +5902,7 @@ QBShared.Vehicles = {
 	},
 	['CAN'] = {
 		['name'] = 'Maverick 2d',
-		['brand'] = 'Can-Am',
+		['brand'] = 'Can Am',
 		['model'] = 'CAN',
 		['price'] = 62000,
 		['category'] = 'custom',
@@ -6137,7 +6127,7 @@ QBShared.Vehicles = {
 	},
 	['razerx3'] = {
 		['name'] = 'Maverick 4D',
-		['brand'] = 'Can-Am',
+		['brand'] = 'Can Am',
 		['model'] = 'razerx3',
 		['price'] = 38000,
 		['category'] = 'custom',
