@@ -6548,6 +6548,15 @@ QBShared.Vehicles = {
 		['hash'] = `escaladesport`,
 		['shop'] = 'luxuryautos',
 	},
+    ['mk1rabbit'] = {
+		['name'] = 'Golf MK1 Rabbit',
+		['brand'] = 'Volkswagen',
+		['model'] = 'mk1rabbit',
+		['price'] = 30000,
+		['category'] = 'imports',
+		['hash'] = `mk1rabbit`,
+		['shop'] = 'luxuryautos',
+	},
 	-- [[1 of 1 vehicles]]
 	-- CJ Ranells
 	['rampage10'] = {
@@ -6597,6 +6606,15 @@ QBShared.Vehicles = {
 		['hash'] = `brz13`,
 		['shop'] = 'luxuryautos',
 	},
+    ['lp640'] = {
+		['name'] = '2007 Murcielago LP640 (Ellie 2)',
+		['brand'] = 'Lamborghini',
+		['model'] = 'lp640',
+		['price'] = 100000,
+		['category'] = 'oneofone',
+		['hash'] = `lp640`,
+		['shop'] = 'luxuryautos',
+	},
 	-- Brandin Martinez
 	['gtrnismo17'] = {
 		['name'] = 'GTR 35 Nismo (Brandin 1)',
@@ -6605,6 +6623,25 @@ QBShared.Vehicles = {
 		['price'] = 100000,
 		['category'] = 'oneofone',
 		['hash'] = `gtrnismo17`,
+		['shop'] = 'luxuryautos',
+	},
+    ['bnsgtr99'] = {
+		['name'] = 'r34 2f2f (Brandin 2)',
+		['brand'] = 'Nissan',
+		['model'] = 'bnsgtr99',
+		['price'] = 100000,
+		['category'] = 'oneofone',
+		['hash'] = `bnsgtr99`,
+		['shop'] = 'luxuryautos',
+	},
+	-- Andrew Smith
+	['belair'] = {
+		['name'] = '1957 Bel Air (Andrew 1)',
+		['brand'] = 'Chevy',
+		['model'] = 'belair',
+		['price'] = 100000,
+		['category'] = 'oneofone',
+		['hash'] = `belair`,
 		['shop'] = 'luxuryautos',
 	},
 }
