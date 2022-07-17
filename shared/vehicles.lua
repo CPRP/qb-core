@@ -5323,6 +5323,24 @@ QBShared.Vehicles = {
 		['hash'] = `arrowrescue`,
 		['shop'] = 'LSFDVS',
 	},
+    ['fordambo'] = {
+		['name'] = 'Ford Ambulance (R&B)',
+		['brand'] = 'Pillbox',
+		['model'] = 'fordambo',
+		['price'] = 100,
+		['category'] = 'medical',
+		['hash'] = `fordambo`,
+		['shop'] = 'LSFDVS',
+	},
+	['trump-stretcher'] = {
+		['name'] = 'Ford Stretcher (R&B)',
+		['brand'] = 'Pillbox',
+		['model'] = 'trump-stretcher',
+		['price'] = 100,
+		['category'] = 'medical',
+		['hash'] = `trump-stretcher`,
+		['shop'] = 'LSFDVS',
+	},
 	-- Custom Civ Vehicles
 	['dvgts'] = {
 		['name'] = 'Viper GTS',
