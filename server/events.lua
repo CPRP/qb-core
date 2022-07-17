@@ -103,6 +103,20 @@ RegisterNetEvent('QBCore:Server:OpenServer', function()
     end
 end)
 
+RegisterNetEvent('QBCore:Server:RemoveMoney', function(acount, amount) -- For MT-Pilotjob
+    local src = source
+    local Player = QBCore.Functions.GetPlayer(src)
+    if not Player then return end
+    Player.Functions.RemoveMoney(acount, amount)
+end)
+
+RegisterNetEvent('QBCore:Server:AddMoney', function(acount, amount) -- For MT-Pilotjob
+    local src = source
+    local Player = QBCore.Functions.GetPlayer(src)
+    if not Player then return end
+    Player.Functions.AddMoney(acount, amount)
+end)
+
 -- Callback Events --
 
 -- Client Callback
