@@ -6662,6 +6662,16 @@ QBShared.Vehicles = {
 		['hash'] = `belair`,
 		['shop'] = 'luxuryautos',
 	},
+	-- Jesse Hill
+	['rx7v'] = {
+		['name'] = '1957 Bel Air (Jesse 1)',
+		['brand'] = 'Chevy',
+		['model'] = 'rx7v',
+		['price'] = 100000,
+		['category'] = 'oneofone',
+		['hash'] = `rx7v`,
+		['shop'] = 'luxuryautos',
+	},
 }
 
 for _, v in pairs(QBShared.Vehicles) do
