@@ -6664,8 +6664,8 @@ QBShared.Vehicles = {
 	},
 	-- Jesse Hill
 	['rx7v'] = {
-		['name'] = '1957 Bel Air (Jesse 1)',
-		['brand'] = 'Chevy',
+		['name'] = 'RX7 Veilside (Jesse 1)',
+		['brand'] = 'Mazda',
 		['model'] = 'rx7v',
 		['price'] = 100000,
 		['category'] = 'oneofone',
