@@ -6662,7 +6662,7 @@ QBShared.Vehicles = {
 		['hash'] = `belair`,
 		['shop'] = 'luxuryautos',
 	},
-	-- Jesse Hill
+	--  Jesse Hill
 	['rx7v'] = {
 		['name'] = 'RX7 Veilside (Jesse 1)',
 		['brand'] = 'Mazda',
