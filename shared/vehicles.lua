@@ -6395,7 +6395,7 @@ QBShared.Vehicles = {
 		['hash'] = `m3e36`,
 		['shop'] = 'luxuryautos',
 	},
-	['ocnrmodm4gts etrongt'] = {
+	['rmodm4gts'] = {
 		['name'] = 'M4 GTS Liberty Walk',
 		['brand'] = 'BMW',
 		['model'] = 'rmodm4gts',
