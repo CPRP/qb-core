@@ -712,4 +712,6 @@ QBShared.Items = {
 	['weapon_m110'] 		 		 = {['name'] = 'weapon_m110', 	 	  	 		['label'] = 'M110', 					['weight'] = 23000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_SNIPER',			['image'] = 'm110.png', 									['unique'] = true, 		['useable'] = false,["created"] = nil,	["decay"] = 30.0,     	['description'] = 'A very accurate single-fire rifle'},
 	['weapon_hk416'] 		 		 = {['name'] = 'weapon_hk416', 	 	  			['label'] = 'HK-416', 					['weight'] = 13000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_RIFLE',			['image'] = 'weapon_carbinerifle.png', 				['unique'] = true, 		['useable'] = false,["created"] = nil,	["decay"] = 30.0,     	['description'] = 'A lightweight automatic rifle'},
 
+    ["skateboard"] 					 = {["name"] = "skateboard", 					["label"] = "Skateboard", 				["weight"] = 1, 		["type"] = "item", 		["image"] = "skateboard.png", 			["unique"] = true, 									["useable"] = true, 	["shouldClose"] = true, ["combinable"] = nil, ["description"] = "" },
+
 }
