@@ -259,6 +259,34 @@ QBShared.Jobs = {
             },
         },
 	},
+    ['ottos'] = {
+		label = 'Ottos Dealer',
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = {
+                name = 'Recruit',
+                payment = 75
+            },
+			['1'] = {
+                name = 'Showroom Sales',
+                payment = 100
+            },
+			['2'] = {
+                name = 'Business Sales',
+                payment = 125
+            },
+			['3'] = {
+                name = 'Finance',
+                payment = 150
+            },
+			['4'] = {
+                name = 'Manager',
+				isboss = true,
+                payment = 175
+            },
+        },
+	},
 	['mechanic'] = {
 		label = 'Mechanic',
 		defaultDuty = true,
