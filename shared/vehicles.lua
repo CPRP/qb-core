@@ -400,7 +400,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'motorcycles',
 		['hash'] = `avarus`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['bagger'] = {
 		['name'] = 'Bagger',
@@ -409,7 +409,7 @@ QBShared.Vehicles = {
 		['price'] = 13500,
 		['category'] = 'motorcycles',
 		['hash'] = `bagger`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['bati'] = {
 		['name'] = 'Bati 801',
@@ -463,7 +463,7 @@ QBShared.Vehicles = {
 		['price'] = 28500,
 		['category'] = 'motorcycles',
 		['hash'] = `cliffhanger`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['daemon'] = {
 		['name'] = 'Daemon',
@@ -472,7 +472,7 @@ QBShared.Vehicles = {
 		['price'] = 14000,
 		['category'] = 'motorcycles',
 		['hash'] = `daemon`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['daemon2'] = {
 		['name'] = 'Daemon Custom',
@@ -481,7 +481,7 @@ QBShared.Vehicles = {
 		['price'] = 23000,
 		['category'] = 'motorcycles',
 		['hash'] = `daemon2`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['defiler'] = {
 		['name'] = 'Defiler',
@@ -499,7 +499,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'motorcycles',
 		['hash'] = `deathbike`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['deathbike2'] = {							--DLC
 		['name'] = 'deathbike2',
@@ -508,7 +508,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'motorcycles',
 		['hash'] = `deathbike2`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['deathbike3'] = {							--DLC
 		['name'] = 'deathbike3',
@@ -517,7 +517,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'motorcycles',
 		['hash'] = `deathbike3`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['diablous'] = {
 		['name'] = 'Diablous',
@@ -544,7 +544,7 @@ QBShared.Vehicles = {
 		['price'] = 28000,
 		['category'] = 'motorcycles',
 		['hash'] = `double`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['enduro'] = {
 		['name'] = 'Enduro',
@@ -553,7 +553,7 @@ QBShared.Vehicles = {
 		['price'] = 5500,
 		['category'] = 'motorcycles',
 		['hash'] = `enduro`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['esskey'] = {
 		['name'] = 'Esskey',
@@ -562,7 +562,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'motorcycles',
 		['hash'] = `esskey`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['faggio'] = {
 		['name'] = 'Faggio Sport',
@@ -571,7 +571,7 @@ QBShared.Vehicles = {
 		['price'] = 2000,
 		['category'] = 'motorcycles',
 		['hash'] = `faggio`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['faggio2'] = {
 		['name'] = 'Faggio',
@@ -580,7 +580,7 @@ QBShared.Vehicles = {
 		['price'] = 1900,
 		['category'] = 'motorcycles',
 		['hash'] = `faggio2`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['faggio3'] = {
 		['name'] = 'Faggio Mod',
@@ -589,7 +589,7 @@ QBShared.Vehicles = {
 		['price'] = 2500,
 		['category'] = 'motorcycles',
 		['hash'] = `faggio3`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['fcr'] = {
 		['name'] = 'FCR 1000',
@@ -598,7 +598,7 @@ QBShared.Vehicles = {
 		['price'] = 5000,
 		['category'] = 'motorcycles',
 		['hash'] = `fcr`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['fcr2'] = {
 		['name'] = 'FCR 1000 Custom',
@@ -607,7 +607,7 @@ QBShared.Vehicles = {
 		['price'] = 19000,
 		['category'] = 'motorcycles',
 		['hash'] = `fcr2`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['gargoyle'] = {
 		['name'] = 'Gargoyle',
@@ -616,7 +616,7 @@ QBShared.Vehicles = {
 		['price'] = 32000,
 		['category'] = 'motorcycles',
 		['hash'] = `gargoyle`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['hakuchou'] = {
 		['name'] = 'Hakuchou',
@@ -643,7 +643,7 @@ QBShared.Vehicles = {
 		['price'] = 16000,
 		['category'] = 'motorcycles',
 		['hash'] = `hexer`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['innovation'] = {
 		['name'] = 'Innovation',
@@ -652,7 +652,7 @@ QBShared.Vehicles = {
 		['price'] = 33500,
 		['category'] = 'motorcycles',
 		['hash'] = `innovation`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['lectro'] = {
 		['name'] = 'Lectro',
@@ -661,7 +661,7 @@ QBShared.Vehicles = {
 		['price'] = 28000,
 		['category'] = 'motorcycles',
 		['hash'] = `lectro`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['manchez'] = {
 		['name'] = 'Manchez',
@@ -670,7 +670,7 @@ QBShared.Vehicles = {
 		['price'] = 8300,
 		['category'] = 'motorcycles',
 		['hash'] = `manchez`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['nemesis'] = {
 		['name'] = 'Nemesis',
@@ -679,7 +679,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'motorcycles',
 		['hash'] = `nemesis`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['nightblade'] = {
 		['name'] = 'Nightblade',
@@ -706,7 +706,7 @@ QBShared.Vehicles = {
 		['price'] = 15000,
 		['category'] = 'motorcycles',
 		['hash'] = `pcj`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['ratbike'] = {
 		['name'] = 'Rat Bike',
@@ -715,7 +715,7 @@ QBShared.Vehicles = {
 		['price'] = 3000,
 		['category'] = 'motorcycles',
 		['hash'] = `ratbike`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['ruffian'] = {
 		['name'] = 'Ruffian',
@@ -724,7 +724,7 @@ QBShared.Vehicles = {
 		['price'] = 25000,
 		['category'] = 'motorcycles',
 		['hash'] = `ruffian`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['sanchez'] = {
 		['name'] = 'Sanchez Livery',
@@ -733,7 +733,7 @@ QBShared.Vehicles = {
 		['price'] = 5300,
 		['category'] = 'motorcycles',
 		['hash'] = `sanchez`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['sanchez2'] = {
 		['name'] = 'Sanchez',
@@ -742,7 +742,7 @@ QBShared.Vehicles = {
 		['price'] = 5300,
 		['category'] = 'motorcycles',
 		['hash'] = `sanchez2`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['sanctus'] = {
 		['name'] = 'Sanctus',
@@ -751,7 +751,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'motorcycles',
 		['hash'] = `sanctus`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['shotaro'] = {
 		['name'] = 'Shotaro Concept',
@@ -769,7 +769,7 @@ QBShared.Vehicles = {
 		['price'] = 8000,
 		['category'] = 'motorcycles',
 		['hash'] = `sovereign`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['stryder'] = {
 		['name'] = 'Stryder',
@@ -787,7 +787,7 @@ QBShared.Vehicles = {
 		['price'] = 22000,
 		['category'] = 'motorcycles',
 		['hash'] = `thrust`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['vader'] = {
 		['name'] = 'Vader',
@@ -796,7 +796,7 @@ QBShared.Vehicles = {
 		['price'] = 7200,
 		['category'] = 'motorcycles',
 		['hash'] = `vader`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['vindicator'] = {
 		['name'] = 'Vindicator',
@@ -823,7 +823,7 @@ QBShared.Vehicles = {
 		['price'] = 14000,
 		['category'] = 'motorcycles',
 		['hash'] = `wolfsbane`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['zombiea'] = {
 		['name'] = 'Zombie Bobber',
@@ -832,7 +832,7 @@ QBShared.Vehicles = {
 		['price'] = 28000,
 		['category'] = 'motorcycles',
 		['hash'] = `zombiea`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['zombieb'] = {
 		['name'] = 'Zombie Chopper',
@@ -841,7 +841,7 @@ QBShared.Vehicles = {
 		['price'] = 27000,
 		['category'] = 'motorcycles',
 		['hash'] = `zombieb`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['manchez2'] = {
 		['name'] = 'Manchez',
@@ -850,7 +850,7 @@ QBShared.Vehicles = {
 		['price'] = 14000,
 		['category'] = 'motorcycles',
 		['hash'] = `manchez2`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['shinobi'] = {		--DLC +set sv_enforceGameBuild 2545
 		['name'] = 'Shinobi',
@@ -859,7 +859,7 @@ QBShared.Vehicles = {
 		['price'] = 25000,
 		['category'] = 'motorcycles',
 		['hash'] = `shinobi`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	['reever'] = {		--DLC +set sv_enforceGameBuild 2545
 		['name'] = 'Reever',
@@ -868,7 +868,7 @@ QBShared.Vehicles = {
 		['price'] = 25000,
 		['category'] = 'motorcycles',
 		['hash'] = `reever`,
-		['shop'] = 'pdm',
+		['shop'] = 'ottos',
 	},
 	--- Muscle
 	['blade'] = {
