@@ -6602,6 +6602,33 @@ QBShared.Vehicles = {
 		['hash'] = `mk1rabbit`,
 		['shop'] = 'lsmotors',
 	},
+	['couchcar'] = {
+		['name'] = 'Couchcar',
+		['brand'] = 'Couch',
+		['model'] = 'couchcar',
+		['price'] = 5000,
+		['category'] = 'custom',
+		['hash'] = `couchcar`,
+		['shop'] = 'pdm',
+	},
+	['donk'] = {
+		['name'] = 'Durango Donk',
+		['brand'] = 'Dodge',
+		['model'] = 'donk',
+		['price'] = 18000,
+		['category'] = 'imports',
+		['hash'] = `donk`,
+		['shop'] = 'lsmotors',
+	},
+	['remower'] = {
+		['name'] = 'Drag Mower',
+		['brand'] = 'Mower',
+		['model'] = 'remower',
+		['price'] = 22000,
+		['category'] = 'imports',
+		['hash'] = `remower`,
+		['shop'] = 'lsmotors',
+	},
 	-- movie cars
 	['2f2gts'] = {
 		['name'] = 'Spyder',
