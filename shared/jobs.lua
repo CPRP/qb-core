@@ -289,6 +289,7 @@ QBShared.Jobs = {
 	},
 	['mechanic'] = {
 		label = 'Mechanic',
+        type = "mechanic",
 		defaultDuty = true,
 		offDutyPay = false,
 		grades = {
