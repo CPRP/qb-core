@@ -861,7 +861,7 @@ QBShared.Vehicles = {
 		['hash'] = `shinobi`,
 		['shop'] = 'ottos',
 	},
-	['reever'] = {		--DLC +set sv_enforceGameBuild 2545
+	['reever'] = {		--DLC +set sv_enforceGameBuild 2545     
 		['name'] = 'Reever',
 		['brand'] = 'Western',
 		['model'] = 'reever',
@@ -870,7 +870,52 @@ QBShared.Vehicles = {
 		['hash'] = `reever`,
 		['shop'] = 'ottos',
 	},
-	--- Muscle
+	['softail1'] = {		
+		['name'] = 'Harley Softail',
+		['brand'] = 'Harley Davidson',
+		['model'] = 'softail1',
+		['price'] = 20000,
+		['category'] = 'motorcycles',
+		['hash'] = `softail1`,
+		['shop'] = 'ottos',
+	},
+	['117'] = {		
+		['name'] = '1994 Harley-Davidson Sportster',
+		['brand'] = 'Harley Davidson',
+		['model'] = '117',
+		['price'] = 18000,
+		['category'] = 'motorcycles',
+		['hash'] = `117`,
+		['shop'] = 'ottos',
+	},
+	['flhxs_streetglide_special18'] = {		
+		['name'] = '2018 Harley-Davidson Road Glide',
+		['brand'] = 'Harley Davidson',
+		['model'] = 'flhxs_streetglide_special18',
+		['price'] = 26000,
+		['category'] = 'motorcycles',
+		['hash'] = `flhxs_streetglide_special18`,
+		['shop'] = 'ottos',
+	},
+	['hvrod'] = {		
+		['name'] = 'Harley-Davidson Fat Boy',
+		['brand'] = 'Harley Davidson',
+		['model'] = 'hvrod',
+		['price'] = 26000,
+		['category'] = 'motorcycles',
+		['hash'] = `hvrod`,
+		['shop'] = 'ottos',
+	},
+	['HDIron883'] = {		
+		['name'] = 'Harley-Davidson Iron Sportster 883',
+		['brand'] = 'Harley Davidson',
+		['model'] = 'HDIron883',
+		['price'] = 26000,
+		['category'] = 'motorcycles',
+		['hash'] = `HDIron883`,
+		['shop'] = 'ottos',
+	},
+	--- Muscle 
 	['blade'] = {
 		['name'] = 'Blade',
 		['brand'] = 'Vapid',
@@ -5378,15 +5423,15 @@ QBShared.Vehicles = {
 		['hash'] = `nh2r`,
 		['shop'] = 'lsmotors',
 	},
-	['teslax'] = {
-		['name'] = 'Model X',
-		['brand'] = 'Tesla',
-		['model'] = 'teslax',
-		['price'] = 195000,
-		['category'] = 'custom',
-		['hash'] = `teslax`,
-		['shop'] = 'gabzpdm',
-	},
+	--['teslax'] = {
+		--['name'] = 'Model X',
+		--['brand'] = 'Tesla',
+		--['model'] = 'teslax',
+		--['price'] = 195000,
+		--['category'] = 'custom',
+		--['hash'] = `teslax`,
+		--['shop'] = 'gabzpdm',
+	--},
 	['bentaygast'] = {
 		['name'] = 'Bentayga',
 		['brand'] = 'Bentley',
@@ -5401,18 +5446,18 @@ QBShared.Vehicles = {
 		['brand'] = 'Yamaha',
 		['model'] = 'yz450f',
 		['price'] = 65000,
-		['category'] = 'custom',
+		['category'] = 'motorcycles',
 		['hash'] = `yz450f`,
-		['shop'] = 'gabzpdm',
+		['shop'] = 'ottos',
 	},
 	['tmsm'] = {
 		['name'] = 'Supermoto',
 		['brand'] = 'TM450',
 		['model'] = 'tmsm',
 		['price'] = 53000,
-		['category'] = 'imports',
+		['category'] = 'motorcycles',
 		['hash'] = `tmsm`,
-		['shop'] = 'lsmotors',
+		['shop'] = 'ottos',
 	},
 	['wraith'] = {
 		['name'] = 'Wraith',
@@ -5806,18 +5851,18 @@ QBShared.Vehicles = {
 		['brand'] = 'Harley Davidson',
 		['model'] = 'foxharley2',
 		['price'] = 16000,
-		['category'] = 'custom',
+		['category'] = 'motorcycles',
 		['hash'] = `foxharley2`,
-		['shop'] = 'gabzpdm',
+		['shop'] = 'ottos',
 	},
 	['foxharley1'] = {
 		['name'] = 'Chopper',
 		['brand'] = 'Harley Davidson',
 		['model'] = 'foxharley1',
 		['price'] = 20000,
-		['category'] = 'custom',
+		['category'] = 'motorcycles',
 		['hash'] = `foxharley1`,
-		['shop'] = 'gabzpdm',
+		['shop'] = 'ottos',
 	},
 	['denalihd'] = {
 		['name'] = 'Denali',
@@ -6722,6 +6767,15 @@ QBShared.Vehicles = {
 		['hash'] = `impala`,
 		['shop'] = 'lsmotors',
 	},
+	['s10'] = {
+		['name'] = 'Chevy S 10 (CJ 4)',
+		['brand'] = 'Chevy',
+		['model'] = 's10',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `s10`,
+		['shop'] = 'lsmotors',
+	},
 	-- Coltron Scott
 	['project8'] = {
 		['name'] = 'XE SV Project 8 (Coltron 1)',
@@ -6947,6 +7001,56 @@ QBShared.Vehicles = {
 		['hash'] = `gle`,
 		['shop'] = 'lsmotors',
 	},
+	-- Dale Wayne
+	['kev'] = {
+		['name'] = '2012 Cadillac CTS (Dale 1)',
+		['brand'] = 'Cadillac',
+		['model'] = 'kev',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `kev`,
+		['shop'] = 'lsmotors',
+	},
+	-- Jessi Westin
+	['wildtrak'] = {
+		['name'] = '2021 Ford Bronco (Jesse Westin 1)',
+		['brand'] = 'Ford',
+		['model'] = 'wildtrak',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `wildtrak`,
+		['shop'] = 'lsmotors',
+	},
+	-- Gavin Quinn
+	['bug300ss'] = {
+		['name'] = '2021 Bugatti SS 300 (Gavin Quinn 1)',
+		['brand'] = 'Bugatti',
+		['model'] = 'bug300ss',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `bug300ss`,
+		['shop'] = 'lsmotors',
+	},
+	-- Damon
+	['aperta'] = {
+		['name'] = '2017 Farrari Aperta (Damon 1)',
+		['brand'] = 'Farrari',
+		['model'] = 'aperta',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `aperta`,
+		['shop'] = 'lsmotors',
+	},
+	-- Tommy Twotoes 
+	['rmodmi8lb'] = {
+		['name'] = 'BMW I8 Liberty (Tommy Twotoes 1)',
+		['brand'] = 'BMW',
+		['model'] = 'rmodmi8lb',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `rmodmi8lb`,
+		['shop'] = 'lsmotors',
+	},
 	-- Contest Winners
 	['ghispo2'] = {
 		['name'] = '2014 Maserati Ghibli',
@@ -6957,7 +7061,8 @@ QBShared.Vehicles = {
 		['hash'] = `ghispo2`,
 		['shop'] = 'lsmotors',
 	},
-}
+
+},
 
 for _, v in pairs(QBShared.Vehicles) do
 	QBShared.VehicleHashes[v.hash] = v
