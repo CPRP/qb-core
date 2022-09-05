@@ -915,6 +915,60 @@ QBShared.Vehicles = {
 		['hash'] = `HDIron883`,
 		['shop'] = 'ottos',
 	},
+	['daytona'] = {		
+		['name'] = 'Triumph Daytona 675',
+		['brand'] = 'Triumph',
+		['model'] = 'daytona',
+		['price'] = 40000,
+		['category'] = 'motorcycles',
+		['hash'] = `daytona`,
+		['shop'] = 'ottos',
+	},
+	['zombiev8'] = {		
+		['name'] = 'Western Zombie V8',
+		['brand'] = 'Zombie',
+		['model'] = 'zombiev8',
+		['price'] = 26000,
+		['category'] = 'motorcycles',
+		['hash'] = `zombiev8`,
+		['shop'] = 'ottos',
+	},
+	['ktm450sx'] = {		
+		['name'] = 'KTM 450 SX',
+		['brand'] = 'KTM',
+		['model'] = 'ktm450sx',
+		['price'] = 26000,
+		['category'] = 'motorcycles',
+		['hash'] = `ktm450sx`,
+		['shop'] = 'ottos',
+	},
+	['IndianCDH'] = {		
+		['name'] = '2019 Indian Chief Dark Horse',
+		['brand'] = 'Indian',
+		['model'] = 'IndianCDH',
+		['price'] = 26000,
+		['category'] = 'motorcycles',
+		['hash'] = `IndianCDH`,
+		['shop'] = 'ottos',
+	},
+	['cbr1000rrr'] = {		
+		['name'] = '2020 Honda CBR',
+		['brand'] = 'Honda',
+		['model'] = 'cbr1000rrr',
+		['price'] = 26000,
+		['category'] = 'motorcycles',
+		['hash'] = `cbr1000rrr`,
+		['shop'] = 'ottos',
+	},
+	['slingshot'] = {		
+		['name'] = '2015 Polaris Slingshot',
+		['brand'] = 'Polaris',
+		['model'] = 'slingshot',
+		['price'] = 26000,
+		['category'] = 'motorcycles',
+		['hash'] = `slingshot`,
+		['shop'] = 'ottos',
+	},
 	--- Muscle 
 	['blade'] = {
 		['name'] = 'Blade',
@@ -5423,15 +5477,15 @@ QBShared.Vehicles = {
 		['hash'] = `nh2r`,
 		['shop'] = 'lsmotors',
 	},
-	--['teslax'] = {
-		--['name'] = 'Model X',
-		--['brand'] = 'Tesla',
-		--['model'] = 'teslax',
-		--['price'] = 195000,
-		--['category'] = 'custom',
-		--['hash'] = `teslax`,
-		--['shop'] = 'gabzpdm',
-	--},
+	['teslax'] = {
+		['name'] = 'Model X',
+		['brand'] = 'Tesla',
+		['model'] = 'teslax',
+		['price'] = 195000,
+		['category'] = 'custom',
+		['hash'] = `teslax`,
+		['shop'] = 'gabzpdm',
+	},
 	['bentaygast'] = {
 		['name'] = 'Bentayga',
 		['brand'] = 'Bentley',
@@ -6841,6 +6895,15 @@ QBShared.Vehicles = {
 		['hash'] = `ocnauda8l22h`,
 		['shop'] = 'lsmotors',
 	},
+	['ap2'] = {
+		['name'] = 'Honda S2000 (Ellie 4)',
+		['brand'] = 'Honda',
+		['model'] = 'ap2',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `ap2`,
+		['shop'] = 'lsmotors',
+	},
 	-- Brandin Martinez
 	['gtrnismo17'] = {
 		['name'] = 'GTR 35 Nismo (Brandin 1)',
@@ -6869,7 +6932,16 @@ QBShared.Vehicles = {
 		['hash'] = `topfoil`,
 		['shop'] = 'lsmotors',
 	},
-	-- Andrew Smith
+	['skylinekaira'] = {
+		['name'] = 'Nessan Skyline GT-R (Brandin 4)',
+		['brand'] = 'Nessan',
+		['model'] = 'skylinekaira',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `skylinekaira`,
+		['shop'] = 'lsmotors',
+	},
+	-- Andrew  Smith 
 	['belair'] = {
 		['name'] = '1957 Bel Air (Andrew 1)',
 		['brand'] = 'Chevy',
@@ -6888,13 +6960,13 @@ QBShared.Vehicles = {
 		['hash'] = `charger1969`,
 		['shop'] = 'lsmotors',
 	},
-	['e34'] = {
-		['name'] = '1960 Corvette (Andrew 3)',
+	['impala59c'] = {
+		['name'] = '1959 impala (Andrew 3)',
 		['brand'] = 'Chevy',
-		['model'] = 'e34',
+		['model'] = 'impala59c',
 		['price'] = 10,
 		['category'] = 'oneofone',
-		['hash'] = `e34`,
+		['hash'] = `impala59c`,
 		['shop'] = 'lsmotors',
 	},
 	-- Jesse Hill
@@ -7013,7 +7085,7 @@ QBShared.Vehicles = {
 	},
 	-- Jessi Westin
 	['wildtrak'] = {
-		['name'] = '2021 Ford Bronco (Jesse Westin 1)',
+		['name'] = '2021 Ford Bronco (Jessi 1)',
 		['brand'] = 'Ford',
 		['model'] = 'wildtrak',
 		['price'] = 10,
@@ -7023,7 +7095,7 @@ QBShared.Vehicles = {
 	},
 	-- Gavin Quinn
 	['bug300ss'] = {
-		['name'] = '2021 Bugatti SS 300 (Gavin Quinn 1)',
+		['name'] = '2021 Bugatti SS 300 (Gavin 1)',
 		['brand'] = 'Bugatti',
 		['model'] = 'bug300ss',
 		['price'] = 10,
@@ -7043,7 +7115,7 @@ QBShared.Vehicles = {
 	},
 	-- Tommy Twotoes 
 	['rmodmi8lb'] = {
-		['name'] = 'BMW I8 Liberty (Tommy Twotoes 1)',
+		['name'] = 'BMW I8 Liberty (Tommy 1)',
 		['brand'] = 'BMW',
 		['model'] = 'rmodmi8lb',
 		['price'] = 10,
@@ -7051,7 +7123,77 @@ QBShared.Vehicles = {
 		['hash'] = `rmodmi8lb`,
 		['shop'] = 'lsmotors',
 	},
-	-- Contest Winners
+	-- Bouman The Chief
+	['180326'] = {
+		['name'] = '180sx 2JZ (Bouman 1)',
+		['brand'] = 'Nissan',
+		['model'] = '180326',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `180326`,
+		['shop'] = 'lsmotors',
+	},
+	-- Firoza Green
+	['czr2'] = {
+		['name'] = '2018 Colorado ZR2 (Firoza 1)',
+		['brand'] = 'Chevrolet',
+		['model'] = 'czr2',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `czr2`,
+		['shop'] = 'lsmotors',
+	},
+	-- Patrick M
+	['eleanor'] = {
+		['name'] = 'Shelby GT500 Eleanor (Patrick 1)',
+		['brand'] = 'Ford',
+		['model'] = 'eleanor',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `eleanor`,
+		['shop'] = 'lsmotors',
+	},
+	-- Azirs
+	['c63w205'] = {
+		['name'] = '2017 Mercedes AMG C63 S (Azirs 1)',
+		['brand'] = 'Mercedes',
+		['model'] = 'c63w205',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `c63w205`,
+		['shop'] = 'lsmotors',
+	},
+	-- Calvin Thomas
+	['mcgt20'] = {
+		['name'] = '2020 McLaren GT (Calvin 1)',
+		['brand'] = 'McLaren',
+		['model'] = 'mcgt20',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `mcgt20`,
+		['shop'] = 'lsmotors',
+	},
+	-- John Wick
+	['gdaq50'] = {
+		['name'] = '2014 Infiniti Q50 VIP (John 1)',
+		['brand'] = 'Infiniti',
+		['model'] = 'gdaq50',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `gdaq50`,
+		['shop'] = 'lsmotors',
+	},
+		-- Irwin Dundee
+		['italia458'] = {
+			['name'] = '2014 Lykan Hypershot (Irwin 1)',
+			['brand'] = 'Lykan',
+			['model'] = 'italia458',
+			['price'] = 10,
+			['category'] = 'oneofone',
+			['hash'] = `italia458`,
+			['shop'] = 'lsmotors',
+		},
+	-- Contest Winners 
 	['ghispo2'] = {
 		['name'] = '2014 Maserati Ghibli',
 		['brand'] = 'Maserati',
@@ -7061,8 +7203,7 @@ QBShared.Vehicles = {
 		['hash'] = `ghispo2`,
 		['shop'] = 'lsmotors',
 	},
-
-},
+}
 
 for _, v in pairs(QBShared.Vehicles) do
 	QBShared.VehicleHashes[v.hash] = v
