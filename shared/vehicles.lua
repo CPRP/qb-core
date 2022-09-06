@@ -5677,7 +5677,7 @@ QBShared.Vehicles = {
 	},
 	['MVISIONGT'] = {
 		['name'] = 'AMG VISION GT',
-		['brand'] = 'Mercedes BENZ',
+		['brand'] = 'Mercedes Benz',
 		['model'] = 'MVISIONGT',
 		['price'] = 74000,
 		['category'] = 'imports',
@@ -6289,7 +6289,7 @@ QBShared.Vehicles = {
 	},
 	['dawn'] = {
 		['name'] = 'Mansory RR',
-		['brand'] = 'Rolls Royse',
+		['brand'] = 'Rolls Royce',
 		['model'] = 'dawn',
 		['price'] = 48000,
 		['category'] = 'imports',
