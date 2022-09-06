@@ -64,51 +64,63 @@ QBShared.Jobs = {
                 payment = 100
             },
 			['11'] = {
-                name = 'BCSO Officer',
+                name = 'BCSO Deputy',
                 payment = 125
             },
             ['12'] = {
-                name = 'BCSO SRT',
+                name = 'BCSO Sen. Deputy',
                 payment = 150
             },
 			['13'] = {
-                name = 'BCSO FTO',
+                name = 'BCSO Corporal',
                 payment = 150
             },
 			['14'] = {
-                name = 'BCSO Supervisor',
+                name = 'BCSO Sergeant',
                 payment = 175
             },
 			['15'] = {
-                name = 'BCSO Head',
+                name = 'BCSO Lieutenant',
+                payment = 200
+            },
+            ['16'] = {
+                name = 'BCSO Captain',
+                payment = 200
+            },
+            ['17'] = {
+                name = 'BCSO Under Sheriff',
+                payment = 200
+            },
+            ['18'] = {
+                name = 'BCSO Sheriff',
 				isboss = true,
                 payment = 200
             },
-            ['16'] = { --San Andreas Highway Patrol (SAHP)
+            ['19'] = { --San Andreas Highway Patrol (SAHP)
                 name = 'SAHP Cadet',
                 payment = 100
             },
-			['17'] = {
+			['20'] = {
                 name = 'SAHP Officer',
                 payment = 125
             },
-            ['18'] = {
+            ['21'] = {
                 name = 'SAHP SWAT',
                 payment = 150
             },
-            ['19'] = {
+            ['22'] = {
                 name = 'SAHP CID',
                 payment = 150
             },
-			['20'] = {
+			['23'] = {
                 name = 'SAHP FTO',
                 payment = 150
             },
-			['21'] = {
+			['24'] = {
                 name = 'SAHP Supervisor',
                 payment = 175
             },
-			['22'] = {
+			['25'] = {
                 name = 'SAHP Head',
 				isboss = true,
                 payment = 200
