@@ -7183,16 +7183,26 @@ QBShared.Vehicles = {
 		['hash'] = `gdaq50`,
 		['shop'] = 'lsmotors',
 	},
-		-- Irwin Dundee
-		['italia458'] = {
-			['name'] = '2014 Lykan Hypershot (Irwin 1)',
-			['brand'] = 'Lykan',
-			['model'] = 'italia458',
-			['price'] = 10,
-			['category'] = 'oneofone',
-			['hash'] = `italia458`,
-			['shop'] = 'lsmotors',
-		},
+	-- Irwin Dundee
+	['italia458'] = {
+		['name'] = '2014 Lykan Hypershot (Irwin 1)',
+		['brand'] = 'Lykan',
+		['model'] = 'italia458',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `italia458`,
+		['shop'] = 'lsmotors',
+	},
+	-- Tommy B
+	['stingraywb'] = {
+		['name'] = 'Corvette C8 Stingray (Tommy 1)',
+		['brand'] = 'Chevy',
+		['model'] = 'stingraywb',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `stingraywb`,
+		['shop'] = 'lsmotors',
+	},
 	-- Contest Winners 
 	['ghispo2'] = {
 		['name'] = '2014 Maserati Ghibli',
