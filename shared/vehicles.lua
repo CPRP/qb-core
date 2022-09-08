@@ -6792,6 +6792,15 @@ QBShared.Vehicles = {
 		['hash'] = `mst`,
 		['shop'] = 'lsmotors',
 	},
+	['jurassicjeep'] = {
+		['name'] = 'Jurassic Jeep',
+		['brand'] = 'Jurassic Park',
+		['model'] = 'jurassicjeep',
+		['price'] = 70000,
+		['category'] = 'moviecars',
+		['hash'] = `jurassicjeep`,
+		['shop'] = 'lsmotors',
+	},
 	-- [[1 of 1 vehicles]]
 	-- CJ Ranells
 	['rampage10'] = {
@@ -7184,13 +7193,13 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	-- Irwin Dundee
-	['italia458'] = {
+	['lykan'] = {
 		['name'] = '2014 Lykan Hypershot (Irwin 1)',
 		['brand'] = 'Lykan',
-		['model'] = 'italia458',
+		['model'] = 'lykan',
 		['price'] = 10,
 		['category'] = 'oneofone',
-		['hash'] = `italia458`,
+		['hash'] = `lykan`,
 		['shop'] = 'lsmotors',
 	},
 	-- Tommy B
