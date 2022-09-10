@@ -15,13 +15,31 @@ QBShared.Gangs = {
                 name = 'Recruit'
             },
 			['1'] = {
-                name = 'Enforcer'
+                name = 'Soldier'
             },
 			['2'] = {
-                name = 'Shot Caller'
+                name = 'Sargeant'
             },
-			['3'] = {
-                name = 'Boss',
+            ['3'] = {
+                name = 'Gun Runner'
+            },
+            ['4'] = {
+                name = 'Drug Runner'
+            },
+            ['5'] = {
+                name = 'Lieutenant',
+                isboss = true
+            },
+            ['6'] = {
+                name = 'Captain',
+                isboss = true
+            },
+            ['7'] = {
+                name = 'Vice President',
+                isboss = true
+            },
+			['8'] = {
+                name = 'President',
 				isboss = true
             },
         },
@@ -77,20 +95,35 @@ QBShared.Gangs = {
             },
         },
 	},
-	['devilssons'] = {
-		label = 'The Devils Sons',
+	['ogmafia'] = {
+		label = 'OG Mafia Bloods',
 		grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Regular Member'
             },
 			['1'] = {
-                name = 'Enforcer'
+                name = 'Lieutenant'
             },
 			['2'] = {
-                name = 'Shot Caller'
+                name = 'Enforcer'
             },
-			['3'] = {
-                name = 'Boss',
+            ['3'] = {
+                name = 'Enforcer'
+            },
+            ['4'] = {
+                name = 'Secretary/Treasure',
+                isboss = true
+            },
+            ['5'] = {
+                name = 'Sargent At Arms',
+                isboss = true
+            },
+            ['6'] = {
+                name = 'Vice President',
+                isboss = true
+            },
+			['7'] = {
+                name = 'President',
 				isboss = true
             },
         },
