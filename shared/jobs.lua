@@ -133,44 +133,37 @@ QBShared.Jobs = {
 		offDutyPay = false,
 		grades = {
             ['0'] = {
-                name = 'Recruit',
+                name = 'Probationary Firefighter',
                 payment = 100
             },
 			['1'] = {
-                name = 'Officer',
-                payment = 125
+                name = 'Firefighter',
+                payment = 100
             },
 			['2'] = {
-                name = 'Sergeant',
-                payment = 150
+                name = 'Engineer',
+                payment = 125
             },
 			['3'] = {
                 name = 'Lieutenant',
-                payment = 175
-            },
-			['4'] = {
-                name = 'Chief',
-				isboss = true,
-                payment = 200
-            },
-            ['5'] = {
-                name = 'Emergency Medical Responder (EMT)',
-                payment = 100
-            },
-			['6'] = {
-                name = 'Emergency Medical Technician (EMT)',
                 payment = 125
             },
-			['7'] = {
-                name = 'Advanced Emergency Medical Technician (EMT)',
+			['4'] = {
+                name = 'Captain',
+				isboss = true,
                 payment = 150
             },
-			['8'] = {
-                name = 'Paramedic',
+            ['5'] = {
+                name = 'Battalion Chief',
+                payment = 150
+            },
+			['6'] = {
+                name = 'Assistant Chief',
+                isboss = true,
                 payment = 175
             },
-            ['9'] = {
-                name = 'Critical Care Paramedic',
+			['7'] = {
+                name = 'Chief',
                 isboss = true,
                 payment = 200
             },
@@ -232,7 +225,7 @@ QBShared.Jobs = {
             },
         },
 	},
-     ['bus'] = {
+    ['bus'] = {
 		label = 'Bus',
 		defaultDuty = true,
 		offDutyPay = false,
@@ -271,8 +264,36 @@ QBShared.Jobs = {
             },
         },
 	},
-    ['ottos'] = {
-		label = 'Ottos Dealer',
+    -- ['ottos'] = {
+	-- 	label = 'Ottos Dealer',
+	-- 	defaultDuty = true,
+	-- 	offDutyPay = false,
+	-- 	grades = {
+    --         ['0'] = {
+    --             name = 'Recruit',
+    --             payment = 75
+    --         },
+	-- 		['1'] = {
+    --             name = 'Showroom Sales',
+    --             payment = 100
+    --         },
+	-- 		['2'] = {
+    --             name = 'Business Sales',
+    --             payment = 125
+    --         },
+	-- 		['3'] = {
+    --             name = 'Finance',
+    --             payment = 150
+    --         },
+	-- 		['4'] = {
+    --             name = 'Manager',
+	-- 			isboss = true,
+    --             payment = 175
+    --         },
+    --     },
+	-- },
+    ['sanders'] = {
+		label = 'Sanders Dealer',
 		defaultDuty = true,
 		offDutyPay = false,
 		grades = {
@@ -394,17 +415,17 @@ QBShared.Jobs = {
             },
         },
 	},
-	['vineyard'] = {
-		label = 'Vineyard',
-		defaultDuty = true,
-		offDutyPay = false,
-		grades = {
-            ['0'] = {
-                name = 'Picker',
-                payment = 150
-            },
-        },
-	},
+	-- ['vineyard'] = {
+	-- 	label = 'Vineyard',
+	-- 	defaultDuty = true,
+	-- 	offDutyPay = false,
+	-- 	grades = {
+    --         ['0'] = {
+    --             name = 'Picker',
+    --             payment = 150
+    --         },
+    --     },
+	-- },
 	['hotdog'] = {
 		label = 'Hotdog',
 		defaultDuty = true,
@@ -492,33 +513,6 @@ QBShared.Jobs = {
 			['2'] = { name = 'Experienced', payment = 100 },
 			['3'] = { name = 'Advanced', payment = 125 },
 			['4'] = { name = 'Manager', isboss = true, payment = 150 },
-        },
-	},
-    ["kfc"] = {
-		label = "KFC Employee",
-		defaultDuty = true,
-		grades = {
-            ['0'] = {
-                name = "Trainee",
-                payment = 500
-            },
-			['1'] = {
-                name = "Employee",
-                payment = 750
-            },
-			['2'] = {
-                name = "Burger Flipper",
-                payment = 1000
-            },
-			['3'] = {
-                name = "Manager",
-                payment = 1250
-            },
-			['4'] = {
-                name = "CEO",
-				isboss = true,
-                payment = 1500
-            },
         },
 	},
     ['pilot'] = {
