@@ -114,6 +114,7 @@ function QBCore.Player.CheckPlayerData(source, PlayerData)
     PlayerData.metadata['callsign'] = PlayerData.metadata['callsign'] or 'NO CALLSIGN'
     PlayerData.metadata['fingerprint'] = PlayerData.metadata['fingerprint'] or QBCore.Player.CreateFingerId()
     PlayerData.metadata['walletid'] = PlayerData.metadata['walletid'] or QBCore.Player.CreateWalletId()
+    PlayerData.metadata['drugxp'] = PlayerData.metadata['drugxp'] or 0 -- Added for drugs
     PlayerData.metadata['criminalrecord'] = PlayerData.metadata['criminalrecord'] or {
         ['hasRecord'] = false,
         ['date'] = nil
@@ -134,6 +135,11 @@ function QBCore.Player.CheckPlayerData(source, PlayerData)
     PlayerData.metadata['phonedata'] = PlayerData.metadata['phonedata'] or {
         SerialNumber = QBCore.Player.CreateSerialNumber(),
         InstalledApps = {},
+    }
+    PlayerData.metadata['lambratrucker'] = PlayerData.metadata['lambratrucker'] or { --[[lambra-advancedtrucking]]
+        ['level'] = 0,
+        ['distance'] = 0,
+        ['pristine'] = 0
     }
     -- Job
     if PlayerData.job and PlayerData.job.name and not QBCore.Shared.Jobs[PlayerData.job.name] then PlayerData.job = nil end
