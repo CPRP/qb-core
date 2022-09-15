@@ -147,15 +147,6 @@ QBShared.Vehicles = {
 		['hash'] = `brioso2`,
 		['shop'] = 'gabzpdm',
 	},
-	['weevil'] = {
-		['name'] = 'Weevil',
-		['brand'] = 'BF',
-		['model'] = 'weevil',
-		['price'] = 9000,
-		['category'] = 'compacts',
-		['hash'] = `weevil`,
-		['shop'] = 'gabzpdm',
-	},
 	--- Coupes
 	['cogcabrio'] = {
 		['name'] = 'Cognoscenti Cabrio',
@@ -544,15 +535,6 @@ QBShared.Vehicles = {
 		['price'] = 28000,
 		['category'] = 'motorcycles',
 		['hash'] = `double`,
-		['shop'] = 'sanders',
-	},
-	['enduro'] = {
-		['name'] = 'Enduro',
-		['brand'] = 'Dinka',
-		['model'] = 'enduro',
-		['price'] = 5500,
-		['category'] = 'motorcycles',
-		['hash'] = `enduro`,
 		['shop'] = 'sanders',
 	},
 	['esskey'] = {
@@ -1806,15 +1788,6 @@ QBShared.Vehicles = {
 		['category'] = 'offroad',
 		['model'] = 'verus',
 		['hash'] = `verus`,
-		['shop'] = 'gabzpdm',
-	},
-	['winky'] = {
-		['name'] = 'Winky',
-		['brand'] = 'Vapid',
-		['price'] = 10000,
-		['category'] = 'offroad',
-		['model'] = 'winky',
-		['hash'] = `winky`,
 		['shop'] = 'gabzpdm',
 	},
 	['f350offroadspec'] = {
@@ -6773,7 +6746,7 @@ QBShared.Vehicles = {
 		['hash'] = `fnf`,
 		['shop'] = 'lsmotors',
 	},
-	-- Campers Dealership
+	--[[Campers Dealership]]
 	['camper'] = {
 		['name'] = 'Camper',
 		['brand'] = 'RV',
@@ -6838,7 +6811,7 @@ QBShared.Vehicles = {
 		['hash'] = `galaxyroamer`,
 		['shop'] = '',
 	},
-	-- movie cars
+	--[[movie cars]]
 	['ateamvan'] = {
 		['name'] = 'A Team',
 		['brand'] = 'GMC',
@@ -6893,15 +6866,6 @@ QBShared.Vehicles = {
 		['hash'] = `mst`,
 		['shop'] = 'lsmotors',
 	},
-	['jurassicjeep'] = {
-		['name'] = 'Jurassic Jeep',
-		['brand'] = 'Jurassic Park',
-		['model'] = 'jurassicjeep',
-		['price'] = 18000,
-		['category'] = 'moviecars',
-		['hash'] = `jurassicjeep`,
-		['shop'] = 'lsmotors',
-	},
 	['patty'] = {
 		['name'] = 'Crabby Patty',
 		['brand'] = 'Spongebob',
@@ -6910,6 +6874,70 @@ QBShared.Vehicles = {
 		['category'] = 'moviecars',
 		['hash'] = `patty`,
 		['shop'] = 'lsmotors',
+	},
+	-- [[Cairo Perico]]
+	['jurassicjeep'] = {
+		['name'] = 'Jurassic Jeep',
+		['brand'] = 'Jurassic Park',
+		['model'] = 'jurassicjeep',
+		['price'] = 18000,
+		['category'] = 'islands',
+		['hash'] = `jurassicjeep`,
+		['shop'] = 'island',
+	},
+	['weevil'] = {
+		['name'] = 'Weevil',
+		['brand'] = 'BF',
+		['model'] = 'weevil',
+		['price'] = 9000,
+		['category'] = 'islands',
+		['hash'] = `weevil`,
+		['shop'] = 'island',
+	},
+	['winky'] = {
+		['name'] = 'Winky',
+		['brand'] = 'Vapid',
+		['price'] = 10000,
+		['category'] = 'islands',
+		['model'] = 'winky',
+		['hash'] = `winky`,
+		['shop'] = 'island',
+	},
+	['enduro'] = {
+		['name'] = 'Enduro',
+		['brand'] = 'Dinka',
+		['model'] = 'enduro',
+		['price'] = 5500,
+		['category'] = 'islands',
+		['hash'] = `enduro`,
+		['shop'] = 'island',
+	},
+	['vetir'] = {
+		['name'] = 'Vetir',
+		['brand'] = 'Vapid',
+		['model'] = 'vetir',
+		['price'] = 20000,
+		['category'] = 'islands',
+		['hash'] = `vetir`,
+		['shop'] = 'island',
+	},
+	['squaddie'] = {
+		['name'] = 'Squaddie',
+		['brand'] = 'Vapid',
+		['model'] = 'squaddie',
+		['price'] = 16000,
+		['category'] = 'islands',
+		['hash'] = `squaddie`,
+		['shop'] = 'island',
+	},
+	['hmmwv'] = {
+		['name'] = 'Hummvee',
+		['brand'] = 'Hummer',
+		['model'] = 'hmmwv',
+		['price'] = 18000,
+		['category'] = 'islands',
+		['hash'] = `hmmwv`,
+		['shop'] = 'island',
 	},
 	-- [[1 of 1 vehicles]]
 	-- CJ Ranells
