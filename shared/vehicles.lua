@@ -4789,6 +4789,33 @@ QBShared.Vehicles = {
 		['hash'] = `code319silv`,
 		['shop'] = 'LSPDVS',
 	},
+    ['mach1rb'] = {
+		['name'] = '2021 Mustang',
+		['brand'] = 'Ford',
+		['model'] = 'mach1rb',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `mach1rb`,
+		['shop'] = 'LSPDVS',
+	},
+	['poldemonrb'] = {
+		['name'] = '2018 Demon',
+		['brand'] = 'Dodge',
+		['model'] = 'poldemonrb',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `poldemonrb`,
+		['shop'] = 'LSPDVS',
+	},
+	['zr1rb'] = {
+		['name'] = '2019 ZR1 Corvette',
+		['brand'] = 'Chevy',
+		['model'] = 'zr1rb',
+		['price'] = 100,
+		['category'] = 'lspd',
+		['hash'] = `zr1rb`,
+		['shop'] = 'LSPDVS',
+	},
 	--SAHP
 	['liberty18charg'] = {
 		['name'] = '2018 Charger',
