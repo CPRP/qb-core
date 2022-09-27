@@ -4789,7 +4789,7 @@ QBShared.Vehicles = {
 		['hash'] = `code319silv`,
 		['shop'] = 'LSPDVS',
 	},
-    ['mach1rb'] = {
+	['mach1rb'] = {
 		['name'] = '2021 Mustang',
 		['brand'] = 'Ford',
 		['model'] = 'mach1rb',
@@ -7023,6 +7023,15 @@ QBShared.Vehicles = {
 		['hash'] = `DragNova`,
 		['shop'] = 'lsmotors',
 	},
+	['BUGATTI'] = {
+		['name'] = 'Veyron (Coltron 5)',
+		['brand'] = 'Bugatti',
+		['model'] = 'BUGATTI',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `BUGATTI`,
+		['shop'] = 'lsmotors',
+	},
 	-- Ellie Martinez
 	['brz13'] = {
 		['name'] = 'BRZ (Ellie 1)',
@@ -7058,6 +7067,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `ap2`,
+		['shop'] = 'lsmotors',
+	},
+	['agt12'] = {
+		['name'] = 'Vantage GT12 (Ellie 5)',
+		['brand'] = 'Aston Martin',
+		['model'] = 'agt12',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `agt12`,
 		['shop'] = 'lsmotors',
 	},
 	-- Brandin Martinez
@@ -7097,7 +7115,16 @@ QBShared.Vehicles = {
 		['hash'] = `skylinekaira`,
 		['shop'] = 'lsmotors',
 	},
-	-- Andrew  Smith 
+	['bmeclipse95'] = {
+		['name'] = 'Eclipse GS 1995 (Brandin 5)',
+		['brand'] = 'Mitsubishi',
+		['model'] = 'bmeclipse95',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `bmeclipse95`,
+		['shop'] = 'lsmotors',
+	},
+	-- Andrew  Smith
 	['belair'] = {
 		['name'] = '1957 Bel Air (Andrew 1)',
 		['brand'] = 'Chevy',
@@ -7123,6 +7150,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `impala59c`,
+		['shop'] = 'lsmotors',
+	},
+	['hornet52'] = {
+		['name'] = '1952 Hornet (Andrew 4)',
+		['brand'] = 'Hudson',
+		['model'] = 'hornet52',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `hornet52`,
 		['shop'] = 'lsmotors',
 	},
 	-- Jesse Hill
@@ -7160,6 +7196,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `c8z0623`,
+		['shop'] = 'lsmotors',
+	},
+	['zondacinque'] = {
+		['name'] = '2009 Zonda Cinque (Jesse 5)',
+		['brand'] = 'Pagani',
+		['model'] = 'zondacinque',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `zondacinque`,
 		['shop'] = 'lsmotors',
 	},
 	-- Earl Johnson
@@ -7220,6 +7265,15 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	-- David Cole
+	['mas3500'] = {
+		['name'] = '3500 GT (David 2)',
+		['brand'] = 'Maserati',
+		['model'] = 'mas3500',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `mas3500`,
+		['shop'] = 'lsmotors',
+	},
 	['gle'] = {
 		['name'] = 'GLE (David 1)',
 		['brand'] = 'Mercedez',
@@ -7239,6 +7293,15 @@ QBShared.Vehicles = {
 		['hash'] = `kev`,
 		['shop'] = 'lsmotors',
 	},
+	['valkyrietp'] = {
+		['name'] = '2020 Valkyrie TrackPack (Dale 2)',
+		['brand'] = 'Aston Martin',
+		['model'] = 'valkyrietp',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `valkyrietp`,
+		['shop'] = 'lsmotors',
+	},
 	-- Jessi Westin
 	['wildtrak'] = {
 		['name'] = 'Bronco (Jessi 1)',
@@ -7247,6 +7310,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `wildtrak`,
+		['shop'] = 'lsmotors',
+	},
+	['judge'] = {
+		['name'] = '1969 GTO Judge (Jessi 2)',
+		['brand'] = 'Pontiac',
+		['model'] = 'judge',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `judge`,
 		['shop'] = 'lsmotors',
 	},
 	-- Gavin Quinn
@@ -7259,6 +7331,15 @@ QBShared.Vehicles = {
 		['hash'] = `bug300ss`,
 		['shop'] = 'lsmotors',
 	},
+	['batmobile'] = {
+		['name'] = '1989 Batmobile (Gavin 2)',
+		['brand'] = 'Wayne Enterprises',
+		['model'] = 'batmobile',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `batmobile`,
+		['shop'] = 'lsmotors',
+	},
 	-- Damon
 	['aperta'] = {
 		['name'] = 'Aperta (Damon 1)',
@@ -7269,6 +7350,15 @@ QBShared.Vehicles = {
 		['hash'] = `aperta`,
 		['shop'] = 'lsmotors',
 	},
+	['terzo'] = {
+		['name'] = '2018 Terzo Millennio (Damon 2)',
+		['brand'] = 'Lamborghini',
+		['model'] = 'terzo',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `terzo`,
+		['shop'] = 'lsmotors',
+	},
 	-- Tommy Twotoes 
 	['rmodmi8lb'] = {
 		['name'] = 'I8 Liberty (Tommy 1)',
@@ -7277,6 +7367,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `rmodmi8lb`,
+		['shop'] = 'lsmotors',
+	},
+	['rs520'] = {
+		['name'] = 'RS5 Coupe 2020 (Tommy 2)',
+		['brand'] = 'Audi',
+		['model'] = 'rs520',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `rs520`,
 		['shop'] = 'lsmotors',
 	},
 	-- Bouman The Chief
@@ -7297,6 +7396,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `czr2`,
+		['shop'] = 'lsmotors',
+	},
+	['bm66'] = {
+		['name'] = 'Batmobile 1966 (Firoza 1)',
+		['brand'] = 'Batmobile',
+		['model'] = 'bm66',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `bm66`,
 		['shop'] = 'lsmotors',
 	},
 	-- Patrick M
@@ -7329,6 +7437,15 @@ QBShared.Vehicles = {
 		['hash'] = `mcgt20`,
 		['shop'] = 'lsmotors',
 	},
+	['chargerf8'] = {
+		['name'] = 'Charger (Calvin 2)',
+		['brand'] = 'Dodge',
+		['model'] = 'chargerf8',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `chargerf8`,
+		['shop'] = 'lsmotors',
+	},
 	-- John Wick
 	['gdaq50'] = {
 		['name'] = 'Q50 VIP (John 1)',
@@ -7346,6 +7463,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `RC350`,
+		['shop'] = 'lsmotors',
+	},
+	['evoz'] = {
+		['name'] = 'Lancer (John 3)',
+		['brand'] = 'Mitsubishi',
+		['model'] = 'evoz',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `evoz`,
 		['shop'] = 'lsmotors',
 	},
 	-- Irwin Dundee
@@ -7378,6 +7504,15 @@ QBShared.Vehicles = {
 		['hash'] = `gtz34`,
 		['shop'] = 'lsmotors',
 	},
+	['spyker'] = {
+		['name'] = '2016 Vulcan (Fuzzy 2)',
+		['brand'] = 'Aston Martin',
+		['model'] = 'spyker',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `spyker`,
+		['shop'] = 'lsmotors',
+	},
 	-- John Gaffney
 	['ikx3vtec94'] = {
 		['name'] = '1994 Civic (Gaffney 1)',
@@ -7386,6 +7521,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `ikx3vtec94`,
+		['shop'] = 'lsmotors',
+	},
+	['arsx'] = {
+		['name'] = 'RSX Widebody (Gaffney 2)',
+		['brand'] = 'Acura',
+		['model'] = 'arsx',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `arsx`,
 		['shop'] = 'lsmotors',
 	},
 	-- Zon3_
@@ -7428,7 +7572,56 @@ QBShared.Vehicles = {
 		['hash'] = `topcar720`,
 		['shop'] = 'lsmotors',
 	},
-	-- Contest Winners 
+	['ocnrrvn100'] = {
+		['name'] = '2016 103EX Vision NEXT 100 (JDizzle 2)',
+		['brand'] = 'Rolls-Royce',
+		['model'] = 'ocnrrvn100',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `ocnrrvn100`,
+		['shop'] = 'lsmotors',
+	},
+	-- Jack Wood
+	['gt86'] = {
+		['name'] = 'GT86 (Jack 1)',
+		['brand'] = 'Toyota',
+		['model'] = 'gt86',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `gt86`,
+		['shop'] = 'lsmotors',
+	},
+	-- Scorpion
+	['domscharger'] = {
+		['name'] = 'Charger RT 70 (Scorpion 1)',
+		['brand'] = 'Dodge',
+		['model'] = 'domscharger',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `domscharger`,
+		['shop'] = 'lsmotors',
+	},
+	-- Freddy
+	['x3mache21'] = {
+		['name'] = '2021 Mustang Mach-E 1400 (Freddy 1)',
+		['brand'] = 'Ford',
+		['model'] = 'x3mache21',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `x3mache21`,
+		['shop'] = 'lsmotors',
+	},
+	-- Endelicato
+	['bt62r'] = {
+		['name'] = 'BT62 (Endelicato 1)',
+		['brand'] = 'Brabham',
+		['model'] = 'bt62r',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `bt62r`,
+		['shop'] = 'lsmotors',
+	},
+	-- Contest Winners
 	['ghispo2'] = {
 		['name'] = 'Ghibli',
 		['brand'] = 'Maserati',
