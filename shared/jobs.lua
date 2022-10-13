@@ -20,7 +20,7 @@ QBShared.Jobs = {
 		grades = {
             ['0'] = { -- Los Santos Police Department (LSPD)
                 name = 'LSPD Probationary Officer',
-                payment = 100
+                payment = 125
             },
 			['1'] = {
                 name = 'LSPD Officer',
@@ -28,7 +28,7 @@ QBShared.Jobs = {
             },
             ['2'] = {
                 name = 'LSPD Senior Officer',
-                payment = 125
+                payment = 150
             },
             ['3'] = {
                 name = 'LSPD Corporal',
@@ -36,32 +36,33 @@ QBShared.Jobs = {
             },
 			['4'] = {
                 name = 'LSPD Sergeant',
-                payment = 150
+                payment = 175
             },
 			['5'] = {
                 name = 'LSPD Lieutenant',
-                payment = 150
+                payment = 175
             },
             ['6'] = {
                 name = 'LSPD Captain',
-                payment = 175
+                payment = 200
             },
             ['7'] = {
                 name = 'LSPD Major',
-                payment = 175
+                payment = 200
             },
             ['8'] = {
                 name = 'LSPD Deputy Chief',
-                payment = 175
+                isboss = true,
+                payment = 250
             },
 			['9'] = {
                 name = 'LSPD Chief',
 				isboss = true,
-                payment = 200
+                payment = 250
             },
             ['10'] = { -- Blaine County Sheriffs Office (BCSO)
                 name = 'BCSO Cadet',
-                payment = 100
+                payment = 125
             },
 			['11'] = {
                 name = 'BCSO Deputy',
@@ -81,49 +82,67 @@ QBShared.Jobs = {
             },
 			['15'] = {
                 name = 'BCSO Lieutenant',
-                payment = 200
+                payment = 175
             },
             ['16'] = {
                 name = 'BCSO Captain',
                 payment = 200
             },
             ['17'] = {
-                name = 'BCSO Under Sheriff',
+                name = 'BCSO Major',
                 payment = 200
             },
             ['18'] = {
+                name = 'BCSO Under Sheriff',
+                isboss = true,
+                payment = 250
+            },
+            ['19'] = {
                 name = 'BCSO Sheriff',
 				isboss = true,
-                payment = 200
+                payment = 250
             },
-            ['19'] = { --San Andreas Highway Patrol (SAHP)
-                name = 'SAHP Cadet',
-                payment = 100
-            },
-			['20'] = {
-                name = 'SAHP Officer',
+            ['20'] = { --San Andreas State Police (SASP)
+                name = 'SASP Probationary Officer',
                 payment = 125
             },
-            ['21'] = {
-                name = 'SAHP SWAT',
-                payment = 150
+			['21'] = {
+                name = 'SASP Officer',
+                payment = 125
             },
             ['22'] = {
-                name = 'SAHP CID',
+                name = 'SASP Senior Officer',
                 payment = 150
             },
-			['23'] = {
-                name = 'SAHP FTO',
+            ['23'] = {
+                name = 'SASP Corporal',
                 payment = 150
             },
 			['24'] = {
-                name = 'SAHP Supervisor',
+                name = 'SASP Sergeant',
                 payment = 175
             },
 			['25'] = {
-                name = 'SAHP Head',
-				isboss = true,
+                name = 'SASP Lieutenant',
+                payment = 175
+            },
+            ['26'] = {
+                name = 'SASP Captail',
                 payment = 200
+            },
+            ['27'] = {
+                name = 'SASP Major',
+                payment = 200
+            },
+            ['28'] = {
+                name = 'SASP Deputy Chief',
+                isboss = true,
+                payment = 250
+            },
+			['29'] = {
+                name = 'SASP Chief',
+				isboss = true,
+                payment = 250
             },
         },
 	},
@@ -580,9 +599,9 @@ QBShared.Jobs = {
 		defaultDuty = false,
 		grades = {
             ['0'] = { name = 'Recruit', payment = 50 },
-			['1'] = { name = 'Novice', payment = 75 },
-			['2'] = { name = 'Experienced', payment = 100 },
-			['3'] = { name = 'Advanced', payment = 125 },
+			['1'] = { name = 'Server', payment = 75 },
+			['2'] = { name = 'Cook', payment = 100 },
+			['3'] = { name = 'Team Lead', payment = 125 },
 			['4'] = { name = 'Manager', isboss = true, payment = 150 },
         },
 	},
