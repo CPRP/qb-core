@@ -1042,8 +1042,22 @@ QBShared.Items = {
 	['uwu10'] 				 	 	 = {['name'] = 'uwu10', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu10.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
 	['uwu11'] 				 	 	 = {['name'] = 'uwu11', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu11.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
 
-
 	--[[jim-NotePad]]
 	["notepad"]    		= {["name"] = "notepad",    		["label"] = "Notepad",			["weight"] = 100,  ["type"] = "item",  ["image"] = "notepad.png",		["useable"] = 1,    ["shouldClose"] = 1,["description"] = ""},
+
+	--qb-moonshine
+	['m-moonshine'] 			     = {['name'] = 'm-moonshine', 		     	   	['label'] = 'Moonshine', 		    ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'm-moonshine.png', 	        	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'a good jug of moonshine'},
+    ['m-waterjar'] 		         	 = {['name'] = 'm-waterjar', 			       	['label'] = 'Water Jar', 	    	['weight'] = 400, 		['type'] = 'item', 		['image'] = 'm-waterjar.png', 	        	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'a large water jar'},
+    ['m-heatedwater'] 		       	 = {['name'] = 'm-heatedwater', 	        	['label'] = 'Stage 1 Mix', 	     	['weight'] = 300, 		['type'] = 'item', 		['image'] = 'm-heatedwater.png', 	       	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Very Hot Water'},
+    ['m-heatedbarley'] 		       	 = {['name'] = 'm-heatedbarley', 	         	['label'] = 'Stage 2 Mix',         	['weight'] = 300, 		['type'] = 'item', 		['image'] = 'm-heatedbarley.png', 	       	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Very Hot Barley Mixture'},
+    ['m-heatedmixture']         	 = {['name'] = 'm-heatedmixture', 	         	['label'] = 'Stage 3 Mix', 	       	['weight'] = 300, 		['type'] = 'item', 		['image'] = 'm-heatedmixture.png', 	       	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A Hot Mess'},
+    ['m-moonshinemix'] 	           	 = {['name'] = 'm-moonshinemix', 	         	['label'] = 'Stage 4 Mix', 	       	['weight'] = 300, 		['type'] = 'item', 		['image'] = 'm-moonshinemix.png', 	       	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Final Mix Stage'},
+	['m-yeast'] 	             	 = {['name'] = 'm-yeast', 	                	['label'] = 'Yeast', 	         	['weight'] = 100, 		['type'] = 'item', 		['image'] = 'm-yeast.png', 	            	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yeast For Mixing Things'},
+	['m-barley'] 	              	 = {['name'] = 'm-barley', 	                	['label'] = 'Barley', 	         	['weight'] = 100, 		['type'] = 'item', 		['image'] = 'm-barley.png', 	          	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Barley For Mixing Things'},
+	['m-potato'] 	               	 = {['name'] = 'm-potato', 	                	['label'] = 'Potato', 	         	['weight'] = 100, 		['type'] = 'item', 		['image'] = 'm-potato.png', 	           	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Good For Mashing'},
+
+	-- Crazy Zipties & HeadBags
+	['ziptie']						 ={['name'] = 'ziptie', 						['label'] = 'Zip tie',                  ['weight'] = 300, 		['type'] = 'item', 		['image'] = 'ziptie.png',      			['unique'] = false, 	['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A zip tie'},
+	['headbag']						 ={['name'] = 'headbag', 						['label'] = 'Head Bag',                 ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'headbag.png',      		['unique'] = true, 		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A bag to cover someones head'},
 
 }
