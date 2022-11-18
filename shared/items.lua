@@ -1041,7 +1041,8 @@ QBShared.Items = {
 	['uwu9'] 				 	 	 = {['name'] = 'uwu9', 			  	  			['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu9.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
 	['uwu10'] 				 	 	 = {['name'] = 'uwu10', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu10.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
 	['uwu11'] 				 	 	 = {['name'] = 'uwu11', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu11.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
-
+	['uwu12'] 				 	 	 = {['name'] = 'uwu12', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu12.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
+	['uwu13'] 				 	 	 = {['name'] = 'uwu13', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu13.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
 	--[[jim-NotePad]]
 	["notepad"]    		= {["name"] = "notepad",    		["label"] = "Notepad",			["weight"] = 100,  ["type"] = "item",  ["image"] = "notepad.png",		["useable"] = 1,    ["shouldClose"] = 1,["description"] = ""},
 
