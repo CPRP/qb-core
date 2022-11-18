@@ -1591,15 +1591,15 @@ QBShared.Vehicles = {
 		['hash'] = `yosemite3`,
 		['shop'] = 'gabzpdm',
 	},
-	['buffalo4'] = { 	 	--DLC +set sv_enforceGameBuild 2545
-		['name'] = 'Buffalo STX',
-		['brand'] = 'Bravado',
-		['model'] = 'buffalo4',
-		['price'] = 345000,
-		['category'] = 'muscle',
-		['hash'] = `buffalo4`,
-		['shop'] = 'gabzpdm',
-	},
+	-- ['buffalo4'] = { 	 	--DLC +set sv_enforceGameBuild 2545
+	-- 	['name'] = 'Buffalo STX',
+	-- 	['brand'] = 'Bravado',
+	-- 	['model'] = 'buffalo4',
+	-- 	['price'] = 345000,
+	-- 	['category'] = 'muscle',
+	-- 	['hash'] = `buffalo4`,
+	-- 	['shop'] = 'gabzpdm',
+	-- },
 	--- Off-Road
 	['bfinjection'] = {
 		['name'] = 'Bf Injection',
@@ -1899,24 +1899,24 @@ QBShared.Vehicles = {
 		['hash'] = `baller4`,
 		['shop'] = 'gabzpdm',
 	},
-	['baller5'] = {
-		['name'] = 'Baller LE (Armored)',
-		['brand'] = 'Gallivanter',
-		['model'] = 'baller5',
-		['price'] = 78000,
-		['category'] = 'suvs',
-		['hash'] = `baller5`,
-		['shop'] = 'gabzpdm',
-	},
-	['baller6'] = {
-		['name'] = 'Baller LE LWB (Armored)',
-		['brand'] = 'Gallivanter',
-		['model'] = 'baller6',
-		['price'] = 82000,
-		['category'] = 'suvs',
-		['hash'] = `baller6`,
-		['shop'] = 'gabzpdm',
-	},
+	-- ['baller5'] = {
+	-- 	['name'] = 'Baller LE (Armored)',
+	-- 	['brand'] = 'Gallivanter',
+	-- 	['model'] = 'baller5',
+	-- 	['price'] = 78000,
+	-- 	['category'] = 'suvs',
+	-- 	['hash'] = `baller5`,
+	-- 	['shop'] = 'gabzpdm',
+	-- },
+	-- ['baller6'] = {
+	-- 	['name'] = 'Baller LE LWB (Armored)',
+	-- 	['brand'] = 'Gallivanter',
+	-- 	['model'] = 'baller6',
+	-- 	['price'] = 82000,
+	-- 	['category'] = 'suvs',
+	-- 	['hash'] = `baller6`,
+	-- 	['shop'] = 'gabzpdm',
+	-- },
 	['bjxl'] = {
 		['name'] = 'BeeJay XL',
 		['brand'] = 'Karin',
@@ -3545,9 +3545,9 @@ QBShared.Vehicles = {
 		['brand'] = 'Rune',
 		['model'] = 'cheburek',
 		['price'] = 7000,
-		['category'] = 'sportsclassic',
+		['category'] = 'sports',
 		['hash'] = `cheburek`,
-		['shop'] = 'gabzpdm',
+		['shop'] = 'lsmotors',
 	},
 	['toreador'] = {
 		['name'] = 'Toreador',
@@ -6813,7 +6813,7 @@ QBShared.Vehicles = {
 		['name'] = '1980 Bronco',
 		['brand'] = 'Ford',
 		['model'] = 'bronco80',
-		['price'] = 50000,
+		['price'] = 25000,
 		['category'] = 'custom',
 		['hash'] = `bronco80`,
 		['shop'] = 'gabzpdm',
@@ -7095,6 +7095,15 @@ QBShared.Vehicles = {
 		['hash'] = `BUGATTI`,
 		['shop'] = 'lsmotors',
 	},
+	['mcor'] = {
+		['name'] = 'Slamvan (Coltron 6)',
+		['brand'] = 'Off-Road',
+		['model'] = 'mcor',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `mcor`,
+		['shop'] = 'lsmotors',
+	},
 	-- Ellie Martinez
 	['brz13'] = {
 		['name'] = 'BRZ (Ellie 1)',
@@ -7139,6 +7148,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `22b`,
+		['shop'] = 'lsmotors',
+	},
+	['minilb'] = {
+		['name'] = 'R56 GP Liberty Walk (Ellie 6)',
+		['brand'] = 'Mini Cooper',
+		['model'] = 'minilb',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `minilb`,
 		['shop'] = 'lsmotors',
 	},
 	-- Brandin Martinez
@@ -7222,6 +7240,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `hornet52`,
+		['shop'] = 'lsmotors',
+	},
+	['lancer57'] = {
+		['name'] = '1957 Royal Lancer (Andrew 5)',
+		['brand'] = 'Dodge',
+		['model'] = 'lancer57',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `lancer57`,
 		['shop'] = 'lsmotors',
 	},
 	-- Jesse Hill
@@ -7333,6 +7360,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `charge4`,
+		['shop'] = 'lsmotors',
+	},
+	['onyx'] = {
+		['name'] = 'Onyx (Lucifer 4)',
+		['brand'] = 'Peugeot',
+		['model'] = 'onyx',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `onyx`,
 		['shop'] = 'lsmotors',
 	},
 	-- Ben Wexler
@@ -7628,6 +7664,15 @@ QBShared.Vehicles = {
 		['hash'] = `arsx`,
 		['shop'] = 'lsmotors',
 	},
+	['montecarlo'] = {
+		['name'] = '88 Monte Carlo (Gaffney 3)',
+		['brand'] = 'Chevrolet',
+		['model'] = 'montecarlo',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `montecarlo`,
+		['shop'] = 'lsmotors',
+	},
 	-- -- Zon3_ [[CANCELLED PATREON BEFORE PAID FOR]]
 	-- ['evo2'] = {
 	-- 	['name'] = '2022 Hurican Evo (Zon 1)',
@@ -7753,6 +7798,15 @@ QBShared.Vehicles = {
 		['hash'] = `bt62r`,
 		['shop'] = 'lsmotors',
 	},
+	['evo2'] = {
+		['name'] = 'Huracan Evo 2 (Endelicato 1)',
+		['brand'] = 'Lamborghini',
+		['model'] = 'evo2',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `evo2`,
+		['shop'] = 'lsmotors',
+	},
 	-- Contest Winners
 	['ghispo2'] = {
 		['name'] = 'Ghibli',
@@ -7766,5 +7820,5 @@ QBShared.Vehicles = {
 }
 
 for _, v in pairs(QBShared.Vehicles) do
-    QBShared.VehicleHashes[v.hash] = v
+	QBShared.VehicleHashes[v.hash] = v
 end
