@@ -7104,6 +7104,15 @@ QBShared.Vehicles = {
 		['hash'] = `mcor`,
 		['shop'] = 'lsmotors',
 	},
+	['Rolls6x6'] = {
+		['name'] = 'Phantom 6x6 Off-Road (Coltron 7)',
+		['brand'] = 'Rolls Royce',
+		['model'] = 'Rolls6x6',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `Rolls6x6`,
+		['shop'] = 'lsmotors',
+	},
 	-- Ellie Martinez
 	['brz13'] = {
 		['name'] = 'BRZ (Ellie 1)',
@@ -7215,13 +7224,13 @@ QBShared.Vehicles = {
 		['hash'] = `belair`,
 		['shop'] = 'lsmotors',
 	},
-	['charger1969'] = {
+	['charger69'] = {
 		['name'] = '1969 Charger (Andrew 2)',
 		['brand'] = 'Dodge',
-		['model'] = 'charger1969',
+		['model'] = 'charger69',
 		['price'] = 10,
 		['category'] = 'oneofone',
-		['hash'] = `charger1969`,
+		['hash'] = `charger69`,
 		['shop'] = 'lsmotors',
 	},
 	['impala59c'] = {
@@ -7249,6 +7258,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `lancer57`,
+		['shop'] = 'lsmotors',
+	},
+	['mustang65'] = {
+		['name'] = '1965 Mustang (Andrew 6)',
+		['brand'] = 'Ford',
+		['model'] = 'mustang65',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `mustang65`,
 		['shop'] = 'lsmotors',
 	},
 	-- Jesse Hill
@@ -7408,16 +7426,16 @@ QBShared.Vehicles = {
 		['hash'] = `city85`,
 		['shop'] = 'lsmotors',
 	},
-	-- David Cole
-	['mas3500'] = {
-		['name'] = '3500 GT (David 2)',
-		['brand'] = 'Maserati',
-		['model'] = 'mas3500',
+	['buglifted'] = {
+		['name'] = 'Monster Truck (Ben 5)',
+		['brand'] = 'Bugatti',
+		['model'] = 'buglifted',
 		['price'] = 10,
 		['category'] = 'oneofone',
-		['hash'] = `mas3500`,
+		['hash'] = `buglifted`,
 		['shop'] = 'lsmotors',
 	},
+	-- David Cole
 	['gle'] = {
 		['name'] = 'GLE (David 1)',
 		['brand'] = 'Mercedez',
@@ -7425,6 +7443,15 @@ QBShared.Vehicles = {
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `gle`,
+		['shop'] = 'lsmotors',
+	},
+	['mas3500'] = {
+		['name'] = '3500 GT (David 2)',
+		['brand'] = 'Maserati',
+		['model'] = 'mas3500',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `mas3500`,
 		['shop'] = 'lsmotors',
 	},
 	-- Dale Wayne
@@ -7665,12 +7692,21 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['montecarlo'] = {
-		['name'] = '88 Monte Carlo (Gaffney 3)',
+		['name'] = '88 Monte Carlo (Gaffney 3)', 
 		['brand'] = 'Chevrolet',
 		['model'] = 'montecarlo',
 		['price'] = 10,
 		['category'] = 'oneofone',
 		['hash'] = `montecarlo`,
+		['shop'] = 'lsmotors',
+	},
+	['ZL1hycade'] = {
+		['name'] = 'Camaro ZL1 Hycade (Gaffney 4)', 
+		['brand'] = 'Chevrolet',
+		['model'] = 'ZL1hycade',
+		['price'] = 10,
+		['category'] = 'oneofone',
+		['hash'] = `ZL1hycade`,
 		['shop'] = 'lsmotors',
 	},
 	-- -- Zon3_ [[CANCELLED PATREON BEFORE PAID FOR]]
