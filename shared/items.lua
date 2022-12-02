@@ -1057,8 +1057,12 @@ QBShared.Items = {
 	['m-barley'] 	              	 = {['name'] = 'm-barley', 	                	['label'] = 'Barley', 	         	['weight'] = 100, 		['type'] = 'item', 		['image'] = 'm-barley.png', 	          	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Barley For Mixing Things'},
 	['m-potato'] 	               	 = {['name'] = 'm-potato', 	                	['label'] = 'Potato', 	         	['weight'] = 100, 		['type'] = 'item', 		['image'] = 'm-potato.png', 	           	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Good For Mashing'},
 
-	-- Crazy Zipties & HeadBags
-	['ziptie']						 ={['name'] = 'ziptie', 						['label'] = 'Zip tie',                  ['weight'] = 300, 		['type'] = 'item', 		['image'] = 'ziptie.png',      			['unique'] = false, 	['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A zip tie'},
-	['headbag']						 ={['name'] = 'headbag', 						['label'] = 'Head Bag',                 ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'headbag.png',      		['unique'] = true, 		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A bag to cover someones head'},
+	--Crazy Zipties & HeadBags
+	['ziptie']						 = {['name'] = 'ziptie', 						['label'] = 'Zip tie',                  ['weight'] = 300, 		['type'] = 'item', 		['image'] = 'ziptie.png',      			['unique'] = false, 	['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A zip tie'},
+	['headbag']						 = {['name'] = 'headbag', 						['label'] = 'Head Bag',                 ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'headbag.png',      		['unique'] = true, 		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A bag to cover someones head'},
 
+	--Jim-Crafting
+	["craftrecipe"] 				 = {["name"] = "craftrecipe",  ["label"] = "Crafting Recipe",  ["weight"] = 100, ["type"] = "item",  ["image"] = "blueprint.png",  ["unique"] = true,  ["useable"] = false,  ["shouldClose"] = false,  ["description"] = "Crafting Recipe", },
+	["paper"]       				 = {["name"] = "paper",        ["label"] = "Roll of Paper",    ["weight"] = 100, ["type"] = "item",  ["image"] = "paperroll.png", ["unique"] = false,  ["useable"] = false,  ["shouldClose"] = false,  ["description"] = ""},
+	
 }
