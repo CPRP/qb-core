@@ -331,8 +331,9 @@ QBShared.Items = {
 	['advancedrepairkit'] 			 = {['name'] = 'advancedrepairkit', 			['label'] = 'Advanced Repairkit', 		['weight'] = 2000, 		['type'] = 'item', 		['image'] = 'advancedkit.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A nice toolbox with stuff to repair your vehicle'},
 	['cleaningkit'] 				 = {['name'] = 'cleaningkit', 			 	  	['label'] = 'Cleaning Kit', 			['weight'] = 300, 		['type'] = 'item', 		['image'] = 'cleaningkit.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A microfiber cloth with some soap will let your car sparkle again!'},
 	['tunerlaptop'] 				 = {['name'] = 'tunerlaptop', 			    	['label'] = 'Tunerchip', 				['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'tunerchip.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'With this tunerchip you can get your car on steroids... If you know what you\'re doing'},
-	['harness'] 				 	 = {['name'] = 'harness', 			  	  		['label'] = 'Race Harness', 			['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'harness.png', 				['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Racing Harness so no matter what you stay in the car'},
-    ['jerry_can'] 			 		 = {['name'] = 'jerry_can', 					['label'] = 'Jerrycan 20L', 			['weight'] = 6000, 		['type'] = 'item', 		['image'] = 'jerry_can.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'A can full of Fuel'},
+	-- ['harness'] 				 	 = {['name'] = 'harness', 			  	  		['label'] = 'Race Harness', 			['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'harness.png', 				['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Racing Harness so no matter what you stay in the car'},
+	["harness"] 				 	 = {["name"] = "harness", 			  	  		["label"] = "Racing Harness", 			["weight"] = 1000, 		["type"] = "item", 		["image"] = "harness.png", 				["unique"] = true,      ["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Stops you from being YEETED"},
+	['jerry_can'] 			 		 = {['name'] = 'jerry_can', 					['label'] = 'Jerrycan 20L', 			['weight'] = 6000, 		['type'] = 'item', 		['image'] = 'jerry_can.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'A can full of Fuel'},
 
 	-- Medication
 	['firstaid'] 			 		 = {['name'] = 'firstaid', 						['label'] = 'First Aid', 				['weight'] = 1500, 		['type'] = 'item', 		['image'] = 'firstaid.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'You can use this First Aid kit to get people back on their feet'},
@@ -1043,6 +1044,7 @@ QBShared.Items = {
 	['uwu11'] 				 	 	 = {['name'] = 'uwu11', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu11.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
 	['uwu12'] 				 	 	 = {['name'] = 'uwu12', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu12.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
 	['uwu13'] 				 	 	 = {['name'] = 'uwu13', 			  	  		['label'] = 'Uwu Cafe Plush', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'uwu13.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Uwu Cafe Plush'},
+	
 	--[[jim-NotePad]]
 	["notepad"]    		= {["name"] = "notepad",    		["label"] = "Notepad",			["weight"] = 100,  ["type"] = "item",  ["image"] = "notepad.png",		["useable"] = 1,    ["shouldClose"] = 1,["description"] = ""},
 
@@ -1058,11 +1060,13 @@ QBShared.Items = {
 	['m-potato'] 	               	 = {['name'] = 'm-potato', 	                	['label'] = 'Potato', 	         	['weight'] = 100, 		['type'] = 'item', 		['image'] = 'm-potato.png', 	           	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Good For Mashing'},
 
 	--Crazy Zipties & HeadBags
-	['ziptie']						 = {['name'] = 'ziptie', 						['label'] = 'Zip tie',                  ['weight'] = 300, 		['type'] = 'item', 		['image'] = 'ziptie.png',      			['unique'] = false, 	['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A zip tie'},
-	['headbag']						 = {['name'] = 'headbag', 						['label'] = 'Head Bag',                 ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'headbag.png',      		['unique'] = true, 		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A bag to cover someones head'},
+	['ziptie']						 = {['name'] = 'ziptie', 						['label'] = 'Zip tie',              ['weight'] = 300, 		['type'] = 'item', 		['image'] = 'ziptie.png',      				['unique'] = false, 	['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A zip tie'},
+	['headbag']						 = {['name'] = 'headbag', 						['label'] = 'Head Bag',             ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'headbag.png',      			['unique'] = true, 		['useable'] = true,		['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A bag to cover someones head'},
 
 	--Jim-Crafting
-	["craftrecipe"] 				 = {["name"] = "craftrecipe",  ["label"] = "Crafting Recipe",  ["weight"] = 100, ["type"] = "item",  ["image"] = "blueprint.png",  ["unique"] = true,  ["useable"] = false,  ["shouldClose"] = false,  ["description"] = "Crafting Recipe", },
-	["paper"]       				 = {["name"] = "paper",        ["label"] = "Roll of Paper",    ["weight"] = 100, ["type"] = "item",  ["image"] = "paperroll.png", ["unique"] = false,  ["useable"] = false,  ["shouldClose"] = false,  ["description"] = ""},
+	["craftrecipe"] 				 = {["name"] = "craftrecipe",  					["label"] = "Crafting Recipe",  	["weight"] = 100, 		["type"] = "item",  	["image"] = "blueprint.png",  				["unique"] = true,  	["useable"] = false,  	["shouldClose"] = false,  	["description"] = "Crafting Recipe", },
+	["paper"]       				 = {["name"] = "paper",        					["label"] = "Roll of Paper",    	["weight"] = 100, 		["type"] = "item",  	["image"] = "paperroll.png", 				["unique"] = false,  	["useable"] = false,  	["shouldClose"] = false,  	["description"] = ""},
 	
+	--Brazzer's Fake Plates
+	["fakeplate"] 		 	 	 	= {["name"] = "fakeplate",         				["label"] = "Fake Plate Kit",		["weight"] = 0, 		["type"] = "item", 		["image"] = "fakeplate.png", 			["unique"] = true,     ["useable"] = true, 		["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = "Use on a vehicle to alter its plate or change it back - 1 time use.."},
 }
