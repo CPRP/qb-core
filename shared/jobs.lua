@@ -127,7 +127,7 @@ QBShared.Jobs = {
                 payment = 175
             },
             ['26'] = {
-                name = 'SASP Captail',
+                name = 'SASP Captain',
                 payment = 200
             },
             ['27'] = {
