@@ -123,7 +123,8 @@ function QBCore.Player.CheckPlayerData(source, PlayerData)
         ['driver'] = false,
         ['business'] = false,
         ['weapon'] = false,
-        ['pilot'] = false
+        ['pilot'] = false,
+        ['hunting'] = false
     }
     PlayerData.metadata['inside'] = PlayerData.metadata['inside'] or {
         house = nil,
