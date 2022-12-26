@@ -6898,6 +6898,27 @@ QBShared.Vehicles = {
 		['hash'] = `galaxyroamer`,
 		['shop'] = '',
 	},
+    --[[trailers]]
+    ['ctrailer'] = {
+        ['name'] = 'Trailer 1',
+        ['brand'] = 'Custom',
+        ['model'] = 'ctrailer',
+        ['price'] = 25000,
+        ['category'] = 'commercial',
+        ["categoryLabel"] = 'Commercial',
+        ['hash'] = `ctrailer`,
+        ['shop'] = 'truck',
+    },
+    ['cotrailer'] = {
+        ['name'] = 'Trailer 2',
+        ['brand'] = 'Custom',
+        ['model'] = 'cotrailer',
+        ['price'] = 25000,
+        ['category'] = 'commercial',
+        ["categoryLabel"] = 'Commercial',
+        ['hash'] = `cotrailer`,
+        ['shop'] = 'truck',
+    },
 	--[[movie cars]]
 	['ateamvan'] = {
 		['name'] = 'A Team',
