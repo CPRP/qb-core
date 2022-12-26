@@ -619,4 +619,74 @@ QBShared.Jobs = {
 			['4'] = { name = 'Manager', isboss = true, payment = 150 },
         },
 	},
+    ['bestbuds'] = {
+		label = 'Best Buds',
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = {
+                name = 'Trainee',
+                payment = 50
+            },
+			['1'] = {
+                name = 'Deliveries',
+                payment = 75
+            },
+			['2'] = {
+                name = 'Sales',
+                payment = 100
+            },
+			['3'] = {
+                name = 'Grower',
+                payment = 125
+            },
+			['4'] = {
+                name = 'Assistant Manager',
+                payment = 150
+            },
+			['5'] = {
+                name = 'Manager',
+				isboss = true,
+                payment = 175
+            },
+			['6'] = {
+                name = 'Owner',
+				isboss = true,
+                payment = 200
+            },
+        },
+	},
+    ['sandybs'] = {
+		label = 'Burgershot',
+		defaultDuty = true,
+		grades = {
+            ['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Novice', payment = 75 },
+			['2'] = { name = 'Experienced', payment = 100 },
+			['3'] = { name = 'Advanced', payment = 125 },
+			['4'] = { name = 'Manager', isboss = true, payment = 150 },
+        },
+	},
+    ['mirrorparkbs'] = {
+		label = 'Burgershot',
+		defaultDuty = true,
+		grades = {
+            ['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Novice', payment = 75 },
+			['2'] = { name = 'Experienced', payment = 100 },
+			['3'] = { name = 'Advanced', payment = 125 },
+			['4'] = { name = 'Manager', isboss = true, payment = 150 },
+        },
+	},
+    ['upnatom'] = {
+		label = 'Up-N-Atom',
+		defaultDuty = true,
+		grades = {
+            ['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Novice', payment = 75 },
+			['2'] = { name = 'Experienced', payment = 100 },
+			['3'] = { name = 'Advanced', payment = 125 },
+			['4'] = { name = 'Manager', isboss = true, payment = 150 },
+        },
+	},
 }
