@@ -689,4 +689,13 @@ QBShared.Jobs = {
 			['4'] = { name = 'Manager', isboss = true, payment = 150 },
         },
 	},
+    ['cityhall'] = {
+        label = 'CityHall',
+        defaultDuty = true,
+        offDutyPay = false,
+        grades = {
+            ['0'] = { name = 'Government Staff', isboss = false, payment = 150 },
+			['1'] = { name = 'Mayor', isboss = true, payment = 250 },
+		},
+    },
 }
