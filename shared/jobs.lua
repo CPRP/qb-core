@@ -147,6 +147,23 @@ QBShared.Jobs = {
 				isboss = true,
                 payment = 250
             },
+            ['30'] = { -- Park Rangers
+                name = 'Probationary Ranger',
+                payment = 150
+            },
+            ['31'] = {
+                name = 'Ranger',
+                payment = 175
+            },
+            ['32'] = {
+                name = 'Asst. Chief Ranger',
+                payment = 200
+            },
+            ['33'] = {
+                name = 'Chief Ranger',
+                isboss = true,
+                payment = 250
+            },
         },
 	},
 	['ambulance'] = {
