@@ -5278,16 +5278,16 @@ QBShared.Vehicles = {
         ['hash'] = `packer`,
         ['shop'] = 'truck',
     },
-    ['stockade'] = {
-        ['name'] = 'Stockade',
-        ['brand'] = 'Brute',
-        ['model'] = 'stockade',
-        ['price'] = 100000,
-        ['category'] = 'commercial',
-        ['categoryLabel'] = 'Commercial',
-        ['hash'] = `stockade`,
-        ['shop'] = 'truck',
-    },
+    -- ['stockade'] = {
+    --     ['name'] = 'Stockade',
+    --     ['brand'] = 'Brute',
+    --     ['model'] = 'stockade',
+    --     ['price'] = 100000,
+    --     ['category'] = 'commercial',
+    --     ['categoryLabel'] = 'Commercial',
+    --     ['hash'] = `stockade`,
+    --     ['shop'] = 'truck',
+    -- },
     ['biff'] = {
         ['name'] = 'Biff',
         ['brand'] = 'Brute',
@@ -5358,16 +5358,16 @@ QBShared.Vehicles = {
         ['hash'] = `mule3`,
         ['shop'] = 'truck',
     },
-    ['mule4'] = {
-        ['name'] = 'Mule with Swinging Doors & Side Step',
-        ['brand'] = 'Maibatsu',
-        ['model'] = 'mule4',
-        ['price'] = 40000,
-        ['category'] = 'commercial',
-        ['categoryLabel'] = 'Commercial',
-        ['hash'] = `mule4`,
-        ['shop'] = 'truck',
-    },
+    -- ['mule4'] = {
+    --     ['name'] = 'Mule with Swinging Doors & Side Step',
+    --     ['brand'] = 'Maibatsu',
+    --     ['model'] = 'mule4',
+    --     ['price'] = 40000,
+    --     ['category'] = 'commercial',
+    --     ['categoryLabel'] = 'Commercial',
+    --     ['hash'] = `mule4`,
+    --     ['shop'] = 'truck',
+    -- },
     ['mule5'] = {
         ['name'] = 'Mule with Swinging Doors & Step Bumper',
         ['brand'] = 'Maibatsu',
@@ -5428,16 +5428,16 @@ QBShared.Vehicles = {
         ['hash'] = `boxville4`,
         ['shop'] = 'truck',
     },
-    ['boxville5'] = {
-        ['name'] = 'Armored Boxville',
-        ['brand'] = 'Brute',
-        ['model'] = 'boxville5',
-        ['price'] = 45000,
-        ['category'] = 'vans',
-        ['categoryLabel'] = 'Vans',
-        ['hash'] = `boxville5`,
-        ['shop'] = 'truck',
-    },
+    -- ['boxville5'] = {
+    --     ['name'] = 'Armored Boxville',
+    --     ['brand'] = 'Brute',
+    --     ['model'] = 'boxville5',
+    --     ['price'] = 45000,
+    --     ['category'] = 'vans',
+    --     ['categoryLabel'] = 'Vans',
+    --     ['hash'] = `boxville5`,
+    --     ['shop'] = 'truck',
+    -- },
     ['pony'] = {
         ['name'] = 'Pony',
         ['brand'] = 'Brute',
@@ -5468,26 +5468,26 @@ QBShared.Vehicles = {
         ['hash'] = `taco`,
         ['shop'] = 'truck',
     },
-    ['cutter'] = {
-        ['name'] = 'cutter',
-        ['brand'] = 'HVY',
-        ['model'] = 'cutter',
-        ['price'] = 30000,
-        ['category'] = 'industrial',
-        ['categoryLabel'] = 'Industrial',
-        ['hash'] = `cutter`,
-        ['shop'] = 'truck',
-    },
-    ['handler'] = {
-        ['name'] = 'Dock Handler',
-        ['brand'] = 'HVY',
-        ['model'] = 'handler',
-        ['price'] = 30000,
-        ['category'] = 'industrial',
-        ['categoryLabel'] = 'Industrial',
-        ['hash'] = `handler`,
-        ['shop'] = 'truck',
-    },
+    -- ['cutter'] = {
+    --     ['name'] = 'cutter',
+    --     ['brand'] = 'HVY',
+    --     ['model'] = 'cutter',
+    --     ['price'] = 30000,
+    --     ['category'] = 'industrial',
+    --     ['categoryLabel'] = 'Industrial',
+    --     ['hash'] = `cutter`,
+    --     ['shop'] = 'truck',
+    -- },
+    -- ['handler'] = {
+    --     ['name'] = 'Dock Handler',
+    --     ['brand'] = 'HVY',
+    --     ['model'] = 'handler',
+    --     ['price'] = 30000,
+    --     ['category'] = 'industrial',
+    --     ['categoryLabel'] = 'Industrial',
+    --     ['hash'] = `handler`,
+    --     ['shop'] = 'truck',
+    -- },
     ['bulldozer'] = {
         ['name'] = 'Bulldozer',
         ['brand'] = 'HVY',
@@ -5502,22 +5502,22 @@ QBShared.Vehicles = {
         ['name'] = 'Dump Truck (Off Road)',
         ['brand'] = 'HVY',
         ['model'] = 'dump',
-        ['price'] = 30000,
+        ['price'] = 150000,
         ['category'] = 'industrial',
         ['categoryLabel'] = 'Industrial',
         ['hash'] = `dump`,
         ['shop'] = 'truck',
     },
-    ['flatbed'] = {
-        ['name'] = 'Flatbed Truck',
-        ['brand'] = 'MTL',
-        ['model'] = 'flatbed',
-        ['price'] = 30000,
-        ['category'] = 'industrial',
-        ['categoryLabel'] = 'Industrial',
-        ['hash'] = `flatbed`,
-        ['shop'] = 'truck',
-    },
+    -- ['flatbed'] = {
+    --     ['name'] = 'Flatbed Truck',
+    --     ['brand'] = 'MTL',
+    --     ['model'] = 'flatbed',
+    --     ['price'] = 30000,
+    --     ['category'] = 'industrial',
+    --     ['categoryLabel'] = 'Industrial',
+    --     ['hash'] = `flatbed`,
+    --     ['shop'] = 'truck',
+    -- },
     ['guardian'] = {
         ['name'] = 'Guardian',
         ['brand'] = 'Vapid',
@@ -7012,7 +7012,7 @@ QBShared.Vehicles = {
 		['hash'] = `bronco80`,
 		['shop'] = 'gabzpdm',
 	},
-		['rs520'] = {
+	['rs520'] = {
 		['name'] = 'RS5 Coupe 2020',
 		['brand'] = 'Audi',
 		['model'] = 'rs520',
@@ -7461,7 +7461,7 @@ QBShared.Vehicles = {
 	-- [[1 of 1 vehicles]]
 	-- CJ Ranells
 	['rampage10'] = {
-		['name'] = 'Challenger SRT Rampage (CJ 1)',
+		['name'] = 'Challenger SRT Rampage', -- CJ 1
 		['brand'] = 'Dodge',
 		['model'] = 'rampage10',
 		['price'] = 10,
@@ -7471,7 +7471,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['evcrs8'] = {
-		['name'] = 'ABT RS8 (CJ 2)',
+		['name'] = 'ABT RS8', -- CJ 2
 		['brand'] = 'Audi',
 		['model'] = 'evcrs8',
 		['price'] = 10,
@@ -7481,7 +7481,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['impala'] = {
-		['name'] = '1996 Impala (CJ 3)',
+		['name'] = '1996 Impala', -- CJ 3
 		['brand'] = 'Chevy',
 		['model'] = 'impala',
 		['price'] = 10,
@@ -7491,7 +7491,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['s10'] = {
-		['name'] = 'S 10 (CJ 4)',
+		['name'] = 'S 10', -- CJ 4
 		['brand'] = 'Chevy',
 		['model'] = 's10',
 		['price'] = 10,
@@ -7502,7 +7502,7 @@ QBShared.Vehicles = {
 	},
 	-- Coltron Scott
 	['project8'] = {
-		['name'] = 'XE SV Project 8 (Coltron 1)',
+		['name'] = 'XE SV Project 8', -- Coltron 1
 		['brand'] = 'Jaguar',
 		['model'] = 'project8',
 		['price'] = 10,
@@ -7512,7 +7512,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['cobra'] = {
-		['name'] = '1965 Cobra 427 (Coltron 2)',
+		['name'] = '1965 Cobra 427', -- Coltron 2
 		['brand'] = 'Shelby',
 		['model'] = 'cobra',
 		['price'] = 10,
@@ -7522,7 +7522,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['cont88'] = {
-		['name'] = '1988 Contach (Coltron 3)',
+		['name'] = '1988 Contach', -- Coltron 3
 		['brand'] = 'Lamborghini',
 		['model'] = 'cont88',
 		['price'] = 10,
@@ -7532,7 +7532,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['DragNova'] = {
-		['name'] = '1966 Nova (Coltron 4)',
+		['name'] = '1966 Nova', -- Coltron 4
 		['brand'] = 'Chevy',
 		['model'] = 'DragNova',
 		['price'] = 10,
@@ -7542,7 +7542,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['BUGATTI'] = {
-		['name'] = 'Veyron (Coltron 5)',
+		['name'] = 'Veyron', -- Coltron 5
 		['brand'] = 'Bugatti',
 		['model'] = 'BUGATTI',
 		['price'] = 10,
@@ -7552,7 +7552,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['mcor'] = {
-		['name'] = 'Slamvan (Coltron 6)',
+		['name'] = 'Slamvan', -- Coltron 6
 		['brand'] = 'Off-Road',
 		['model'] = 'mcor',
 		['price'] = 10,
@@ -7562,7 +7562,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['Rolls6x6'] = {
-		['name'] = 'Phantom 6x6 Off-Road (Coltron 7)',
+		['name'] = 'Phantom 6x6 Off-Road', -- Coltron 7
 		['brand'] = 'Rolls Royce',
 		['model'] = 'Rolls6x6',
 		['price'] = 10,
@@ -7572,7 +7572,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['demonhawk2'] = {
-		['name'] = '2020 Grand Cherokee SRT Tyrannos (Coltron 8)',
+		['name'] = '2020 Grand Cherokee SRT Tyrannos', -- Coltron 8
 		['brand'] = 'Jeep',
 		['model'] = 'demonhawk2',
 		['price'] = 10,
@@ -7583,7 +7583,7 @@ QBShared.Vehicles = {
 	},
 	-- Ellie Martinez
 	['brz13'] = {
-		['name'] = 'BRZ (Ellie 1)',
+		['name'] = 'BRZ', -- Ellie 1
 		['brand'] = 'Subaru',
 		['model'] = 'brz13',
 		['price'] = 10,
@@ -7593,7 +7593,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
     ['lp640'] = {
-		['name'] = '2007 Murcielago LP640 (Ellie 2)',
+		['name'] = '2007 Murcielago LP640', -- Ellie 2
 		['brand'] = 'Lamborghini',
 		['model'] = 'lp640',
 		['price'] = 10,
@@ -7603,7 +7603,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['ocnauda8l22h'] = {
-		['name'] = '2022 A8 (Ellie 3)',
+		['name'] = '2022 A8', -- Ellie 3
 		['brand'] = 'Audi',
 		['model'] = 'ocnauda8l22h',
 		['price'] = 10,
@@ -7613,7 +7613,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['ap2'] = {
-		['name'] = 'S2000 (Ellie 4)',
+		['name'] = 'S2000', -- Ellie 4
 		['brand'] = 'Honda',
 		['model'] = 'ap2',
 		['price'] = 10,
@@ -7623,7 +7623,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['22b'] = {
-		['name'] = '1998 Impreza (Ellie 5)',
+		['name'] = '1998 Impreza', -- Ellie 5
 		['brand'] = 'Subaru',
 		['model'] = '22b',
 		['price'] = 10,
@@ -7633,7 +7633,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['minilb'] = {
-		['name'] = 'R56 GP Liberty Walk (Ellie 6)',
+		['name'] = 'R56 GP Liberty Walk', -- Ellie 6
 		['brand'] = 'Mini Cooper',
 		['model'] = 'minilb',
 		['price'] = 10,
@@ -7643,58 +7643,49 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	-- Brandin Martinez
-	['gtrnismo17'] = {
-		['name'] = 'GTR 35 Nismo (Brandin 1)',
-		['brand'] = 'Nissan',
-		['model'] = 'gtrnismo17',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `gtrnismo17`,
-		['shop'] = 'lsmotors',
-	},
-    ['bnsgtr99'] = {
-		['name'] = 'R34 2f2f (Brandin 2)',
-		['brand'] = 'Nissan',
-		['model'] = 'bnsgtr99',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `bnsgtr99`,
-		['shop'] = 'lsmotors',
-	},
-	['topfoil'] = {
-		['name'] = 'Evolution (Brandin 3)',
-		['brand'] = 'Mitsubishi',
-		['model'] = 'topfoil',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `topfoil`,
-		['shop'] = 'lsmotors',
-	},
-	-- ['skylinekaira'] = {
-	-- 	['name'] = 'Skyline GT-R (Brandin 4)',
+	-- ['gtrnismo17'] = {
+	-- 	['name'] = 'GTR 35 Nismo (Brandin 1)',
 	-- 	['brand'] = 'Nissan',
-	-- 	['model'] = 'skylinekaira',
+	-- 	['model'] = 'gtrnismo17',
 	-- 	['price'] = 10,
 	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `skylinekaira`,
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `gtrnismo17`,
 	-- 	['shop'] = 'lsmotors',
 	-- },
-	['bmeclipse95'] = {
-		['name'] = 'Eclipse GS 1995 (Brandin 5)',
-		['brand'] = 'Mitsubishi',
-		['model'] = 'bmeclipse95',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `bmeclipse95`,
-		['shop'] = 'lsmotors',
-	},
+    -- ['bnsgtr99'] = {
+	-- 	['name'] = 'R34 2f2f (Brandin 2)',
+	-- 	['brand'] = 'Nissan',
+	-- 	['model'] = 'bnsgtr99',
+	-- 	['price'] = 10,
+	-- 	['category'] = 'oneofone',
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `bnsgtr99`,
+	-- 	['shop'] = 'lsmotors',
+	-- },
+	-- ['topfoil'] = {
+	-- 	['name'] = 'Evolution (Brandin 3)',
+	-- 	['brand'] = 'Mitsubishi',
+	-- 	['model'] = 'topfoil',
+	-- 	['price'] = 10,
+	-- 	['category'] = 'oneofone',
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `topfoil`,
+	-- 	['shop'] = 'lsmotors',
+	-- },
+	-- ['bmeclipse95'] = {
+	-- 	['name'] = 'Eclipse GS 1995 (Brandin 5)',
+	-- 	['brand'] = 'Mitsubishi',
+	-- 	['model'] = 'bmeclipse95',
+	-- 	['price'] = 10,
+	-- 	['category'] = 'oneofone',
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `bmeclipse95`,
+	-- 	['shop'] = 'lsmotors',
+	-- },
 	-- Andrew  Smith
 	['belair'] = {
-		['name'] = '1957 Bel Air (Andrew 1)',
+		['name'] = '1957 Bel Air', -- Andrew 1
 		['brand'] = 'Chevy',
 		['model'] = 'belair',
 		['price'] = 10,
@@ -7704,7 +7695,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['charger69'] = {
-		['name'] = '1969 Charger (Andrew 2)',
+		['name'] = '1969 Charger', -- Andrew 2
 		['brand'] = 'Dodge',
 		['model'] = 'charger69',
 		['price'] = 10,
@@ -7714,7 +7705,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['impala59c'] = {
-		['name'] = '1959 Impala (Andrew 3)',
+		['name'] = '1959 Impala', -- Andrew 3
 		['brand'] = 'Chevy',
 		['model'] = 'impala59c',
 		['price'] = 10,
@@ -7724,7 +7715,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['hornet52'] = {
-		['name'] = '1952 Hornet (Andrew 4)',
+		['name'] = '1952 Hornet', -- Andrew 4
 		['brand'] = 'Hudson',
 		['model'] = 'hornet52',
 		['price'] = 10,
@@ -7734,7 +7725,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['lancer57'] = {
-		['name'] = '1957 Royal Lancer (Andrew 5)',
+		['name'] = '1957 Royal Lancer', -- Andrew 5
 		['brand'] = 'Dodge',
 		['model'] = 'lancer57',
 		['price'] = 10,
@@ -7744,7 +7735,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['mustang65'] = {
-		['name'] = '1965 Mustang (Andrew 6)',
+		['name'] = '1965 Mustang', -- Andrew 6
 		['brand'] = 'Ford',
 		['model'] = 'mustang65',
 		['price'] = 10,
@@ -7754,7 +7745,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['impala67'] = {
-		['name'] = '1967 Impala Sport (Andrew 7)',
+		['name'] = '1967 Impala Sport', -- Andrew 7
 		['brand'] = 'Chevy',
 		['model'] = 'impala67',
 		['price'] = 10,
@@ -7765,7 +7756,7 @@ QBShared.Vehicles = {
 	},
 	-- Jesse Hill
 	['rx7v'] = {
-		['name'] = 'RX7 Veilside (Jesse 1)',
+		['name'] = 'RX7 Veilside', -- Jesse 1
 		['brand'] = 'Mazda',
 		['model'] = 'rx7v',
 		['price'] = 10,
@@ -7775,7 +7766,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['zonda'] = {
-		['name'] = '2018 Pagani Zonda (Jesse 2)',
+		['name'] = '2018 Pagani Zonda', -- Jesse 2
 		['brand'] = 'Barchetta',
 		['model'] = 'zonda',
 		['price'] = 10,
@@ -7785,7 +7776,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['che1950ez'] = {
-		['name'] = '1950 Truck (Jesse 3)',
+		['name'] = '1950 Truck', -- Jesse 3
 		['brand'] = 'Chevy',
 		['model'] = 'che1950ez',
 		['price'] = 10,
@@ -7795,7 +7786,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['c8z0623'] = {
-		['name'] = '2023 Corvette (Jesse 4)',
+		['name'] = '2023 Corvette', -- Jesse 4
 		['brand'] = 'Chevy',
 		['model'] = 'c8z0623',
 		['price'] = 10,
@@ -7805,7 +7796,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['zondacinque'] = {
-		['name'] = '2009 Zonda Cinque (Jesse 5)',
+		['name'] = '2009 Zonda Cinque', -- Jesse 5
 		['brand'] = 'Pagani',
 		['model'] = 'zondacinque',
 		['price'] = 10,
@@ -7816,7 +7807,7 @@ QBShared.Vehicles = {
 	},
 	-- Earl Johnson
 	['loweye'] = {
-		['name'] = 'Silverado (Earl 1)',
+		['name'] = 'Silverado', -- Earl 1
 		['brand'] = 'Chevy',
 		['model'] = 'loweye',
 		['price'] = 10,
@@ -7826,7 +7817,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['bronco'] = {
-		['name'] = 'Bronco (Earl 2)',
+		['name'] = 'Bronco', -- Earl 2
 		['brand'] = 'Ford',
 		['model'] = 'bronco',
 		['price'] = 10,
@@ -7836,7 +7827,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['f10056s'] = {
-		['name'] = '1949 F150 S (Earl 3)',
+		['name'] = '1949 F150 S', -- Earl 3
 		['brand'] = 'Ford',
 		['model'] = 'f10056s',
 		['price'] = 10,
@@ -7846,7 +7837,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['f10056c'] = {
-		['name'] = '1949 F150 C (Earl 3.5)',
+		['name'] = '1949 F150 C', -- Earl 3.5
 		['brand'] = 'Ford',
 		['model'] = 'f10056c',
 		['price'] = 10,
@@ -7856,48 +7847,29 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	-- Lucifer Morningstar
-	['ninef'] = {
-		['name'] = 'LSPD Gauardian (Lucifer 1)',
-		['brand'] = 'GTA',
-		['model'] = 'ninef',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `ninef`,
-		['shop'] = 'lsmotors',
-	},
-	['g63amg6x6cop'] = {
-		['name'] = 'G63 AMG (Lucifer 2)',
-		['brand'] = 'Mercedes',
-		['model'] = 'g63amg6x6cop',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `g63amg6x6cop`,
-		['shop'] = 'lsmotors',
-	},
-	-- ['charge4'] = {
-	-- 	['name'] = 'Charger (Lucifer 3)',
-	-- 	['brand'] = 'Dodge',
-	-- 	['model'] = 'charge4',
+	-- ['g63amg6x6cop'] = {
+	-- 	['name'] = 'G63 AMG (Lucifer 2)',
+	-- 	['brand'] = 'Mercedes',
+	-- 	['model'] = 'g63amg6x6cop',
 	-- 	['price'] = 10,
 	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `charge4`,
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `g63amg6x6cop`,
 	-- 	['shop'] = 'lsmotors',
 	-- },
-	['onyx'] = {
-		['name'] = 'Onyx (Lucifer 4)',
-		['brand'] = 'Peugeot',
-		['model'] = 'onyx',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `onyx`,
-		['shop'] = 'lsmotors',
-	},
+	-- ['onyx'] = {
+	-- 	['name'] = 'Onyx (Lucifer 4)',
+	-- 	['brand'] = 'Peugeot',
+	-- 	['model'] = 'onyx',
+	-- 	['price'] = 10,
+	-- 	['category'] = 'oneofone',
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `onyx`,
+	-- 	['shop'] = 'lsmotors',
+	-- },
 	-- Ben Wexler
 	['dmc12wb'] = {
-		['name'] = 'Delorean (Ben 1)',
+		['name'] = 'Delorean', -- Ben 1
 		['brand'] = 'DMC',
 		['model'] = 'dmc12wb',
 		['price'] = 10,
@@ -7907,7 +7879,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['jeep392'] = {
-		['name'] = 'Rubicon (Ben 2)',
+		['name'] = 'Rubicon', -- Ben 2
 		['brand'] = 'Jeep',
 		['model'] = 'jeep392',
 		['price'] = 10,
@@ -7917,7 +7889,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['motoc'] = {
-		['name'] = 'Moto Scooter (Ben 3)',
+		['name'] = 'Moto Scooter', -- Ben 3
 		['brand'] = 'Moto',
 		['model'] = 'motoc',
 		['price'] = 10,
@@ -7927,7 +7899,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['city85'] = {
-		['name'] = '1985 City Turbo (Ben 4)',
+		['name'] = '1985 City Turbo', -- Ben 4
 		['brand'] = 'Honda',
 		['model'] = 'city85',
 		['price'] = 10,
@@ -7937,7 +7909,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['buglifted'] = {
-		['name'] = 'Monster Truck (Ben 5)',
+		['name'] = 'Monster Truck', -- Ben 5
 		['brand'] = 'Bugatti',
 		['model'] = 'buglifted',
 		['price'] = 10,
@@ -7947,7 +7919,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['gmcev4'] = {
-		['name'] = 'Hummer EV (Ben 6)',
+		['name'] = 'Hummer EV', -- Ben 6
 		['brand'] = 'GMC',
 		['model'] = 'gmcev4',
 		['price'] = 10,
@@ -7958,8 +7930,8 @@ QBShared.Vehicles = {
 	},
 	-- David Cole
 	['gle'] = {
-		['name'] = 'GLE (David 1)',
-		['brand'] = 'Mercedez',
+		['name'] = 'GLE', -- David 1
+		['brand'] = 'Mercedes',
 		['model'] = 'gle',
 		['price'] = 10,
 		['category'] = 'oneofone',
@@ -7968,7 +7940,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['mas3500'] = {
-		['name'] = '3500 GT (David 2)',
+		['name'] = '3500 GT', -- David 2
 		['brand'] = 'Maserati',
 		['model'] = 'mas3500',
 		['price'] = 10,
@@ -7977,65 +7949,28 @@ QBShared.Vehicles = {
 		['hash'] = `mas3500`,
 		['shop'] = 'lsmotors',
 	},
-	-- Dale Wayne
-	-- ['kev'] = {
-	-- 	['name'] = 'CTS (Dale 1)',
-	-- 	['brand'] = 'Cadillac',
-	-- 	['model'] = 'kev',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `kev`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- ['valkyrietp'] = {
-	-- 	['name'] = '2020 Valkyrie TrackPack (Dale 2)',
-	-- 	['brand'] = 'Aston Martin',
-	-- 	['model'] = 'valkyrietp',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `valkyrietp`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
 	-- Jessi Westin
-	-- ['wildtrak'] = {
-	-- 	['name'] = 'Bronco (Jessi 1)',
-	-- 	['brand'] = 'Ford',
-	-- 	['model'] = 'wildtrak',
+	-- ['judge'] = {
+	-- 	['name'] = '1969 GTO Judge (Jessi 2)',
+	-- 	['brand'] = 'Pontiac',
+	-- 	['model'] = 'judge',
 	-- 	['price'] = 10,
 	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `wildtrak`,
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `judge`,
 	-- 	['shop'] = 'lsmotors',
 	-- },
-	['judge'] = {
-		['name'] = '1969 GTO Judge (Jessi 2)',
-		['brand'] = 'Pontiac',
-		['model'] = 'judge',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `judge`,
-		['shop'] = 'lsmotors',
-	},
 	-- Gavin Quinn
-	-- ['bug300ss'] = {
-	-- 	['name'] = 'SS 300 (Gavin 1)',
-	-- 	['brand'] = 'Bugatti',
-	-- 	['model'] = 'bug300ss',
+	-- ['vsgran'] = {
+	-- 	['name'] = 'V12 Vision GT (Gavin 2)',
+	-- 	['brand'] = 'Lamborghini',
+	-- 	['model'] = 'vsgran',
 	-- 	['price'] = 10,
 	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `bug300ss`,
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `vsgran`,
 	-- 	['shop'] = 'lsmotors',
 	-- },
-	['vsgran'] = {
-		['name'] = 'V12 Vision GT (Gavin 2)',
-		['brand'] = 'Lamborghini',
-		['model'] = 'vsgran',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `vsgran`,
-		['shop'] = 'lsmotors',
-	},
 	-- ['hyabusadrag'] = {
 	-- 	['name'] = 'Hyabusa Drag Bike (Gavin 3)',
 	-- 	['brand'] = 'Suzuki',
@@ -8046,96 +7981,30 @@ QBShared.Vehicles = {
 	-- 	['shop'] = 'lsmotors',
 	-- },
 	-- Damon
-	-- ['aperta'] = {
-	-- 	['name'] = 'Aperta (Damon 1)',
-	-- 	['brand'] = 'Farrari',
-	-- 	['model'] = 'aperta',
+	-- ['terzo'] = {
+	-- 	['name'] = '2018 Terzo Millennio (Damon 2)',
+	-- 	['brand'] = 'Lamborghini',
+	-- 	['model'] = 'terzo',
 	-- 	['price'] = 10,
 	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `aperta`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	['terzo'] = {
-		['name'] = '2018 Terzo Millennio (Damon 2)',
-		['brand'] = 'Lamborghini',
-		['model'] = 'terzo',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `terzo`,
-		['shop'] = 'lsmotors',
-	},
-	-- Tommy Twotoes 
-	-- ['rmodmi8lb'] = {
-	-- 	['name'] = 'I8 Liberty (Tommy 1)',
-	-- 	['brand'] = 'BMW',
-	-- 	['model'] = 'rmodmi8lb',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `rmodmi8lb`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- ['rs520'] = {
-	-- 	['name'] = 'RS5 Coupe 2020 (Tommy 2)',
-	-- 	['brand'] = 'Audi',
-	-- 	['model'] = 'rs520',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `rs520`,
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `terzo`,
 	-- 	['shop'] = 'lsmotors',
 	-- },
 	-- Firoza Green
-	['czr2'] = {
-		['name'] = '2018 Colorado ZR2 (Firoza 1)',
-		['brand'] = 'Chevrolet',
-		['model'] = 'czr2',
-		['price'] = 10,
-		['category'] = 'oneofone',
-        ['categoryLabel'] = 'OneofOne',
-		['hash'] = `czr2`,
-		['shop'] = 'lsmotors',
-	},
-	-- ['bm66'] = {
-	-- 	['name'] = 'Batmobile 1966 (Firoza 1)',
-	-- 	['brand'] = 'Batmobile',
-	-- 	['model'] = 'bm66',
+	-- ['czr2'] = {
+	-- 	['name'] = '2018 Colorado ZR2 (Firoza 1)',
+	-- 	['brand'] = 'Chevrolet',
+	-- 	['model'] = 'czr2',
 	-- 	['price'] = 10,
 	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `bm66`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- Azirs
-	-- ['p1lm'] = {
-	-- 	['name'] = 'P1 GTR (Azirs 1)',
-	-- 	['brand'] = 'McLaren',
-	-- 	['model'] = 'p1lm',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `p1lm`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- Calvin Thomas
-	-- ['mcgt20'] = {
-	-- 	['name'] = 'GT (Calvin 1)',
-	-- 	['brand'] = 'McLaren',
-	-- 	['model'] = 'mcgt20',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `mcgt20`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- ['chargerf8'] = {
-	-- 	['name'] = 'Charger (Calvin 2)',
-	-- 	['brand'] = 'Dodge',
-	-- 	['model'] = 'chargerf8',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `chargerf8`,
+    --  ['categoryLabel'] = 'OneofOne',
+	-- 	['hash'] = `czr2`,
 	-- 	['shop'] = 'lsmotors',
 	-- },
 	-- John Wick
 	['gdaq50'] = {
-		['name'] = 'Q50 VIP (John 1)',
+		['name'] = 'Q50 VIP', -- John 1
 		['brand'] = 'Infiniti',
 		['model'] = 'gdaq50',
 		['price'] = 10,
@@ -8145,7 +8014,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['RC350'] = {
-		['name'] = 'RC350 (John 2)',
+		['name'] = 'RC350', -- John 2
 		['brand'] = 'Lexus',
 		['model'] = 'RC350',
 		['price'] = 10,
@@ -8155,7 +8024,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['evoz'] = {
-		['name'] = 'Lancer (John 3)',
+		['name'] = 'Lancer', -- John 3
 		['brand'] = 'Mitsubishi',
 		['model'] = 'evoz',
 		['price'] = 10,
@@ -8166,7 +8035,7 @@ QBShared.Vehicles = {
 	},
 	-- Irwin Dundee
 	['lykan'] = {
-		['name'] = 'Hypershot (Irwin 1)',
+		['name'] = 'Hypershot', -- Irwin 1
 		['brand'] = 'Lykan',
 		['model'] = 'lykan',
 		['price'] = 10,
@@ -8176,7 +8045,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['gclapped'] = {
-		['name'] = '2008 Crown Victoria (Irwin 2)',
+		['name'] = '2008 Crown Victoria', -- Irwin 2
 		['brand'] = 'Ford',
 		['model'] = 'gclapped',
 		['price'] = 10,
@@ -8187,7 +8056,7 @@ QBShared.Vehicles = {
 	},
 	-- Fuzzy
 	['gtz34'] = {
-		['name'] = 'Skyline R34 (Fuzzy 1)',
+		['name'] = 'Skyline R34', -- Fuzzy 1
 		['brand'] = 'Nissan',
 		['model'] = 'gtz34',
 		['price'] = 10,
@@ -8197,7 +8066,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['spyker'] = {
-		['name'] = '2016 Vulcan (Fuzzy 2)',
+		['name'] = '2016 Vulcan', -- Fuzzy 2
 		['brand'] = 'Aston Martin',
 		['model'] = 'spyker',
 		['price'] = 10,
@@ -8208,7 +8077,7 @@ QBShared.Vehicles = {
 	},
 	-- John Gaffney
 	['ikx3vtec94'] = {
-		['name'] = '1994 Civic (Gaffney 1)',
+		['name'] = '1994 Civic', -- Gaffney 1
 		['brand'] = 'Honda',
 		['model'] = 'ikx3vtec94',
 		['price'] = 10,
@@ -8218,7 +8087,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['arsx'] = {
-		['name'] = 'RSX Widebody (Gaffney 2)',
+		['name'] = 'RSX Widebody', -- Gaffney 2
 		['brand'] = 'Acura',
 		['model'] = 'arsx',
 		['price'] = 10,
@@ -8228,7 +8097,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['montecarlo'] = {
-		['name'] = '88 Monte Carlo (Gaffney 3)', 
+		['name'] = '88 Monte Carlo', -- Gaffney 3
 		['brand'] = 'Chevrolet',
 		['model'] = 'montecarlo',
 		['price'] = 10,
@@ -8238,7 +8107,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['ZL1hycade'] = {
-		['name'] = 'Camaro ZL1 Hycade (Gaffney 4)', 
+		['name'] = 'Camaro ZL1 Hycade', -- Gaffney 4
 		['brand'] = 'Chevrolet',
 		['model'] = 'ZL1hycade',
 		['price'] = 10,
@@ -8248,7 +8117,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['fc3s'] = {
-		['name'] = 'RX7 FC3S (Gaffney 5)', 
+		['name'] = 'RX7 FC3S', -- Gaffney 5
 		['brand'] = 'Mazda',
 		['model'] = 'fc3s',
 		['price'] = 10,
@@ -8257,19 +8126,9 @@ QBShared.Vehicles = {
 		['hash'] = `fc3s`,
 		['shop'] = 'lsmotors',
 	},
-	-- -- Zon3_ [[CANCELLED PATREON BEFORE PAID FOR]]
-	-- ['evo2'] = {
-	-- 	['name'] = '2022 Hurican Evo (Zon 1)',
-	-- 	['brand'] = 'Lamborghini',
-	-- 	['model'] = 'evo2',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `evo2`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
 	-- ThatGuy
 	['chg'] = {
-		['name'] = 'Chiron (ThatGuy 1)',
+		['name'] = 'Chiron', -- That Guy 1
 		['brand'] = 'Bugatti',
 		['model'] = 'chg',
 		['price'] = 10,
@@ -8280,7 +8139,7 @@ QBShared.Vehicles = {
 	},
 	-- Zak Price
 	['umsrt'] = {
-		['name'] = 'Charger Unmarked (Zak 1)',
+		['name'] = 'Charger Unmarked', -- Zak 1
 		['brand'] = 'Dodge',
 		['model'] = 'umsrt',
 		['price'] = 10,
@@ -8289,17 +8148,8 @@ QBShared.Vehicles = {
 		['hash'] = `umsrt`,
 		['shop'] = 'lsmotors',
 	},
-	-- ['redeye'] = {
-	-- 	['name'] = 'Challenger Redeye (Zak 2)',
-	-- 	['brand'] = 'Dodge',
-	-- 	['model'] = 'redeye',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `redeye`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
 	['cybertruck'] = {
-		['name'] = 'Cybertruck (Zak 3)',
+		['name'] = 'Cybertruck', -- Zak 3
 		['brand'] = 'Tesla',
 		['model'] = 'cybertruck',
 		['price'] = 10,
@@ -8308,28 +8158,9 @@ QBShared.Vehicles = {
 		['hash'] = `cybertruck`,
 		['shop'] = 'lsmotors',
 	},
-	-- JDizzle
-	-- ['topcar720'] = {
-	-- 	['name'] = '720 S Fury 2020 (JDizzle 1)',
-	-- 	['brand'] = 'TopCar',
-	-- 	['model'] = 'topcar720',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `topcar720`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- ['velociraptor'] = {
-	-- 	['name'] = '2017 Hennessey Velociraptor (JDizzle 2)',
-	-- 	['brand'] = 'Ford',
-	-- 	['model'] = 'velociraptor',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `velociraptor`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
 	-- Jack Wood
 	['180326'] = {
-		['name'] = '180sx 2JZ (Wood 1)',
+		['name'] = '180sx 2JZ', -- Wood 1
 		['brand'] = 'Nissan',
 		['model'] = '180326',
 		['price'] = 10,
@@ -8339,7 +8170,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['gt86'] = {
-		['name'] = 'GT86 (Wood 2)',
+		['name'] = 'GT86', -- Wood 2
 		['brand'] = 'Toyota',
 		['model'] = 'gt86',
 		['price'] = 10,
@@ -8348,47 +8179,9 @@ QBShared.Vehicles = {
 		['hash'] = `gt86`,
 		['shop'] = 'lsmotors',
 	},
-	-- Scorpion
-	-- ['eleanor'] = {
-	-- 	['name'] = 'Shelby GT500 Eleanor (Scorpion 1)',
-	-- 	['brand'] = 'Ford',
-	-- 	['model'] = 'eleanor',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `eleanor`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- ['domscharger'] = {
-	-- 	['name'] = 'Charger RT 70 (Scorpion 2)',
-	-- 	['brand'] = 'Dodge',
-	-- 	['model'] = 'domscharger',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `domscharger`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- Freddy
-	-- ['stingraywb'] = {
-	-- 	['name'] = 'Corvette C8 Stingray (Freddy 1)',
-	-- 	['brand'] = 'Chevy',
-	-- 	['model'] = 'stingraywb',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `stingraywb`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
-	-- ['x3mache21'] = {
-	-- 	['name'] = '2021 Mustang Mach-E 1400 (Freddy 2)',
-	-- 	['brand'] = 'Ford',
-	-- 	['model'] = 'x3mache21',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-	-- 	['hash'] = `x3mache21`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
 	-- Endelicato
 	['bt62r'] = {
-		['name'] = 'BT62 (Endelicato 1)',
+		['name'] = 'BT62', -- Endelicato 1
 		['brand'] = 'Brabham',
 		['model'] = 'bt62r',
 		['price'] = 10,
@@ -8398,7 +8191,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['evo2'] = {
-		['name'] = 'Huracan Evo 2 (Endelicato 2)',
+		['name'] = 'Huracan Evo 2', -- Endelicato 2
 		['brand'] = 'Lamborghini',
 		['model'] = 'evo2',
 		['price'] = 10,
@@ -8408,7 +8201,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['ares'] = {
-		['name'] = 'Ares GT (Endelicato 3)',
+		['name'] = 'Ares GT', -- Endelicato 3
 		['brand'] = 'Progen',
 		['model'] = 'ares',
 		['price'] = 10,
@@ -8418,7 +8211,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['chiron17'] = {
-		['name'] = 'Chiron (Endelicato 4)',
+		['name'] = 'Chiron', -- Endelicato 4
 		['brand'] = 'Bugatti',
 		['model'] = 'chiron17',
 		['price'] = 10,
@@ -8429,7 +8222,7 @@ QBShared.Vehicles = {
 	},
 	-- Brian Smith
 	['gfastr32'] = {
-		['name'] = 'GTR R32 Drag (Brian 1)',
+		['name'] = 'GTR R32 Drag', -- Brian 1
 		['brand'] = 'Nissan',
 		['model'] = 'gfastr32',
 		['price'] = 10,
@@ -8439,7 +8232,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['GC_WBSUBN'] = {
-		['name'] = 'Suburban Widebody (Brian 2)',
+		['name'] = 'Suburban Widebody', -- Brian 2
 		['brand'] = 'Chevrolet',
 		['model'] = 'GC_WBSUBN',
 		['price'] = 10,
@@ -8450,7 +8243,7 @@ QBShared.Vehicles = {
 	},
 	-- Dylan Bev
 	['3500sd'] = {
-		['name'] = 'Yellowstone Flatbed 3500 (Dylan 1)',
+		['name'] = 'Yellowstone Flatbed 3500', -- Dylan 1
 		['brand'] = 'Dodge',
 		['model'] = '3500sd',
 		['price'] = 10,
@@ -8460,7 +8253,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['enclosedgoose'] = {
-		['name'] = 'Goosenack Trailer (Dylan 1)',
+		['name'] = 'Goosenack Trailer', -- Dylan 1
 		['brand'] = 'Gooseneck',
 		['model'] = 'enclosedgoose',
 		['price'] = 10,
@@ -8470,7 +8263,7 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
 	['maliboohoo'] = {
-		['name'] = '1979 Malibu Drag (Dylan 2)',
+		['name'] = '1979 Malibu Drag', -- Dylan 2
 		['brand'] = 'Chevy',
 		['model'] = 'maliboohoo',
 		['price'] = 10,
@@ -8481,13 +8274,24 @@ QBShared.Vehicles = {
 	},
 	-- Coolie
 	['amggt63'] = {
-		['name'] = '2018 AMG 63GT (Coolie 1)',
+		['name'] = '2018 AMG 63GT', -- Coolie 1
 		['brand'] = 'Mercedes',
 		['model'] = 'amggt63',
 		['price'] = 10,
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `amggt63`,
+		['shop'] = 'lsmotors',
+	},
+    -- Aus
+    ['vanzhycade'] = {
+		['name'] = '2018 Hycade Challenger', -- Aus 1
+		['brand'] = 'Dodge',
+		['model'] = 'vanzhycade',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `vanzhycade`,
 		['shop'] = 'lsmotors',
 	},
 	-- Contest Winners
