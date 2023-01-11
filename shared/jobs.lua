@@ -64,7 +64,7 @@ QBShared.Jobs = {
                 payment = 250
             },
             ['10'] = { -- Blaine County Sheriffs Office (BCSO)
-                name = 'BCSO Cadet',
+                name = 'BCSO Probationary Deputy',
                 payment = 125
             },
 			['11'] = {
@@ -110,11 +110,11 @@ QBShared.Jobs = {
                 payment = 125
             },
 			['21'] = {
-                name = 'SASP Officer',
+                name = 'SASP Trooper',
                 payment = 125
             },
             ['22'] = {
-                name = 'SASP Senior Officer',
+                name = 'SASP Senior Trooper',
                 payment = 150
             },
             ['23'] = {
@@ -138,12 +138,12 @@ QBShared.Jobs = {
                 payment = 200
             },
             ['28'] = {
-                name = 'SASP Deputy Chief',
+                name = 'SASP Assistant Superintendent',
                 isboss = true,
                 payment = 250
             },
 			['29'] = {
-                name = 'SASP Chief',
+                name = 'SASP Superintendent',
 				isboss = true,
                 payment = 250
             },
@@ -156,11 +156,11 @@ QBShared.Jobs = {
                 payment = 175
             },
             ['32'] = {
-                name = 'Asst. Chief Ranger',
+                name = 'SAR Asst. Game Warden',
                 payment = 200
             },
             ['33'] = {
-                name = 'Chief Ranger',
+                name = 'Game Warden',
                 isboss = true,
                 payment = 250
             },
