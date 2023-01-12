@@ -8085,6 +8085,16 @@ QBShared.Vehicles = {
 		['hash'] = `gclapped`,
 		['shop'] = 'lsmotors',
 	},
+        ['fk8hr'] = {
+		['name'] = 'Civic FK8 Type-R', -- Irwin 3
+		['brand'] = 'Honda',
+		['model'] = 'fk8hr',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `fk8hr`,
+		['shop'] = 'lsmotors',
+	},
 	-- Fuzzy
 	['gtz34'] = {
 		['name'] = 'Skyline R34', -- Fuzzy 1
