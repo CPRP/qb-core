@@ -5581,6 +5581,37 @@ QBShared.Vehicles = {
 
 	--[[CUSTOM STUFFS]]------------------------------------------------------------------------------------
 
+    --Police Vehicles 
+    ['zr1rb'] = {
+		['name'] = 'Corvette ZR1',
+		['brand'] = 'Chevy',
+		['model'] = 'zr1rb',
+		['price'] = 10,
+		['category'] = 'lawenforcement',
+        ['categoryLabel'] = 'Law Enforcement',
+		['hash'] = `zr1rb`,
+		['shop'] = 'lsmotors',
+	},
+    ['poldemonrb'] = {
+		['name'] = 'Challenger Demon',
+		['brand'] = 'Dodge',
+		['model'] = 'poldemonrb',
+		['price'] = 10,
+		['category'] = 'lawenforcement',
+        ['categoryLabel'] = 'Law Enforcement',
+		['hash'] = `poldemonrb`,
+		['shop'] = 'lsmotors',
+	},
+    ['mach1rb'] = {
+		['name'] = 'Mach 1',
+		['brand'] = 'Mustang',
+		['model'] = 'mach1rb',
+		['price'] = 10,
+		['category'] = 'lawenforcement',
+        ['categoryLabel'] = 'Law Enforcement',
+		['hash'] = `mach1rb`,
+		['shop'] = 'lsmotors',
+	},
 	--Custom Civ Vehicles
 	['dvgts'] = {
 		['name'] = 'Viper GTS',
