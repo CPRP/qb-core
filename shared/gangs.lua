@@ -64,7 +64,7 @@ QBShared.Gangs = {
                 isboss = true
             },
             ['5'] = {
-                name = 'Sargent At Arms',
+                name = 'Sergeant At Arms',
                 isboss = true
             },
             ['6'] = {
@@ -95,8 +95,8 @@ QBShared.Gangs = {
             },
         },
 	},
-	['ogmafia'] = {
-		label = 'OG Mafia Bloods',
+	['mantle'] = {
+		label = 'Mantle Enterprises',
 		grades = {
             ['0'] = {
                 name = 'Regular Member'
@@ -115,7 +115,7 @@ QBShared.Gangs = {
                 isboss = true
             },
             ['5'] = {
-                name = 'Sargent At Arms',
+                name = 'Sergeant At Arms',
                 isboss = true
             },
             ['6'] = {
