@@ -672,18 +672,18 @@ QBShared.Items = {
 	['weapon_scarh'] 				 = {['name'] = 'weapon_scarh', 				 	['label'] = 'PD SCAR-H', 				['weight'] = 12000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_RIFLE',			['image'] = 'scar.png',								['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'An extremely versatile assault rifle for any combat situation'},
 	['weapon_shiv'] 				 = {['name'] = 'weapon_shiv', 			 	  	['label'] = 'Shiv', 					['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = nil,						['image'] = 'shiv.png', 							['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'An instrument composed of a blade fixed into a handle, used for cutting or as a weapon'},
 	['weapon_ar15'] 				 = {['name'] = 'weapon_ar15', 	 	 		 	['label'] = 'PD AR-15', 				['weight'] = 12000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_RIFLE',			['image'] = 'weapon_mcx.png', 						['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A lightweight automatic rifle for the Police'},
-	['weapon_mk14'] 				 = {['name'] = 'weapon_mk14', 	 			  	['label'] = 'PD MK14', 					['weight'] = 28000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_SNIPER',			['image'] = 'mk14.png', 							['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A very accurate single-fire rifle'},
-	['weapon_huntingrifle'] 		 = {['name'] = 'weapon_huntingrifle', 	 	  	['label'] = 'Hunting Rifle', 			['weight'] = 28000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_SNIPER',			['image'] = 'huntingrifle.png', 					['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A very accurate Rifle for hunting'},
+	['weapon_mk14'] 				 = {['name'] = 'weapon_mk14', 	 			  	['label'] = 'PD MK14', 					['weight'] = 18000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_SNIPER',			['image'] = 'mk14.png', 							['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A very accurate single-fire rifle'},
+	['weapon_huntingrifle'] 		 = {['name'] = 'weapon_huntingrifle', 	 	  	['label'] = 'Hunting Rifle', 			['weight'] = 18000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_SNIPER',			['image'] = 'huntingrifle.png', 					['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A very accurate Rifle for hunting'},
 	['weapon_katana'] 				 = {['name'] = 'weapon_katana', 	 		  	['label'] = 'Katana', 					['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = nil,						['image'] = 'katana.png', 							['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A single-edged sword that is the longer of a pair worn by the Japanese samurai.'},
-	['weapon_sledgehammer'] 		 = {['name'] = 'weapon_sledgehammer', 	 		['label'] = 'Sledge Hammer', 			['weight'] = 8000, 		['type'] = 'weapon', 	['ammotype'] = nil,						['image'] = 'sledgehammer.png', 					['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A Sledge Hammer to destroy peoples heads'},
-	['weapon_mp9'] 			 		 = {['name'] = 'weapon_mp9', 		 	  		['label'] = 'MP9', 						['weight'] = 8000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_SMG',				['image'] = 'm9.png', 								['unique'] = true, 		['useable'] = false,["created"] = nil,	["decay"] = 30.0,     	['description'] = 'A handheld lightweight machine gun'},
-	['weapon_m110'] 		 		 = {['name'] = 'weapon_m110', 	 	  	 		['label'] = 'M110', 					['weight'] = 28000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_SNIPER',			['image'] = 'm110.png', 							['unique'] = true, 		['useable'] = false,["created"] = nil,	["decay"] = 30.0,     	['description'] = 'A very accurate single-fire rifle'},
+	['weapon_sledgehammer'] 		 = {['name'] = 'weapon_sledgehammer', 	 		['label'] = 'Sledge Hammer', 			['weight'] = 6000, 		['type'] = 'weapon', 	['ammotype'] = nil,						['image'] = 'sledgehammer.png', 					['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A Sledge Hammer to destroy peoples heads'},
+	['weapon_mp9'] 			 		 = {['name'] = 'weapon_mp9', 		 	  		['label'] = 'MP9', 						['weight'] = 3000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_SMG',				['image'] = 'm9.png', 								['unique'] = true, 		['useable'] = false,["created"] = nil,	["decay"] = 30.0,     	['description'] = 'A handheld lightweight machine gun'},
+	['weapon_m110'] 		 		 = {['name'] = 'weapon_m110', 	 	  	 		['label'] = 'M110', 					['weight'] = 18000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_SNIPER',			['image'] = 'm110.png', 							['unique'] = true, 		['useable'] = false,["created"] = nil,	["decay"] = 30.0,     	['description'] = 'A very accurate single-fire rifle'},
 	['weapon_hk416'] 		 		 = {['name'] = 'weapon_hk416', 	 	  			['label'] = 'HK-416', 					['weight'] = 12000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_RIFLE',			['image'] = 'weapon_carbinerifle.png', 				['unique'] = true, 		['useable'] = false,["created"] = nil,	["decay"] = 30.0,     	['description'] = 'A lightweight automatic rifle'},
-	['weapon_ak74'] 		 		 = {['name'] = 'weapon_ak74', 	 			  	['label'] = 'AK-74', 					['weight'] = 13000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_RIFLE',			['image'] = 'weapon_ak74.png', 				        ['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A rapid-fire, magazine-fed automatic rifle designed for infantry use'},
-	['weapon_aks74'] 		 		 = {['name'] = 'weapon_aks74', 	 			  	['label'] = 'AK-S74', 					['weight'] = 13000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_RIFLE',			['image'] = 'weapon_aks74.png', 				    ['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A rapid-fire, magazine-fed automatic rifle designed for infantry use'},
-	['weapon_glock18c'] 			 = {['name'] = 'weapon_glock18c', 			 	['label'] = 'Glock 18C', 				['weight'] = 7000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_PISTOL',			['image'] = 'glock-18c.png', 						['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'semi automatic pistol'},
-	['weapon_glock22'] 			     = {['name'] = 'weapon_glock22', 			 	['label'] = 'Glock 22', 				['weight'] = 7000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_PISTOL',			['image'] = 'glock-22.png', 						['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'pistol'},
-	['weapon_mp5'] 				 	 = {['name'] = 'weapon_mp5', 			 	  	['label'] = 'H&K MP5', 					['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_SMG',				['image'] = 'MP5.png', 			                    ['unique'] = true, 		['useable'] = false,["created"] = nil, 	['description'] = 'A handheld lightweight machine gun'},
+	['weapon_ak74'] 		 		 = {['name'] = 'weapon_ak74', 	 			  	['label'] = 'AK-74', 					['weight'] = 12000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_RIFLE',			['image'] = 'weapon_ak74.png', 				        ['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A rapid-fire, magazine-fed automatic rifle designed for infantry use'},
+	['weapon_aks74'] 		 		 = {['name'] = 'weapon_aks74', 	 			  	['label'] = 'AK-S74', 					['weight'] = 12000, 	['type'] = 'weapon', 	['ammotype'] = 'AMMO_RIFLE',			['image'] = 'weapon_aks74.png', 				    ['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A rapid-fire, magazine-fed automatic rifle designed for infantry use'},
+	['weapon_glock18c'] 			 = {['name'] = 'weapon_glock18c', 			 	['label'] = 'Glock 18C', 				['weight'] = 3000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_PISTOL',			['image'] = 'glock-18c.png', 						['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'semi automatic pistol'},
+	['weapon_glock22'] 			     = {['name'] = 'weapon_glock22', 			 	['label'] = 'Glock 22', 				['weight'] = 3000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_PISTOL',			['image'] = 'glock-22.png', 						['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'pistol'},
+	['weapon_mp5'] 				 	 = {['name'] = 'weapon_mp5', 			 	  	['label'] = 'H&K MP5', 					['weight'] = 3000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_SMG',				['image'] = 'MP5.png', 			                    ['unique'] = true, 		['useable'] = false,["created"] = nil, 	['description'] = 'A handheld lightweight machine gun'},
 	['weapon_karambit'] 			 = {['name'] = 'weapon_karambit', 			 	['label'] = 'Karambit', 				['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = nil,						['image'] = 'weapon_karambit.png', 		            ['unique'] = true, 		['useable'] = false,["created"] = nil, 	['description'] = 'A short knife with a pointed and edged blade, used as a weapon'},
 	['weapon_colbaton'] 			 = {['name'] = 'weapon_colbaton', 		 	  	['label'] = 'PD Baton', 				['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = nil,						['image'] = 'weapon_colbaton.png', 					['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A baton to keep people in line'},
 
@@ -1221,7 +1221,7 @@ QBShared.Items = {
 	-- Drinks
 	["atom-softdrink"] 			 	 = {["name"] = "atom-softdrink", 				["label"] = "Soft Drink", 				["weight"] = 125, 		["type"] = "item", 		["image"] = "atom-softdrink.png", 				["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "An Ice Cold Drink."},
 	["atom-mshake"] 			     = {["name"] = "atom-mshake", 					["label"] = "Milkshake", 				["weight"] = 125, 		["type"] = "item", 		["image"] = "atom-mshake.png", 					["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Hand-scooped for you!"},
-	--KFC Ingredients
+	-- KFC Ingredients
 	["atom-bun"] 				 	 = {["name"] = "atom-bun", 			 	  		["label"] = "Bun", 						["weight"] = 125, 		["type"] = "item", 		["image"] = "atom-bun.png", 					["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "An Ingredient"},
 	["atom-meat"] 				 	 = {["name"] = "atom-meat", 			 	  	["label"] = "Cooked Patty", 			["weight"] = 125, 		["type"] = "item", 		["image"] = "atom-meat.png", 		    		["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "An Ingredient"},
 	["atom-lettuce"] 				 = {["name"] = "atom-lettuce", 			 		["label"] = "Lettuce", 					["weight"] = 125, 		["type"] = "item", 		["image"] = "atom-lettuce.png", 	    		["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "An Ingredient"},
@@ -1235,5 +1235,142 @@ QBShared.Items = {
 	--[[CDN-Fuel]]
 	["syphoningkit"]				 = {["name"] = "syphoningkit", 					["label"] = "Syphoning Kit", 			["weight"] = 5000, 		["type"] = "item", 		["image"] = "syphoningkit.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "A kit made to siphon gasoline from vehicles."},
 	["jerrycan"]				 	 = {["name"] = "jerrycan", 						["label"] = "Jerry Can", 				["weight"] = 15000, 	["type"] = "item", 		["image"] = "jerrycan.png", 					["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "A Jerry Can made to hold gasoline."},
+
+	--[[qb-weaponrepair]]
+	['weaponrepairkit']                	 = {['name'] = 'weaponrepairkit',               	['label'] = 'Weapon repair kit',             ['weight'] = 2000,       ['type'] = 'item',      ['image'] = 'weaponrepairkit.png',        	['unique'] = true,     ['useable'] = true,     ['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'A repair kit for your weapon. Not meant for permanent repairs.'},
+
+	--[[rcore-casino]]
+	["casino_beer"] = {
+		["name"] = "casino_beer",
+		["label"] = "Casino Beer",
+		["weight"] = 0,
+		["type"] = "item",
+		['image'] = 'casino_beer.png',
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Beer"
+	},
+	["casino_burger"] = {
+		["name"] = "casino_burger",
+		["label"] = "Casino Burger",
+		["weight"] = 0,
+		["type"] = "item",
+		['image'] = 'casino_burger.png',
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Burger"
+	},
+	["casino_chips"] = {
+		["name"] = "casino_chips",
+		["label"] = "Casino Chips",
+		["weight"] = 0,
+		["type"] = "item",
+		['image'] = 'casino_chips.png',
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Chips"
+	},
+	["casino_coffee"] = {
+		["name"] = "casino_coffee",
+		["label"] = "Casino Coffee",
+		["weight"] = 0,
+		["type"] = "item",
+		['image'] = 'casino_coffee.png',
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Coffee"
+	},
+	["casino_coke"] = {
+		["name"] = "casino_coke",
+		["label"] = "Casino Kofola",
+		["weight"] = 0,
+		["type"] = "item",
+		['image'] = 'casino_coke.png',
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Kofola"
+	},
+	["casino_donut"] = {
+		["name"] = "casino_donut",
+		["label"] = "Casino Donut",
+		["weight"] = 0,
+		["type"] = "item",
+		["image"] = "casino_donut.png",
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Donut"
+	},
+	["casino_ego_chaser"] = {
+		["name"] = "casino_ego_chaser",
+		["label"] = "Casino Ego Chaser",
+		["weight"] = 0,
+		["type"] = "item",
+		["image"] = "casino_ego_chaser.png",
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Ego Chaser"
+	},
+	["casino_luckypotion"] = {
+		["name"] = "casino_luckypotion",
+		["label"] = "Casino Lucky Potion",
+		["weight"] = 0,
+		["type"] = "item",
+		["image"] = "casino_luckypotion.png",
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Lucky Potion"
+	},
+	["casino_psqs"] = {
+		["name"] = "casino_psqs",
+		["label"] = "Casino Ps & Qs",
+		["weight"] = 0,
+		["type"] = "item",
+		["image"] = "casino_psqs.png",
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Ps & Qs"
+	},
+	["casino_sandwitch"] = {
+		["name"] = "casino_sandwitch",
+		["label"] = "Casino Sandwitch",
+		["weight"] = 0,
+		["type"] = "item",
+		["image"] = "casino_sandwitch.png",
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Sandwitch"
+	},
+	["casino_sprite"] = {
+		["name"] = "casino_sprite",
+		["label"] = "Casino Sprite",
+		["weight"] = 0,
+		["type"] = "item",
+		["image"] = "casino_sprite.png",
+		["unique"] = true,
+		["useable"] = false,
+		["shouldClose"] = false,
+		["combinable"] = nil,
+		["description"] = "Casino Sprite"
+	},
 
 }
