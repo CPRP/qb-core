@@ -77,20 +77,35 @@ QBShared.Gangs = {
             },
         },
 	},
-	['vagos'] = {
-		label = 'Vagos',
+	['mafiacrip'] = {
+		label = 'Mafia Crip',
 		grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Regular Member'
             },
 			['1'] = {
-                name = 'Enforcer'
+                name = 'Lieutenant'
             },
 			['2'] = {
-                name = 'Shot Caller'
+                name = 'Enforcer'
             },
-			['3'] = {
-                name = 'Boss',
+            ['3'] = {
+                name = 'Enforcer'
+            },
+            ['4'] = {
+                name = 'Secretary/Treasure',
+                isboss = true
+            },
+            ['5'] = {
+                name = 'Sergeant At Arms',
+                isboss = true
+            },
+            ['6'] = {
+                name = 'Vice President',
+                isboss = true
+            },
+			['7'] = {
+                name = 'President',
 				isboss = true
             },
         },
