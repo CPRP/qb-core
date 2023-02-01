@@ -5612,6 +5612,16 @@ QBShared.Vehicles = {
 		['hash'] = `mach1rb`,
 		['shop'] = 'lsmotors',
 	},
+    ['valor13rb'] = {
+		['name'] = 'Ford Explorer 2021',
+		['brand'] = 'Ford',
+		['model'] = 'valor13rb',
+		['price'] = 10,
+		['category'] = 'lawenforcement',
+        ['categoryLabel'] = 'Law Enforcement',
+		['hash'] = `valor13rb`,
+		['shop'] = 'lsmotors',
+	},
 	--Custom Civ Vehicles
 	['dvgts'] = {
 		['name'] = 'Viper GTS',
@@ -7103,7 +7113,7 @@ QBShared.Vehicles = {
 		['hash'] = `mcgt20`,
 		['shop'] = 'lsmotors',
 	},
- ['redeye'] = {
+    ['redeye'] = {
 		['name'] = 'Challenger Redeye',
 		['brand'] = 'Dodge',
 		['model'] = 'redeye',
@@ -7203,6 +7213,77 @@ QBShared.Vehicles = {
 		['hash'] = `wildtrak`,
 		['shop'] = 'lsmotors',
 	},
+    ['grsupra'] = {
+		['name'] = '2020 Supra GR',
+		['brand'] = 'Toyota',
+		['model'] = 'grsupra',
+		['price'] = 33000,
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
+		['hash'] = `grsupra`,
+		['shop'] = 'lsmotors',
+	},
+    ['dbxultimate'] = {
+		['name'] = 'DBX Ultimate Edition',
+		['brand'] = 'Aston Martin',
+		['model'] = 'dbxultimate',
+		['price'] = 110000,
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
+		['hash'] = `dbxultimate`,
+		['shop'] = 'lsmotors',
+	},
+    ['lamodels'] = {
+		['name'] = 'Model S Elizabeta Larte',
+		['brand'] = 'Tesla',
+		['model'] = 'lamodels',
+		['price'] = 60000,
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
+		['hash'] = `lamodels`,
+		['shop'] = 'lsmotors',
+	},
+    ['lx2018'] = {
+		['name'] = '2018 LX570 WALD',
+		['brand'] = 'Lexus',
+		['model'] = 'lx2018',
+		['price'] = 28000,
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
+		['hash'] = `lx2018`,
+		['shop'] = 'lsmotors',
+	},
+    ['lc500'] = {
+		['name'] = '2020 LC500 Artisan Spirits',
+		['brand'] = 'Lexus',
+		['model'] = 'lc500',
+		['price'] = 80000,
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
+		['hash'] = `lc500`,
+		['shop'] = 'lsmotors',
+	},
+    ['monster'] = {
+		['name'] = 'H1 6x6',
+		['brand'] = 'Hummer',
+		['model'] = 'monster',
+		['price'] = 70000,
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
+		['hash'] = `monster`,
+		['shop'] = 'lsmotors',
+	},
+    ['Hycade'] = {
+		['name'] = 'Urus Hycade',
+		['brand'] = 'Lamborghini',
+		['model'] = 'Hycade',
+		['price'] = 52000,
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
+		['hash'] = `Hycade`,
+		['shop'] = 'lsmotors',
+	},
+
 	--[[Campers Dealership]]
 	['camper'] = {
 		['name'] = 'Camper',
@@ -7531,6 +7612,26 @@ QBShared.Vehicles = {
 		['hash'] = `s10`,
 		['shop'] = 'lsmotors',
 	},
+    ['2018transam'] = {
+		['name'] = '2018 Firebird Trans Am', -- CJ 5
+		['brand'] = 'Pontiac',
+		['model'] = '2018transam',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `2018transam`,
+		['shop'] = 'lsmotors',
+	},
+    ['pontiacg8'] = {
+		['name'] = 'G8 GXP', -- CJ 6
+		['brand'] = 'Pontiac',
+		['model'] = 'pontiacg8',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `pontiacg8`,
+		['shop'] = 'lsmotors',
+	},
 	-- Coltron Scott
 	['project8'] = {
 		['name'] = 'XE SV Project 8', -- Coltron 1
@@ -7612,7 +7713,17 @@ QBShared.Vehicles = {
 		['hash'] = `demonhawk2`,
 		['shop'] = 'lsmotors',
 	},
-	-- Ellie Martinez
+    ['6x6urus'] = {
+		['name'] = '6x6 Urus', -- Coltron 9
+		['brand'] = 'Lamborghini',
+		['model'] = '6x6urus',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `6x6urus`,
+		['shop'] = 'lsmotors',
+	},
+	-- Ellie
 	['brz13'] = {
 		['name'] = 'BRZ', -- Ellie 1
 		['brand'] = 'Subaru',
@@ -7671,6 +7782,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `minilb`,
+		['shop'] = 'lsmotors',
+	},
+    ['lavn'] = {
+		['name'] = 'La Voiture Noire', -- Ellie 7
+		['brand'] = 'Bugatti',
+		['model'] = 'lavn',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `lavn`,
 		['shop'] = 'lsmotors',
 	},
 	-- Brandin Martinez
@@ -7783,6 +7904,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `impala67`,
+		['shop'] = 'lsmotors',
+	},
+    ['huayrabc19'] = {
+		['name'] = '2022 Huayra', -- Andrew 8
+		['brand'] = 'Pagani',
+		['model'] = 'huayrabc19',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `huayrabc19`,
 		['shop'] = 'lsmotors',
 	},
 	-- Jesse Hill
@@ -7949,9 +8080,19 @@ QBShared.Vehicles = {
 		['hash'] = `buglifted`,
 		['shop'] = 'lsmotors',
 	},
-	['gmcev4'] = {
+    ['190asap'] = {
 		['name'] = 'Hummer EV', -- Ben 6
 		['brand'] = 'GMC',
+		['model'] = '190asap',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `190asap`,
+		['shop'] = 'lsmotors',
+	},
+    ['gmcev4'] = {
+		['name'] = '190 E A$AP', -- Ben 7
+		['brand'] = 'Mercedes',
 		['model'] = 'gmcev4',
 		['price'] = 10,
 		['category'] = 'oneofone',
@@ -8085,7 +8226,7 @@ QBShared.Vehicles = {
 		['hash'] = `gclapped`,
 		['shop'] = 'lsmotors',
 	},
-        ['fk8hr'] = {
+    ['fk8hr'] = {
 		['name'] = 'Civic FK8 Type-R', -- Irwin 3
 		['brand'] = 'Honda',
 		['model'] = 'fk8hr',
@@ -8093,6 +8234,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `fk8hr`,
+		['shop'] = 'lsmotors',
+	},
+    ['rtruck'] = {
+		['name'] = '2015 Tankpool Racing Truck', -- Irwin 4
+		['brand'] = 'Mercedes',
+		['model'] = 'rtruck',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `rtruck`,
 		['shop'] = 'lsmotors',
 	},
 	-- Fuzzy
@@ -8167,6 +8318,16 @@ QBShared.Vehicles = {
 		['hash'] = `fc3s`,
 		['shop'] = 'lsmotors',
 	},
+    ['15equusbk_sj'] = {
+		['name'] = '2015 Equus Widebody', -- Gaffney 6
+		['brand'] = 'Hyundai',
+		['model'] = '15equusbk_sj',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `15equusbk_sj`,
+		['shop'] = 'lsmotors',
+	},
 	-- ThatGuy
 	['chg'] = {
 		['name'] = 'Chiron', -- That Guy 1
@@ -8197,6 +8358,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `cybertruck`,
+		['shop'] = 'lsmotors',
+	},
+    ['JESKO2020'] = {
+		['name'] = '2020 Jesko', -- Zak 5
+		['brand'] = 'Koenigsegg',
+		['model'] = 'JESKO2020',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `JESKO2020`,
 		['shop'] = 'lsmotors',
 	},
 	-- Jack Wood
@@ -8261,6 +8432,16 @@ QBShared.Vehicles = {
 		['hash'] = `chiron17`,
 		['shop'] = 'lsmotors',
 	},
+    ['lhgt3'] = {
+		['name'] = 'Huracan GT3', -- Endelicato 5
+		['brand'] = 'Lamborghini',
+		['model'] = 'lhgt3',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `lhgt3`,
+		['shop'] = 'lsmotors',
+	},
 	-- Brian Smith
 	['gfastr32'] = {
 		['name'] = 'GTR R32 Drag', -- Brian 1
@@ -8280,6 +8461,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `GC_WBSUBN`,
+		['shop'] = 'lsmotors',
+	},
+    ['f350worktruck'] = {
+		['name'] = 'F350 Work Truck', -- Brian 3
+		['brand'] = 'Ford',
+		['model'] = 'f350worktruck',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `f350worktruck`,
 		['shop'] = 'lsmotors',
 	},
 	-- Dylan Bev
@@ -8335,6 +8526,17 @@ QBShared.Vehicles = {
 		['hash'] = `vanzhycade`,
 		['shop'] = 'lsmotors',
 	},
+    ['sscts'] = {
+		['name'] = '2022 Tuatara Striker', -- Aus 2
+		['brand'] = 'SSC',
+		['model'] = 'sscts',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `sscts`,
+		['shop'] = 'lsmotors',
+	},
+    
 	-- Contest Winners
 	['ghispo2'] = {
 		['name'] = 'Ghibli',
