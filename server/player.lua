@@ -142,6 +142,7 @@ function QBCore.Player.CheckPlayerData(source, PlayerData)
         ['distance'] = 0,
         ['pristine'] = 0
     }
+    PlayerData.metadata['moneywashrep'] = PlayerData.metadata['moneywashrep'] or 0 --Rebel Moneywash
     -- Job
     if PlayerData.job and PlayerData.job.name and not QBCore.Shared.Jobs[PlayerData.job.name] then PlayerData.job = nil end
     PlayerData.job = PlayerData.job or {}
