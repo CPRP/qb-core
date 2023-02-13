@@ -396,7 +396,7 @@ QBShared.Items = {
 
 	--Added Items
 	['driving_test_permit'] 		 = {['name'] = 'driving_test_permit', 			['label'] = 'Driving Test Permit', 		['weight'] = 200, 		['type'] = 'item', 		['image'] = 'driving_test_permit.png',  ['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Permit for Driving Test'},
-	['ifaks'] 		 	 		 	 = {['name'] = 'ifaks', 						['label'] = 'IFAKS', 					['weight'] = 2500, 		['type'] = 'item', 		['image'] = 'ifak.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Individual First-Aid Kit'},
+	['ifaks'] 		 	 		 	 = {['name'] = 'ifaks', 						['label'] = 'IFAKS', 					['weight'] = 25, 		['type'] = 'item', 		['image'] = 'ifak.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Individual First-Aid Kit'},
 	
     --[[Jim-Mining]]
 	["stone"] 		 	 			 = {["name"] = "stone",           				["label"] = "Stone",	 				["weight"] = 1200, 	    ["type"] = "item", 		["image"] = "stone.png", 				["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false, ["combinable"] = nil,   ["description"] = "Stone woo"},
@@ -1487,13 +1487,14 @@ QBShared.Items = {
 	['wetbills'] 					= {['name'] = 'wetbills', 			  	  	['label'] = 'Wet Bills', 				['weight'] = 500, 		['type'] = 'item', 		['image'] = 'wetbills.png', 	['unique'] = true, 		['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Money?'},
 
 	--[[ITEMS FOR BUSINESS MENUS]]
-	['uwucafemenu1'] 				= {['name'] = 'uwucafemenu1', 			    ['label'] = 'Uwu Menu', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'uwucafemenu1.png', 	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Uwu Cafe Menu!'},
-	['uwucafemenu2'] 				= {['name'] = 'uwucafemenu2', 			    ['label'] = 'Uwu Dessert Menu', 		['weight'] = 0, 		['type'] = 'item', 		['image'] = 'uwucafemenu2.png', 	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Uwu Cafe Dessert Menu!'},
-	['upnatommenu'] 				= {['name'] = 'upnatommenu', 			    ['label'] = 'Up-N-Atom Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'upnatommenu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Burgershot Menu!'},
-	['burgershotmenu'] 				= {['name'] = 'burgershotmenu', 			['label'] = 'Burgershot Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'burgershotmenu.png', 	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Up-N-Atom Menu!'},
-	['pizzathismenu'] 				= {['name'] = 'pizzathismenu', 			    ['label'] = 'Pizza This Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'pizzathismenu.png', 	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Pizza This Menu!'},
-	['cyberbarmenu'] 				= {['name'] = 'cyberbarmenu', 				['label'] = 'Cyber Bar Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'cyberbarmenu.png', 	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Cyberbar Menu!'},
-	['vanillamenu'] 				= {['name'] = 'vanillamenu', 			    ['label'] = 'Vanilla Unicorn Menu', 	['weight'] = 0, 		['type'] = 'item', 		['image'] = 'vanillamenu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Vanilla Unicorn Menu!'},
+	['uwucafemenu1'] 				= {['name'] = 'uwucafemenu1', 			    ['label'] = 'Uwu Menu', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Uwu Cafe Menu!'},
+	['uwucafemenu2'] 				= {['name'] = 'uwucafemenu2', 			    ['label'] = 'Uwu Dessert Menu', 		['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Uwu Cafe Dessert Menu!'},
+	['upnatommenu'] 				= {['name'] = 'upnatommenu', 			    ['label'] = 'Up-N-Atom Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Burgershot Menu!'},
+	['burgershotmenu'] 				= {['name'] = 'burgershotmenu', 			['label'] = 'Burgershot Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Up-N-Atom Menu!'},
+	['pizzathismenu'] 				= {['name'] = 'pizzathismenu', 			    ['label'] = 'Pizza This Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Pizza This Menu!'},
+	['cyberbarmenu'] 				= {['name'] = 'cyberbarmenu', 				['label'] = 'Cyber Bar Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Cyberbar Menu!'},
+	['vanillamenu'] 				= {['name'] = 'vanillamenu', 			    ['label'] = 'Vanilla Unicorn Menu', 	['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Vanilla Unicorn Menu!'},
 
 }
+
 
