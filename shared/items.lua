@@ -1494,6 +1494,7 @@ QBShared.Items = {
 	['pizzathismenu'] 				= {['name'] = 'pizzathismenu', 			    ['label'] = 'Pizza This Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Pizza This Menu!'},
 	['cyberbarmenu'] 				= {['name'] = 'cyberbarmenu', 				['label'] = 'Cyber Bar Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Cyberbar Menu!'},
 	['vanillamenu'] 				= {['name'] = 'vanillamenu', 			    ['label'] = 'Vanilla Unicorn Menu', 	['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Vanilla Unicorn Menu!'},
+	['beanmachinemenu'] 			= {['name'] = 'beanmachinemenu', 			['label'] = 'Bean Machine Menu', 		['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Bean Machine Menu!'},
 
 }
 
