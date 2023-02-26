@@ -338,7 +338,7 @@ QBShared.Vehicles = {
         ['name'] = 'Ignus',
         ['brand'] = 'Pegassi',
         ['model'] = 'ignus',
-        ['price'] = 1120000,
+        ['price'] = 120000,
         ['category'] = 'coupes',
         ['categoryLabel'] = 'Coupes',
         ['hash'] = `ignus`,
@@ -6798,10 +6798,10 @@ QBShared.Vehicles = {
 		['brand'] = 'Honda',
 		['model'] = 'hondacivictr',
 		['price'] = 150000,
-		['category'] = 'custom',
-        ['categoryLabel'] = 'Custom',
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
 		['hash'] = `hondacivictr`,
-		['shop'] = 'gabzpdm',
+		['shop'] = 'lsmotors',
 	},
 	['jeepg'] = {
 		['name'] = 'Gladiator',
@@ -6958,10 +6958,10 @@ QBShared.Vehicles = {
 		['brand'] = 'Honda',
 		['model'] = 'FK8',
 		['price'] = 38000,
-		['category'] = 'imports',
-        ['categoryLabel'] = 'Imports',
+		['category'] = 'custom',
+        ['categoryLabel'] = 'Custom',
 		['hash'] = `FK8`,
-		['shop'] = 'lsmotors',
+		['shop'] = 'gabzpdm',
 	},
 	['civic'] = {
 		['name'] = 'Civic Si',
@@ -7463,6 +7463,16 @@ QBShared.Vehicles = {
 		['hash'] = `Hycade`,
 		['shop'] = 'lsmotors',
 	},
+    ['cozycoupe'] = {
+		['name'] = 'Angry Little Tykes',
+		['brand'] = 'Little Tykes',
+		['model'] = 'cozycoupe',
+		['price'] = 18000,
+		['category'] = 'imports',
+        ['categoryLabel'] = 'Imports',
+		['hash'] = `cozycoupe`,
+		['shop'] = 'lsmotors',
+	},
 
 	--[[Campers Dealership]]
 	['camper'] = {
@@ -7812,6 +7822,16 @@ QBShared.Vehicles = {
 		['hash'] = `pontiacg8`,
 		['shop'] = 'lsmotors',
 	},
+    ['q8prior6'] = {
+		['name'] = 'Q8 6x6 Prior Design', -- CJ 7
+		['brand'] = 'Audi',
+		['model'] = 'q8prior6',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `q8prior6`,
+		['shop'] = 'lsmotors',
+	},
 	-- Coltron Scott
 	['project8'] = {
 		['name'] = 'XE SV Project 8', -- Coltron 1
@@ -7903,6 +7923,16 @@ QBShared.Vehicles = {
 		['hash'] = `6x6urus`,
 		['shop'] = 'lsmotors',
 	},
+    ['300cHellcat'] = {
+		['name'] = '2021 300c SRT Demon Redeye', -- Coltron 10
+		['brand'] = 'Chrysler',
+		['model'] = '300cHellcat',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `300cHellcat`,
+		['shop'] = 'lsmotors',
+	},
 	-- Ellie
 	['brz13'] = {
 		['name'] = 'BRZ', -- Ellie 1
@@ -7954,14 +7984,14 @@ QBShared.Vehicles = {
 		['hash'] = `22b`,
 		['shop'] = 'lsmotors',
 	},
-	['minilb'] = {
-		['name'] = 'R56 GP Liberty Walk', -- Ellie 6
+	['mr53'] = {
+		['name'] = 'S R53', -- Ellie 6
 		['brand'] = 'Mini Cooper',
-		['model'] = 'minilb',
+		['model'] = 'mr53',
 		['price'] = 10,
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
-		['hash'] = `minilb`,
+		['hash'] = `mr53`,
 		['shop'] = 'lsmotors',
 	},
     ['lavn'] = {
@@ -8280,6 +8310,16 @@ QBShared.Vehicles = {
 		['hash'] = `190asap`,
 		['shop'] = 'lsmotors',
 	},
+    ['rollsmafia'] = {
+		['name'] = '2018 Phantom', -- Ben 8
+		['brand'] = 'Rolls Royce',
+		['model'] = 'rollsmafia',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `rollsmafia`,
+		['shop'] = 'lsmotors',
+	},
 	-- David Cole
 	['gle'] = {
 		['name'] = 'GLE', -- David 1
@@ -8426,6 +8466,16 @@ QBShared.Vehicles = {
 		['hash'] = `rtruck`,
 		['shop'] = 'lsmotors',
 	},
+    ['chrcst'] = {
+		['name'] = 'Charger Hellcat Custom', -- Irwin 5
+		['brand'] = 'Dodge',
+		['model'] = 'chrcst',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `chrcst`,
+		['shop'] = 'lsmotors',
+	},
 	-- Fuzzy
 	['gtz34'] = {
 		['name'] = 'Skyline R34', -- Fuzzy 1
@@ -8550,6 +8600,16 @@ QBShared.Vehicles = {
 		['hash'] = `JESKO2020`,
 		['shop'] = 'lsmotors',
 	},
+    ['gtrh'] = {
+		['name'] = 'GTR R35 HR Trendsetter', -- Zak 6
+		['brand'] = 'Nissan',
+		['model'] = 'gtrh',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `gtrh`,
+		['shop'] = 'lsmotors',
+	},
 	-- Jack Wood
 	['180326'] = {
 		['name'] = '180sx 2JZ', -- Wood 1
@@ -8653,6 +8713,16 @@ QBShared.Vehicles = {
 		['hash'] = `f350worktruck`,
 		['shop'] = 'lsmotors',
 	},
+    ['610dtm'] = {
+		['name'] = 'Huracan Mansory DTM', -- Brian 4
+		['brand'] = 'Lamborghini',
+		['model'] = '610dtm',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `610dtm`,
+		['shop'] = 'lsmotors',
+	},
 	-- Dylan Bev
 	['3500sd'] = {
 		['name'] = 'Yellowstone Flatbed 3500', -- Dylan 1
@@ -8725,6 +8795,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `amggtsprior`,
+		['shop'] = 'lsmotors',
+	},
+    ['gladiator'] = {
+		['name'] = '2020 Gladiator Rubicon', -- DJ 2
+		['brand'] = 'Jeep',
+		['model'] = 'gladiator',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `gladiator`,
 		['shop'] = 'lsmotors',
 	},
 	-- Contest Winners
