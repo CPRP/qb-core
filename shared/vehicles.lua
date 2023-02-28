@@ -8786,7 +8786,7 @@ QBShared.Vehicles = {
 		['hash'] = `sscts`,
 		['shop'] = 'lsmotors',
 	},
-    -- DJ
+    -- DJ Ranells
     ['amggtsprior'] = {
 		['name'] = 'AMG GT S Prior Edition', -- DJ 1
 		['brand'] = 'Mercedes',
@@ -8805,6 +8805,17 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `gladiator`,
+		['shop'] = 'lsmotors',
+	},
+    -- EJ Ranells
+    ['conceptr'] = {
+		['name'] = 'Bronco R Concept', -- EJ 1
+		['brand'] = 'Ford',
+		['model'] = 'conceptr',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `conceptr`,
 		['shop'] = 'lsmotors',
 	},
 	-- Contest Winners
