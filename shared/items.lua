@@ -1499,3 +1499,5 @@ QBShared.Items = {
 	["clothingbag"]   				= {["name"] = "clothingbag", 		["label"] = "Clothing Bag", 	["weight"] = 150, 		["type"] = "item", 		["image"] = "clothing_bag.png", 			["unique"] = false,   	["useable"] = true,    ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Clothing Bag"},
 
 }
+
+
