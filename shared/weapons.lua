@@ -179,5 +179,7 @@ QBShared.Weapons = {
 	[`weapon_remington`] 	 = {['name'] = 'weapon_remington', 	['label'] = 'Remington 870', 		['ammotype'] = 'AMMO_SHOTGUN',	['damagereason'] = 'Devastated / Pulverized / Shotgunned'},
 	[`weapon_scarh`] 		 = {['name'] = 'weapon_scarh', 		['label'] = 'PD SCAR-H', 			['ammotype'] = 'AMMO_RIFLE',	['damagereason'] = 'Ended / Rifled / Shot down / Floored'},
 	[`weapon_mk14`] 		 = {['name'] = 'weapon_mk14', 	 	['label'] = 'PD MK14', 				['ammotype'] = 'AMMO_SNIPER',	['damagereason'] = 'Ended / Sniped / Shot down / Floored'},
+	-- nx-taser
+	[`weapon_taser`]                 = {['name'] = 'weapon_taser',             ['label'] = 'PD Taser',                 ['ammotype'] = 'AMMO_STUNGUN',           ['damagereason'] = 'Tased'},
 
 }
