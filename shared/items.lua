@@ -1494,6 +1494,7 @@ QBShared.Items = {
 	['cyberbarmenu'] 				= {['name'] = 'cyberbarmenu', 				['label'] = 'Cyber Bar Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Cyberbar Menu!'},
 	['vanillamenu'] 				= {['name'] = 'vanillamenu', 			    ['label'] = 'Vanilla Unicorn Menu', 	['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Vanilla Unicorn Menu!'},
 	['beanmachinemenu'] 			= {['name'] = 'beanmachinemenu', 			['label'] = 'Bean Machine Menu', 		['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Bean Machine Menu!'},
+	['limeysmenu'] 					= {['name'] = 'limeysmenu', 				['label'] = 'Limeys Menu', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Limeys Menu!'},
 
 	--[[qb-clothingbag]]
 	["clothingbag"]   				= {["name"] = "clothingbag", 		["label"] = "Clothing Bag", 	["weight"] = 150, 		["type"] = "item", 		["image"] = "clothing_bag.png", 			["unique"] = false,   	["useable"] = true,    ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Clothing Bag"},
@@ -1503,6 +1504,5 @@ QBShared.Items = {
 	['weapon_taser']                 = {['name'] = 'weapon_taser',                  ['label'] = 'PD Taser',                 ['weight'] = 1000,      ['type'] = 'weapon',    ['ammotype'] = 'AMMO_STUNGUN',           ['image'] = 'weapon_stungun.png',               ['unique'] = true,       ['useable'] = false,     ['description'] = 'A PD issued Taser'},
 
 }
-
 
 
