@@ -1495,14 +1495,24 @@ QBShared.Items = {
 	['vanillamenu'] 				= {['name'] = 'vanillamenu', 			    ['label'] = 'Vanilla Unicorn Menu', 	['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Vanilla Unicorn Menu!'},
 	['beanmachinemenu'] 			= {['name'] = 'beanmachinemenu', 			['label'] = 'Bean Machine Menu', 		['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Bean Machine Menu!'},
 	['limeysmenu'] 					= {['name'] = 'limeysmenu', 				['label'] = 'Limeys Menu', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Limeys Menu!'},
+	['popsmenu'] 					= {['name'] = 'popsmenu', 					['label'] = 'Pops Diner Menu', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'menu.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   		['combinable'] = nil,   ['description'] = 'Pops Diner Menu!'},
 
 	--[[qb-clothingbag]]
-	["clothingbag"]   				= {["name"] = "clothingbag", 		["label"] = "Clothing Bag", 	["weight"] = 150, 		["type"] = "item", 		["image"] = "clothing_bag.png", 			["unique"] = false,   	["useable"] = true,    ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Clothing Bag"},
+	["clothingbag"]   				= {["name"] = "clothingbag", 				["label"] = "Clothing Bag", 			["weight"] = 150, 		["type"] = "item", 		["image"] = "clothing_bag.png",	 ["unique"] = false,   	["useable"] = true,    ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Clothing Bag"},
 
 	--nx-taser
-	['stungun_ammo']                 = {['name'] = 'stungun_ammo',                  ['label'] = 'Taser2x Cartridge',        ['weight'] = 200,       ['type'] = 'item',      ['image'] = 'taserammo.png',             ['unique'] = false,     ['useable'] = true,     ['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = 'cartridge for the Taser'},
-	['weapon_taser']                 = {['name'] = 'weapon_taser',                  ['label'] = 'PD Taser',                 ['weight'] = 1000,      ['type'] = 'weapon',    ['ammotype'] = 'AMMO_STUNGUN',           ['image'] = 'weapon_stungun.png',               ['unique'] = true,       ['useable'] = false,     ['description'] = 'A PD issued Taser'},
+	['stungun_ammo']                 = {['name'] = 'stungun_ammo',              ['label'] = 'Taser2x Cartridge',        ['weight'] = 200,       ['type'] = 'item',      ['image'] = 'taserammo.png',     ['unique'] = false,     ['useable'] = true,     ['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = 'cartridge for the Taser'},
+	['weapon_taser']                 = {['name'] = 'weapon_taser',              ['label'] = 'PD Taser',                 ['weight'] = 1000,      ['type'] = 'weapon',    ['ammotype'] = 'AMMO_STUNGUN',   ['image'] = 'weapon_stungun.png',               ['unique'] = true,       ['useable'] = false,     ['description'] = 'A PD issued Taser'},
+
+	-- qb-policejob
+	["policetablet"] 				 = { ["name"] = "policetablet", 			["label"] = "Police Tablet", 			["weight"] = 5000, 		["type"] = "item", 		["image"] = "policetablet.png", ["unique"] = true, ['useable'] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "A mobile fingerprint tablet." },
+
+	-- m-insurance
+	["insurance"]                 	 = {["name"] = "insurance",                 ["label"] = "Car Insurance",            ["weight"] = 150,       ["type"] = "item",      ["image"] = "insurance.png",          ["unique"] = true,      ["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = "Car Insurance"},
+    ["car_registration"]        	 = {["name"] = "car_registration",          ["label"] = "Car Registration",         ["weight"] = 150,       ["type"] = "item",      ["image"] = "car_registration.png",   ["unique"] = true,      ["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = "Car Registration"},
+    ["health_insurance"]        	 = {["name"] = "health_insurance",          ["label"] = "Health Insurance",         ["weight"] = 150,       ["type"] = "item",      ["image"] = "health_insurance.png",   ["unique"] = true,      ["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = "Health Insurance"},
+
+	-- qb-wallet
+	["handy_wallet"] 			 = {["name"] = "handy_wallet", 			["label"] = "Handy Wallet", 		["weight"] = 500, 		["type"] = "item", 		["image"] = "wallet.png", 			["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Handy Wallet)"},
 
 }
-
-
