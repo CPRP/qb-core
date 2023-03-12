@@ -15,8 +15,159 @@ QBShared.Jobs = {
             },
         },
 	},
+    -- ['police'] = {
+	-- 	label = 'Law Enforcement',
+    --     type = "leo",
+	-- 	defaultDuty = true,
+	-- 	offDutyPay = false,
+	-- 	grades = {
+    --         ['0'] = { -- Los Santos Police Department (LSPD)
+    --             name = 'LSPD Probationary Officer',
+    --             payment = 125
+    --         },
+	-- 		['1'] = {
+    --             name = 'LSPD Officer',
+    --             payment = 125
+    --         },
+    --         ['2'] = {
+    --             name = 'LSPD Senior Officer',
+    --             payment = 150
+    --         },
+    --         ['3'] = {
+    --             name = 'LSPD Corporal',
+    --             payment = 150
+    --         },
+	-- 		['4'] = {
+    --             name = 'LSPD Sergeant',
+    --             payment = 175
+    --         },
+	-- 		['5'] = {
+    --             name = 'LSPD Lieutenant',
+    --             payment = 175
+    --         },
+    --         ['6'] = {
+    --             name = 'LSPD Captain',
+    --             payment = 200
+    --         },
+    --         ['7'] = {
+    --             name = 'LSPD Major',
+    --             payment = 200
+    --         },
+    --         ['8'] = {
+    --             name = 'LSPD Deputy Chief',
+    --             isboss = true,
+    --             payment = 250
+    --         },
+	-- 		['9'] = {
+    --             name = 'LSPD Chief',
+	-- 			isboss = true,
+    --             payment = 250
+    --         },
+    --         ['10'] = { -- Blaine County Sheriffs Office (BCSO)
+    --             name = 'BCSO Probationary Deputy',
+    --             payment = 125
+    --         },
+	-- 		['11'] = {
+    --             name = 'BCSO Deputy',
+    --             payment = 125
+    --         },
+    --         ['12'] = {
+    --             name = 'BCSO Sen. Deputy',
+    --             payment = 150
+    --         },
+	-- 		['13'] = {
+    --             name = 'BCSO Corporal',
+    --             payment = 150
+    --         },
+	-- 		['14'] = {
+    --             name = 'BCSO Sergeant',
+    --             payment = 175
+    --         },
+	-- 		['15'] = {
+    --             name = 'BCSO Lieutenant',
+    --             payment = 175
+    --         },
+    --         ['16'] = {
+    --             name = 'BCSO Captain',
+    --             payment = 200
+    --         },
+    --         ['17'] = {
+    --             name = 'BCSO Major',
+    --             payment = 200
+    --         },
+    --         ['18'] = {
+    --             name = 'BCSO Under Sheriff',
+    --             isboss = true,
+    --             payment = 250
+    --         },
+    --         ['19'] = {
+    --             name = 'BCSO Sheriff',
+	-- 			isboss = true,
+    --             payment = 250
+    --         },
+    --         ['20'] = { --San Andreas State Police (SASP)
+    --             name = 'SASP Probationary Officer',
+    --             payment = 125
+    --         },
+	-- 		['21'] = {
+    --             name = 'SASP Trooper',
+    --             payment = 125
+    --         },
+    --         ['22'] = {
+    --             name = 'SASP Senior Trooper',
+    --             payment = 150
+    --         },
+    --         ['23'] = {
+    --             name = 'SASP Corporal',
+    --             payment = 150
+    --         },
+	-- 		['24'] = {
+    --             name = 'SASP Sergeant',
+    --             payment = 175
+    --         },
+	-- 		['25'] = {
+    --             name = 'SASP Lieutenant',
+    --             payment = 175
+    --         },
+    --         ['26'] = {
+    --             name = 'SASP Captain',
+    --             payment = 200
+    --         },
+    --         ['27'] = {
+    --             name = 'SASP Major',
+    --             payment = 200
+    --         },
+    --         ['28'] = {
+    --             name = 'SASP Assistant Superintendent',
+    --             isboss = true,
+    --             payment = 250
+    --         },
+	-- 		['29'] = {
+    --             name = 'SASP Superintendent',
+	-- 			isboss = true,
+    --             payment = 250
+    --         },
+    --         ['30'] = { -- Park Rangers
+    --             name = 'Probationary Ranger',
+    --             payment = 150
+    --         },
+    --         ['31'] = {
+    --             name = 'Ranger',
+    --             payment = 175
+    --         },
+    --         ['32'] = {
+    --             name = 'SAR Asst. Game Warden',
+    --             payment = 200
+    --         },
+    --         ['33'] = {
+    --             name = 'Game Warden',
+    --             isboss = true,
+    --             payment = 250
+    --         },
+    --     },
+	-- },
 	['police'] = {
-		label = 'Law Enforcement',
+		label = 'Los Santos Police Department',
         type = "leo",
 		defaultDuty = true,
 		offDutyPay = false,
@@ -63,103 +214,127 @@ QBShared.Jobs = {
 				isboss = true,
                 payment = 250
             },
-            ['10'] = { -- Blaine County Sheriffs Office (BCSO)
+        },
+	},
+    ['bcso'] = {
+		label = 'Blaine County Sheriffs Office',
+        type = "leo",
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = { -- Blaine County Sheriffs Office (BCSO)
                 name = 'BCSO Probationary Deputy',
                 payment = 125
             },
-			['11'] = {
+			['1'] = {
                 name = 'BCSO Deputy',
                 payment = 125
             },
-            ['12'] = {
+            ['2'] = {
                 name = 'BCSO Sen. Deputy',
                 payment = 150
             },
-			['13'] = {
+			['3'] = {
                 name = 'BCSO Corporal',
                 payment = 150
             },
-			['14'] = {
+			['4'] = {
                 name = 'BCSO Sergeant',
                 payment = 175
             },
-			['15'] = {
+			['5'] = {
                 name = 'BCSO Lieutenant',
                 payment = 175
             },
-            ['16'] = {
+            ['6'] = {
                 name = 'BCSO Captain',
                 payment = 200
             },
-            ['17'] = {
+            ['7'] = {
                 name = 'BCSO Major',
                 payment = 200
             },
-            ['18'] = {
+            ['8'] = {
                 name = 'BCSO Under Sheriff',
                 isboss = true,
                 payment = 250
             },
-            ['19'] = {
+            ['9'] = {
                 name = 'BCSO Sheriff',
 				isboss = true,
                 payment = 250
             },
-            ['20'] = { --San Andreas State Police (SASP)
+        },
+	},
+    ['sasp'] = {
+		label = 'San Andreas State Police',
+        type = "leo",
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = { --San Andreas State Police (SASP)
                 name = 'SASP Probationary Officer',
                 payment = 125
             },
-			['21'] = {
+			['1'] = {
                 name = 'SASP Trooper',
                 payment = 125
             },
-            ['22'] = {
+            ['2'] = {
                 name = 'SASP Senior Trooper',
                 payment = 150
             },
-            ['23'] = {
+            ['3'] = {
                 name = 'SASP Corporal',
                 payment = 150
             },
-			['24'] = {
+			['4'] = {
                 name = 'SASP Sergeant',
                 payment = 175
             },
-			['25'] = {
+			['5'] = {
                 name = 'SASP Lieutenant',
                 payment = 175
             },
-            ['26'] = {
+            ['6'] = {
                 name = 'SASP Captain',
                 payment = 200
             },
-            ['27'] = {
+            ['7'] = {
                 name = 'SASP Major',
                 payment = 200
             },
-            ['28'] = {
+            ['8'] = {
                 name = 'SASP Assistant Superintendent',
                 isboss = true,
                 payment = 250
             },
-			['29'] = {
+			['9'] = {
                 name = 'SASP Superintendent',
 				isboss = true,
                 payment = 250
             },
-            ['30'] = { -- Park Rangers
+        },
+	},
+    ['sapr'] = {
+		label = 'San Andreas Park Ranger',
+        type = "leo",
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = { -- Park Rangers
                 name = 'Probationary Ranger',
                 payment = 150
             },
-            ['31'] = {
+            ['1'] = {
                 name = 'Ranger',
                 payment = 175
             },
-            ['32'] = {
+            ['2'] = {
                 name = 'SAR Asst. Game Warden',
                 payment = 200
             },
-            ['33'] = {
+            ['3'] = {
                 name = 'Game Warden',
                 isboss = true,
                 payment = 250
@@ -732,6 +907,17 @@ QBShared.Jobs = {
 	},
     ['limeys'] = {
 		label = 'Limeys',
+		defaultDuty = false,
+		grades = {
+            ['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Novice', payment = 75 },
+			['2'] = { name = 'Experienced', payment = 100 },
+			['3'] = { name = 'Manager', payment = 125 },
+			['4'] = { name = 'Owner', isboss = true, payment = 150 },
+        },
+	},
+    ['insurance'] = {
+		label = 'Life Invader insurance',
 		defaultDuty = false,
 		grades = {
             ['0'] = { name = 'Recruit', payment = 50 },
