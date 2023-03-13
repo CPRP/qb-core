@@ -1500,7 +1500,7 @@ QBShared.Items = {
 	--[[qb-clothingbag]]
 	["clothingbag"]   				= {["name"] = "clothingbag", 				["label"] = "Clothing Bag", 			["weight"] = 150, 		["type"] = "item", 		["image"] = "clothing_bag.png",	 ["unique"] = false,   	["useable"] = true,    ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Clothing Bag"},
 
-	--nx-taser
+	-- nx-taser
 	['stungun_ammo']                 = {['name'] = 'stungun_ammo',              ['label'] = 'Taser2x Cartridge',        ['weight'] = 200,       ['type'] = 'item',      ['image'] = 'taserammo.png',     ['unique'] = false,     ['useable'] = true,     ['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = 'cartridge for the Taser'},
 	['weapon_taser']                 = {['name'] = 'weapon_taser',              ['label'] = 'PD Taser',                 ['weight'] = 1000,      ['type'] = 'weapon',    ['ammotype'] = 'AMMO_STUNGUN',   ['image'] = 'weapon_stungun.png',               ['unique'] = true,       ['useable'] = false,     ['description'] = 'A PD issued Taser'},
 
