@@ -6648,6 +6648,16 @@ QBShared.Vehicles = {
         ['hash'] = `300cHellcat`,
         ['shop'] = 'lsmotors',
     },
+    ['x3gemwb'] = {
+        ['name'] = 'Gemera Widebody', -- Coltron 11
+        ['brand'] = 'Koenigsegg',
+        ['model'] = 'x3gemwb',
+        ['price'] = 10,
+        ['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+        ['hash'] = `x3gemwb`,
+        ['shop'] = 'lsmotors',
+    },
         -- Ellie
     ['brz13'] = {
         ['name'] = 'BRZ', -- Ellie 1
@@ -7055,6 +7065,16 @@ QBShared.Vehicles = {
 		['hash'] = `rollsmafia`,
 		['shop'] = 'lsmotors',
 	},
+    ['19tacdrift'] = {
+		['name'] = '2019 Tacoma', -- Ben 9
+		['brand'] = 'Toyota',
+		['model'] = '19tacdrift',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `19tacdrift`,
+		['shop'] = 'lsmotors',
+	},
 	-- David Cole
 	['gle'] = {
 		['name'] = 'GLE', -- David 1
@@ -7211,6 +7231,16 @@ QBShared.Vehicles = {
 		['hash'] = `chrcst`,
 		['shop'] = 'lsmotors',
 	},
+    ['812nlargo'] = {
+		['name'] = '812 N-Largo', -- Irwin 6
+		['brand'] = 'Ferrari',
+		['model'] = '812nlargo',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `812nlargo`,
+		['shop'] = 'lsmotors',
+	},
 	-- Fuzzy
 	['gtz34'] = {
 		['name'] = 'Skyline R34', -- Fuzzy 1
@@ -7345,6 +7375,16 @@ QBShared.Vehicles = {
 		['hash'] = `gtrh`,
 		['shop'] = 'lsmotors',
 	},
+    ['mbbs20'] = {
+		['name'] = '2020 AMG GT Black Series', -- Zak 7
+		['brand'] = 'Mercedes',
+		['model'] = 'mbbs20',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `mbbs20`,
+		['shop'] = 'lsmotors',
+	},
 	-- Jack Wood
 	['180326'] = {
 		['name'] = '180sx 2JZ', -- Wood 1
@@ -7458,7 +7498,17 @@ QBShared.Vehicles = {
 		['hash'] = `610dtm`,
 		['shop'] = 'lsmotors',
 	},
-	-- Dylan Bev
+    ['bdragon'] = {
+		['name'] = 'Continental GT Dragon', -- Brian 5
+		['brand'] = 'Bentley',
+		['model'] = 'bdragon',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `bdragon`,
+		['shop'] = 'lsmotors',
+	},
+	-- Dylan Bev 
 	['3500sd'] = {
 		['name'] = 'Yellowstone Flatbed 3500', -- Dylan 1
 		['brand'] = 'Dodge',
@@ -7551,6 +7601,28 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `conceptr`,
+		['shop'] = 'lsmotors',
+	},
+    -- Whice Cube
+    ['monza'] = {
+		['name'] = '2019 Monza SP2', -- Whice 1
+		['brand'] = 'Ferrari',
+		['model'] = 'monza',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `monza`,
+		['shop'] = 'lsmotors',
+	},
+    -- Hiram Abiff
+    ['malibu'] = {
+		['name'] = 'Malibu 1978', -- Hiram 1
+		['brand'] = 'Chevrolet',
+		['model'] = 'malibu',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `malibu`,
 		['shop'] = 'lsmotors',
 	},
 	-- Contest Winners
