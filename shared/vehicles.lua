@@ -1,5 +1,4 @@
 QBShared = QBShared or {}
-QBShared.VehicleHashes = {}
 
 QBShared.Vehicles = {
     -- PDM (GTA VEHICLES)
@@ -8985,7 +8984,3 @@ QBShared.Vehicles = {
 		['shop'] = 'island',
 	},
 }
-
-for _, v in pairs(QBShared.Vehicles) do
-	QBShared.VehicleHashes[v.hash] = v
-end
