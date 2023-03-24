@@ -6647,14 +6647,14 @@ QBShared.Vehicles = {
         ['hash'] = `300cHellcat`,
         ['shop'] = 'lsmotors',
     },
-    ['x3gemwb'] = {
-        ['name'] = 'Gemera Widebody', -- Coltron 11
-        ['brand'] = 'Koenigsegg',
-        ['model'] = 'x3gemwb',
+    ['bcbuggyxl'] = {
+        ['name'] = 'BcBuggy', -- Coltron 11
+        ['brand'] = 'Buggy',
+        ['model'] = 'bcbuggyxl',
         ['price'] = 10,
         ['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
-        ['hash'] = `x3gemwb`,
+        ['hash'] = `bcbuggyxl`,
         ['shop'] = 'lsmotors',
     },
         -- Ellie
@@ -7582,13 +7582,23 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
     ['gladiator'] = {
-		['name'] = '2020 Gladiator Rubicon', -- DJ 2
+		['name'] = '2020 Gladiator Rubicon', -- DJ 2 
 		['brand'] = 'Jeep',
 		['model'] = 'gladiator',
 		['price'] = 10,
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `gladiator`,
+		['shop'] = 'lsmotors',
+	},
+    ['rrghostbyv'] = {
+		['name'] = 'Ghost Onyx Limosine', -- DJ 3
+		['brand'] = 'Rolls Royce',
+		['model'] = 'rrghostbyv',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `rrghostbyv`,
 		['shop'] = 'lsmotors',
 	},
     -- EJ Ranells
