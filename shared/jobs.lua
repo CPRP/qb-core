@@ -798,17 +798,6 @@ QBShared.Jobs = {
 			['4'] = { name = 'Owner', isboss = true, payment = 150 },
         },
 	},
-    ['upnatom'] = {
-		label = 'Up-N-Atom',
-		defaultDuty = true,
-		grades = {
-            ['0'] = { name = 'Recruit', payment = 50 },
-			['1'] = { name = 'Novice', payment = 75 },
-			['2'] = { name = 'Experienced', payment = 100 },
-			['3'] = { name = 'Manager', payment = 125 },
-			['4'] = { name = 'Owner', isboss = true, payment = 150 },
-        },
-	},
     ['cityhall'] = {
         label = 'CityHall',
         defaultDuty = true,
@@ -920,6 +909,28 @@ QBShared.Jobs = {
     ['insurance'] = {
 		label = 'Life Invader insurance',
 		defaultDuty = false,
+		grades = {
+            ['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Novice', payment = 75 },
+			['2'] = { name = 'Experienced', payment = 100 },
+			['3'] = { name = 'Manager', payment = 125 },
+			['4'] = { name = 'Owner', isboss = true, payment = 150 },
+        },
+	},
+	['upnatom'] = {
+		label = 'Up n Atom',
+		defaultDuty = true,
+		grades = {
+            ['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Novice', payment = 75 },
+			['2'] = { name = 'Experienced', payment = 100 },
+			['3'] = { name = 'Manager', payment = 125 },
+			['4'] = { name = 'Owner', isboss = true, payment = 150 },
+        },
+	},
+	['hornys'] = {
+		label = 'Hornys',
+		defaultDuty = true,
 		grades = {
             ['0'] = { name = 'Recruit', payment = 50 },
 			['1'] = { name = 'Novice', payment = 75 },
