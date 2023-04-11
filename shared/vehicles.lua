@@ -6738,6 +6738,16 @@ QBShared.Vehicles = {
 		['hash'] = `m5e60`,
 		['shop'] = 'lsmotors',
 	},
+    ['ftype'] = {
+		['name'] = 'F-Type R', -- Ellie 9
+		['brand'] = 'Jaguar',
+		['model'] = 'ftype',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `ftype`,
+		['shop'] = 'lsmotors',
+	},
 	-- Brandin Martinez
 	-- ['gtrnismo17'] = {
 	-- 	['name'] = 'GTR 35 Nismo (Brandin 1)',
@@ -6919,6 +6929,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `sou_trx`,
+		['shop'] = 'lsmotors',
+	},
+    ['drehycadeviper'] = {
+		['name'] = 'Viper SRT MONSTER', -- Jesse 7
+		['brand'] = 'Dodge',
+		['model'] = 'drehycadeviper',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `drehycadeviper`,
 		['shop'] = 'lsmotors',
 	},
 	-- Earl Johnson
