@@ -5993,7 +5993,7 @@ QBShared.Vehicles = {
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `silvias15`,
-        ['shop'] = 'lsmotors',
+        ['shop'] = 'bigdealer',
     },
     ['rx7rb'] = {
         ['name'] = 'RX7',
@@ -6063,7 +6063,7 @@ QBShared.Vehicles = {
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = `chrisv`,
-        ['shop'] = 'lsmotors',
+        ['shop'] = 'bigdealer',
     },
     ['kiagt'] = {
         ['name'] = 'Stinger',
@@ -6403,7 +6403,7 @@ QBShared.Vehicles = {
         ['category'] = 'lexus',
         ['categoryLabel'] = 'Lexus',
         ['hash'] = `lc500`,
-        ['shop'] = 'lsmotors',
+        ['shop'] = 'bigdealer',
     },
     -- ['Hycade'] = {
     --     ['name'] = 'Urus Hycade',
@@ -6443,7 +6443,7 @@ QBShared.Vehicles = {
         ['category'] = 'porsche',
         ['categoryLabel'] = 'Porsche',
         ['hash'] = `911sc`,
-        ['shop'] = 'lsmotors',
+        ['shop'] = 'bigdealer',
     },
     ['corvettec5z06'] = {
         ['name'] = 'Corvette C5 Z06',
@@ -6453,7 +6453,7 @@ QBShared.Vehicles = {
         ['category'] = 'chevy',
         ['categoryLabel'] = 'Chevy',
         ['hash'] = `corvettec5z06`,
-        ['shop'] = 'lsmotors',
+        ['shop'] = 'bigdealer',
     },
     ['458spc'] = {
         ['name'] = '458',
@@ -6881,6 +6881,26 @@ QBShared.Vehicles = {
 		['hash'] = `huayrabc19`,
 		['shop'] = 'lsmotors',
 	},
+    ['strad6x6'] = {
+		['name'] = 'Gladiator 6x6', -- Andrew 9
+		['brand'] = 'Jeep',
+		['model'] = 'strad6x6',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `strad6x6`,
+		['shop'] = 'lsmotors',
+	},
+    ['x3f522'] = {
+		['name'] = '2022 Venom F5', -- Andrew 10
+		['brand'] = 'Hennessey',
+		['model'] = 'x3f522',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `x3f522`,
+		['shop'] = 'lsmotors',
+	},
 	-- Jesse Hill
 	['rx7v'] = {
 		['name'] = 'RX7 Veilside', -- Jesse 1
@@ -6922,16 +6942,16 @@ QBShared.Vehicles = {
 		['hash'] = `c8z0623`,
 		['shop'] = 'lsmotors',
 	},
-	-- ['zondacinque'] = {
-	-- 	['name'] = '2009 Zonda Cinque', -- Jesse 5
-	-- 	['brand'] = 'Pagani',
-	-- 	['model'] = 'zondacinque',
-	-- 	['price'] = 10,
-	-- 	['category'] = 'oneofone',
-    --     ['categoryLabel'] = 'OneofOne',
-	-- 	['hash'] = `zondacinque`,
-	-- 	['shop'] = 'lsmotors',
-	-- },
+	['zondacinque'] = {
+		['name'] = '2009 Zonda Cinque', -- Jesse 5
+		['brand'] = 'Pagani',
+		['model'] = 'zondacinque',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `zondacinque`,
+		['shop'] = 'lsmotors',
+	},
     ['sou_trx'] = {
 		['name'] = 'Ram TRX WideBody Low', -- Jesse 6
 		['brand'] = 'Dodge',
@@ -7093,6 +7113,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `19tacdrift`,
+		['shop'] = 'lsmotors',
+	},
+    ['z4alchemist'] = {
+		['name'] = 'Z4 Alchemist', -- Ben 10
+		['brand'] = 'BMW',
+		['model'] = 'z4alchemist',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `z4alchemist`,
 		['shop'] = 'lsmotors',
 	},
 	-- David Cole
@@ -7632,6 +7662,16 @@ QBShared.Vehicles = {
 		['hash'] = `rrghostbyv`,
 		['shop'] = 'lsmotors',
 	},
+    ['2022kiak5gt'] = {
+		['name'] = 'K5 GT', -- DJ 4
+		['brand'] = 'Kia',
+		['model'] = '2022kiak5gt',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `2022kiak5gt`,
+		['shop'] = 'lsmotors',
+	},
     -- EJ Ranells
     ['conceptr'] = {
 		['name'] = 'Bronco R Concept', -- EJ 1
@@ -7654,6 +7694,16 @@ QBShared.Vehicles = {
 		['hash'] = `monza`,
 		['shop'] = 'lsmotors',
 	},
+    ['f350punisher'] = {
+		['name'] = 'F350 Punisher', -- Whice 2
+		['brand'] = 'Ford',
+		['model'] = 'f350punisher',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `f350punisher`,
+		['shop'] = 'lsmotors',
+	},
     -- Hiram Abiff
     ['malibu'] = {
 		['name'] = 'Malibu 1978', -- Hiram 1
@@ -7663,6 +7713,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `malibu`,
+		['shop'] = 'lsmotors',
+	},
+    ['Savana'] = {
+		['name'] = '2013 Savana', -- Hiram 2
+		['brand'] = 'GMC',
+		['model'] = 'Savana',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `Savana`,
 		['shop'] = 'lsmotors',
 	},
 	-- Contest Winners
