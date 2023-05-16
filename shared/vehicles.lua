@@ -6759,6 +6759,16 @@ QBShared.Vehicles = {
 		['hash'] = `ftype`,
 		['shop'] = 'lsmotors',
 	},
+    ['MercedesBenzGSeries'] = {
+		['name'] = 'Proto G Series Donk', -- Ellie 10
+		['brand'] = 'Mercedes',
+		['model'] = 'MercedesBenzGSeries',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `MercedesBenzGSeries`,
+		['shop'] = 'lsmotors',
+	},
 	-- Brandin Martinez
 	-- ['gtrnismo17'] = {
 	-- 	['name'] = 'GTR 35 Nismo (Brandin 1)',
@@ -6970,6 +6980,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `drehycadeviper`,
+		['shop'] = 'lsmotors',
+	},
+    ['f450lscV2'] = {
+		['name'] = 'Lifted F-450 Dually', -- Jesse 8
+		['brand'] = 'Ford',
+		['model'] = 'f450lscV2',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `f450lscV2`,
 		['shop'] = 'lsmotors',
 	},
 	-- Earl Johnson
@@ -7443,6 +7463,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `mbbs20`,
+		['shop'] = 'lsmotors',
+	},
+    ['tc63s'] = {
+		['name'] = 'GT63s', -- Zak 8
+		['brand'] = 'Mercedes',
+		['model'] = 'tc63s',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `tc63s`,
 		['shop'] = 'lsmotors',
 	},
 	-- Jack Wood
