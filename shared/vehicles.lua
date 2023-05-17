@@ -6817,6 +6817,16 @@ QBShared.Vehicles = {
         ['hash'] = `BOATMOBILE`,
         ['shop'] = 'lsmotors',
     },
+    ['918'] = {
+        ['name'] = '918 Spyder', -- Coltron 13
+        ['brand'] = 'Porsche',
+        ['model'] = '918',
+        ['price'] = 10,
+        ['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+        ['hash'] = `918`,
+        ['shop'] = 'lsmotors',
+    },
     -- Ellie
     ['brz13'] = {
         ['name'] = 'BRZ', -- Ellie 1
@@ -7470,6 +7480,16 @@ QBShared.Vehicles = {
 		['hash'] = `c8sh`,
 		['shop'] = 'lsmotors',
 	},
+    ['puipui'] = {
+		['name'] = 'Guinea Pig Cart', -- Irwin 8
+		['brand'] = 'Guinea',
+		['model'] = 'puipui',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `puipui`,
+		['shop'] = 'lsmotors',
+	},
 	-- Fuzzy
 	-- ['gtz34'] = {
 	-- 	['name'] = 'Skyline R34', -- Fuzzy 1
@@ -7881,6 +7901,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `f350punisher`,
+		['shop'] = 'lsmotors',
+	},
+    ['dmons'] = {
+		['name'] = 'Monster 1200S v1.1', -- Whice 3
+		['brand'] = 'Ducati',
+		['model'] = 'dmons',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `dmons`,
 		['shop'] = 'lsmotors',
 	},
     -- Hiram Abiff
