@@ -6827,6 +6827,16 @@ QBShared.Vehicles = {
         ['hash'] = `918`,
         ['shop'] = 'lsmotors',
     },
+    ['gemera'] = {
+        ['name'] = '2021 Gemera', -- Coltron 13
+        ['brand'] = 'Koenigsegg',
+        ['model'] = 'gemera',
+        ['price'] = 10,
+        ['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+        ['hash'] = `gemera`,
+        ['shop'] = 'lsmotors',
+    },
     -- Ellie
     ['brz13'] = {
         ['name'] = 'BRZ', -- Ellie 1
@@ -7334,6 +7344,16 @@ QBShared.Vehicles = {
 		['hash'] = `bmwmafiam3`,
 		['shop'] = 'lsmotors',
 	},
+    ['4rune'] = {
+		['name'] = '4Runner', -- Ben 12
+		['brand'] = 'Toyota',
+		['model'] = '4rune',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `4rune`,
+		['shop'] = 'lsmotors',
+	},
 	-- David Cole
 	-- ['gle'] = {
 	-- 	['name'] = 'GLE', -- David 1
@@ -7518,6 +7538,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `puipui`,
+		['shop'] = 'lsmotors',
+	},
+    ['765ltmso'] = {
+		['name'] = '765LT RGB Lights', -- Irwin 9
+		['brand'] = 'Mcalren',
+		['model'] = '765ltmso',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `765ltmso`,
 		['shop'] = 'lsmotors',
 	},
 	-- Fuzzy
@@ -7932,13 +7962,23 @@ QBShared.Vehicles = {
 		['shop'] = 'lsmotors',
 	},
     ['rs318'] = {
-		['name'] = '2018 RS3 Sportback', -- DJ 4
+		['name'] = '2018 RS3 Sportback', -- DJ 5
 		['brand'] = 'Audi',
 		['model'] = 'rs318',
 		['price'] = 10,
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `rs318`,
+		['shop'] = 'lsmotors',
+	},
+    ['freeboghoulffre'] = {
+		['name'] = '2021 Challenger SRT Ghoul', -- DJ 6
+		['brand'] = 'Dodge',
+		['model'] = 'freeboghoulffre',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `freeboghoulffre`,
 		['shop'] = 'lsmotors',
 	},
     -- EJ Ranells
@@ -7952,7 +7992,7 @@ QBShared.Vehicles = {
 		['hash'] = `conceptr`,
 		['shop'] = 'lsmotors',
 	},
-    -- Whice Cube
+    -- Whice Cube 
     ['monza'] = {
 		['name'] = '2019 Monza SP2', -- Whice 1 NO DATA
 		['brand'] = 'Ferrari',
@@ -7981,6 +8021,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `dmons`,
+		['shop'] = 'lsmotors',
+	},
+    ['ApertaDRCustoM'] = {
+		['name'] = 'LaFerrari Widebody', -- Whice 4
+		['brand'] = 'Ferrari',
+		['model'] = 'ApertaDRCustoM',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `ApertaDRCustoM`,
 		['shop'] = 'lsmotors',
 	},
     -- Hiram Abiff
