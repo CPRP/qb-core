@@ -6948,6 +6948,16 @@ QBShared.Vehicles = {
 		['hash'] = `r8prisk`,
 		['shop'] = 'lsmotors',
 	},
+    ['owl330'] = {
+		['name'] = '2023 330i Facelift', -- Ellie 12
+		['brand'] = 'BMW',
+		['model'] = 'owl330',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `owl330`,
+		['shop'] = 'lsmotors',
+	},
 	-- Brandin Martinez
 	-- ['gtrnismo17'] = {
 	-- 	['name'] = 'GTR 35 Nismo (Brandin 1)',
@@ -7179,6 +7189,16 @@ QBShared.Vehicles = {
 		['category'] = 'oneofone',
         ['categoryLabel'] = 'OneofOne',
 		['hash'] = `carsonswbc6`,
+		['shop'] = 'lsmotors',
+	},
+    ['cha68hell'] = {
+		['name'] = '1968 Charger Body Challenger Hellcat', -- Jesse 10
+		['brand'] = 'Dodge',
+		['model'] = 'cha68hell',
+		['price'] = 10,
+		['category'] = 'oneofone',
+        ['categoryLabel'] = 'OneofOne',
+		['hash'] = `cha68hell`,
 		['shop'] = 'lsmotors',
 	},
 	-- Earl Johnson
